@@ -8,6 +8,6 @@ For a period of not less than two years the *Contracted* will perform all duties
 The *Contracted* shall received each of the following benefits while under contract with the Maqamir Trading Company.
 * Monthly salary of 25 gp
 * Private lodgings upon request
-* Weekly ration of 5 measures [True Spirit](./spirits.md) (may save up to 20 maximum)
+* Weekly ration of 5 measures [True Spirit](./spirits.md) (maximum accumulation 25)
 * Bonuses commensurate with involvement with fulfilled contracts
 * A group member’s share of 50% of any *Spoils* acquired in the execution of a contract.
