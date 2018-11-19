@@ -10,4 +10,4 @@ The *Contracted* shall received each of the following benefits while under contr
 * Private lodgings upon request
 * Weekly ration of 5 measures [True Spirit](./spirits.md) (maximum accumulation 25)
 * Bonuses commensurate with involvement in fulfilled contracts
-* A group member’s share of 50% of any *Spoils* acquired in the execution of a contract.
+* A group member’s share of 50% of any *Spoils* acquired during fulfillment of a contract
