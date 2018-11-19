@@ -1,5 +1,7 @@
 # Spirits
 
+[Scarred World](./readme.md) > Spirits
+
 ### True Spirits
 True Spirits is the common name for any alcoholic beverage. Due to the limited quantity of natural ingredients production of True Sprits is extremely expensive. It's not uncommon for liter of watery beer or a shot of the worst liquor to cost several gp.
 
