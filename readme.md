@@ -6,5 +6,5 @@ Players may use any of the races and classes defined in the Player's Handbook (P
 <br><br>
 
 ## Campaign Start
-Characters begin in [Lanstorm, City of Coins](./pages/city-of-coins.md) as a contracted members of the [Maqamir Trading Company](./pages/trading-company.md). Duties vary widely but each character has signed an [employment contract](./pages/contract.md). Players may decide upon any background for their character they wish as long as it encompasses this fact.
+Characters begin in [Lanstorm, City of Coins](./pages/city-of-coins.md) as a contracted members of the [Maqamir Trading Company](./pages/maqamir.md). Duties vary widely but each character has signed an [employment contract](./pages/contract.md). Players may decide upon any background they wish for their character as long as it encompasses this fact.
 <br><br>

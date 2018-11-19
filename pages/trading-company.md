@@ -1,1 +1,0 @@
-# Maqamir Trading Company
