@@ -6,5 +6,5 @@ Players may use any of the races and classes defined in the Player's Handbook (P
 <br><br>
 
 ## Campaign Start
-Characters begin in [Centrix, City of Coins](./city-of-coins.md) as a contracted members of the [Maqamir Trading Company](./maqamir.md). Duties vary widely but each character has signed the [employment contract](./contract.md). Players may decide upon any background they wish for their character as long as it encompasses this fact.
+Characters begin in [Centrix, City of Coins](./city-of-coins.md) as contracted members of the [Maqamir Trading Company](./maqamir.md). Duties vary widely but each character has signed the [employment contract](./contract.md). Players may decide upon any background they wish for their character as long as it encompasses this fact.
 <br><br>
