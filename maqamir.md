@@ -13,5 +13,5 @@ Maqamir has been an independently owned licensed and bonded trading company for 
 ### Employment
 Candidates who wish employment with the Maqamir Trading Company will be screened. If selected a candidate will be asked to sign the initial [employment contract](./contract.md). Upon doing so they become a contracted employee.
 <br><br>
-Sometime before the end of the initial contract the contracted will be asked to sign an extension or will be told their contract has been terminated. Extension contracts will be revealed to the contracted at the time of such offering but they typically include additional duties, incentives and compensations fitting for an experienced contractor.
+Sometime before the end of the initial contract the contracted will be asked to sign an extension or will be told their contract has been terminated. Extension contracts will be revealed to the contracted at the time of such offering but they typically include additional duties, incentives and compensations as would be fitting for an experienced contractor.
 <br><br>
