@@ -32,5 +32,5 @@ All business transactions in Nexus have a base 10% *Tax* applied. All prices lis
 - Merchant-Traders
     - The Theater Company (Sorcerers and Bards)
     - Trade Company like The Black Company
-- Tradesmens Guild
+    - Tradesmens Guild
 - Vampire Paladin
