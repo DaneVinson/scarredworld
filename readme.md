@@ -11,8 +11,13 @@ Characters begin in [Nexus, City of Coins](./city-of-coins.md) as contracted mem
 
 ## Scarred World Index
 * [Nexus, City of Coins](./city-of-coins.md)
+    * [Adjudicators](./adjudicators.md)
+    * [Expulsion](./expulsion.md)
+    * [Magnus Arcanus](./magnus-arcanus.md)
     * [Maqamir Trading Company](./maqamir.md)
         *  [Initial Employment Contract](./contract.md)
+    * [Merchant-Traders](./merchant-traders.md)
     * [Poof](./poof.md)
     * [Prices](./prices.md)
     * [Spirits](./spirits.md)
+* [Pantheon](./pantheon.md)
