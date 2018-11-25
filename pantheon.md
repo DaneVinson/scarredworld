@@ -12,8 +12,13 @@
 ### Seethisat (Male, Neutral Evil)
 * Pain
 * Death
+* Plague
+* Sickness
+* Starvation
 
 ### Jah-Kahn (Male, Neutral)
 * Bravery
 * Combat
 * War
+* Swiftness
+* Determination

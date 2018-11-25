@@ -1,8 +1,8 @@
 # Expulsion
 [Scarred World](./readme.md) > [City of Coins](./city-of-coins.md) > Expulsion
 
-Those who suffer *Expulsion* are taken to furtherest inland outpost, given one weeks ration of [Poof](.poof.md) and this proclimation:
+Those who suffer *Expulsion* from the City of Coins are taken to its furtherest inland outpost, given one weeks ration of [Poof](.poof.md) and the following proclimation:
 
-*When next you are discoverd in the City of Nexus you will be executed.*
+*You are hearby banished from Nexus. If you are found within its juristiction again you will be immediately executed.*
 
 *The Pentacouncil*

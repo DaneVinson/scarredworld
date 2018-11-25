@@ -14,6 +14,7 @@ Characters begin in [Nexus, City of Coins](./city-of-coins.md) as contracted mem
     * [Adjudicators](./adjudicators.md)
     * [Expulsion](./expulsion.md)
     * [Magnus Arcanus](./magnus-arcanus.md)
+    * [Map](./city-of-coins-map.png)
     * [Maqamir Trading Company](./maqamir.md)
         *  [Initial Employment Contract](./contract.md)
     * [Merchant-Traders](./merchant-traders.md)
