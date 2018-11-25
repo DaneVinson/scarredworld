@@ -1,6 +1,6 @@
 # Nexus, City of Coins
 
-[Scarred World](./readme.md) > City of Coins
+[Scarred World](./scarred-world.md) > City of Coins
 
 Nexus a is port city with a population of aproximately 200K. Commonly called the City of Coins its culture and politics are almost completely dominated by trade and commerce. Nexus is located between its two primary trading partners, the cities of [Spire]() and [Karrgerra](). Its chief exports are the [Poof](./poof.md) created by the feeders, wonderous items created by the [Wizards Guild]() and all manner of exceptional inert items created by the [Tradesman's Guild]().
 

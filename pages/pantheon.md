@@ -1,5 +1,5 @@
 # Scarred World Pantheon
-[Scarred World](./readme.md) > Pantheon
+[Scarred World](./scarred-world.md) > Pantheon
 
 ### Raya, (Female, Lawful Good)
 * Life

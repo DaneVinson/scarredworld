@@ -1,6 +1,6 @@
 # Maqamir Trading Company
 
-[Scarred World](./readme.md) > [City of Coins](./city-of-coins.md) > Maqamir Trading Company
+[Scarred World](./scarred-world.md) > [City of Coins](./city-of-coins.md) > Maqamir Trading Company
 
 ### Company Description
 Maqamir has been an independently owned licensed and bonded trading company for almost three centuries. Small by most standards, it's prospered by accepting contracts no others would. Maqamir specializes in high-risk high-reward investment contracts and it has a reputation for completing them successfully with greater frequency than would be expected. Maqamir accepts most types of contracts as long as they exhibit a desired risk/reward ratio. Exmaples might include:
