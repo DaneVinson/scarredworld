@@ -5,17 +5,17 @@ When the cataclysm occured most of the gods abandoned the Scarred World and the 
 
 ### Raya, (Neutral Good)
 
-Typically appearing as a beautiful human female Raya reigns over the domains of life, love, peace, justice, food, music drink and joy. Her most common sidgil is a white challice on a green background.
+Typically appearing as a beautiful human female Raya reigns over the domains of life, love, peace, justice, food, music drink and joy. Her most common symbol is the golden challice.
 
-![](./chalice.png)
+![](../images/chalice.png)
 
 ### Seethisat (Neutral Evil)
 
-Seethisat takes many forms though most commonly he appears as a dessicated lich-like figure. His domains of influence include pain, death, plague, sickness and starvation. His most common sidgil is a red skull on a black background.
+Seethisat takes many forms though most commonly he appears as a desicated lich-like figure. His domains of influence include pain, death, plague, sickness and starvation. The red skull is universally known to be the sign of Seethisat.
 
-![](./red-skull.png)
-
-<br><br>
+![](../images/red-skull.png)
 
 ### Jakahn (Neutral)
-Jakahn commonly appears as a powerfully built human male almost always with his sword Luckstrum. His domains include war, combat, bravery, swiftness, atheletics, gambling, drinking and fornication. His most common sidgil is a black sword on a gray background.
+Jakahn commonly appears as a powerfully built human male. His sword Luckstrum is invariably at his side. Jakahn's domains include war, combat, bravery, swiftness, luck, atheletics, gambling, drinking and fornication. His most common symbol is a plain sword.
+
+![](../images/sword.png)

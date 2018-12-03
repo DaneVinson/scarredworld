@@ -4,4 +4,4 @@
 The Tradesmen's Guild is a child organization of the Merchant-Traders representing all commercial craftsmen, builders and artizens in Nexus. Members are typically identified by the image of a simple anvil promenately displayed in their place of business.
 <br><br>
 
-![](./anvil.png)
+![](../images/anvil.png)

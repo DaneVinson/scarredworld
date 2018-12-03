@@ -1,6 +1,3 @@
-Nearest city state: {second_city_name}
-Trade by ship
-
 Party's Aqamir handler - Temerrius Squeebus, Master-Merchant, tall, pale, whip-thin, pinched face, arrogant, terse
 
 Wastelands
