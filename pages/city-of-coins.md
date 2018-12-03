@@ -7,7 +7,7 @@ Nexus a is port city with a population of aproximately 200K. Commonly called the
 [Map](../images/city-of-coins-map.png)
 
 ## Government
-Nexus is governed by the Pentacouncil which consists of a Chair and four Member seats. By law the Chair belongs to the *Judge General* of the [Adjudicators](./adjudicators.md) and Member seats to one representitive each from [Magnus Arcanus](./magnus-arcanus.md), the [Benevolent Benefactors](./pantheon.md), the [Commerce Guild]() and the [Merchant-Traders](./merchant-traders.md).
+Nexus is governed by the Pentacouncil which consists of a Chair and four Member seats. By law the Chair belongs to the *Judge General* of the [Adjudicators](./adjudicators.md) and Member seats to one representitive each from [Magnus Arcanus](./magnus-arcanus.md), the [Benevolent Benefactors](./feeders.md), the [Commerce Guild](./commerce-guild.md) and the [Merchant-Traders](./merchant-traders.md).
 
 On all issues before the Pentacouncil each Member has one vote. The Chair has two. At any deadlock the Chair receives an additional vote. The Chair has Veto power over all new legistaltion. The Chair's first charge is the safety and well-being of the Nexus and its citizens. The Chair has direct command of city's military.
 
