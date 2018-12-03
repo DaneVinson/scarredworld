@@ -12,7 +12,7 @@ Untold millennia ago a catastrophic event left the world open to random contact 
 <br>
 
 ## Campaign Start
-Characters begin in [Nexus, City of Coins](./city-of-coins.md) as contracted members of the [Maqamir Trading Company](./maqamir.md). Duties vary widely but each character has signed the [employment contract](./contract.md). Players may create any character background they wish as long as it encompasses this fact.
+Characters begin in [Nexus, City of Coins](./city-of-coins.md) as contracted members of the [Maqamir Trading Company](./maqamir.md). Duties vary widely but each character has signed the [`Employment Contract`](./contract.md). Players may create any character background they wish as long as it encompasses this fact.
 <br><br>
 
 ## Scarred World Index
