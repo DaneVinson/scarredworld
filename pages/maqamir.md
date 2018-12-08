@@ -3,11 +3,11 @@
 [Scarred World](./scarred-world.md) > [City of Coins](./city-of-coins.md) > [Merchant-Traders](./merchant-traders.md) > Maqamir Trading Company
 
 ### Company Description
-*Maqamir* has been an independently owned, licensed and bonded trading company for almost three centuries. Small by most standards, it's prospered by accepting contracts no others would. *Maqamir* specializes in high-risk high-reward investment contracts and it has a reputation for completing them successfully with greater frequency than would be expected. *Maqamir* accepts most types of contracts as long as they exhibit the desired risk/reward ratio. Exmaples might include:
+*Maqamir* has been an independently owned, licensed and bonded trading company for twelve centuries. Small by most standards, it's prospered accepting contracts no others would. *Maqamir* specializes in high-risk, high-reward investment contracts and it has a reputation for completing them successfully. *Maqamir* accepts most types of contracts as long as they exhibit the desired risk/reward ratio.
 * Goods trade and transport
 * Escort and protection
 * Recovery or disposal
-* Intelligence gathering
+* Intelligence
 
 ### Employment
 Candidates who wish employment with the *Maqamir Trading Company* will be screened. If selected a candidate will be asked to sign the initial [employment contract](./contract.md). Upon doing so they become a contracted employee.
