@@ -2,4 +2,6 @@
 
 [Scarred World](./scarred-world.md) > [City of Coins](./city-of-coins.md) > Poof
 
-Poof is the common name for the tiny Wafers produced and distributed by the [Feeders](./feeders.md). Consumption of a single Wafer satisfies a person's need for both food and water for one day.
+*Poof* is the common name for the Wafers distributed by the [Feeders](./feeders.md). Consumption of a single Wafer supplies the equivalnt of one day's ration, food and water. By law all citizens and guests of the [City of Coins](city-of-coins.md) are entitled to one Wafer each day.
+
+All *Poof* is created by Life Cleric members of the [Feeders](./feeders.md). The majority of these worship [Raya](./pantheon.md). Stations distributing the Wafers are plentiful within city walls.

@@ -5,22 +5,19 @@ Untold millennia ago a catastrophic event left the world open to random contact 
 * Races - Any from the Player's Handbook (PH)
 * Classes - Any from the PH
 * Initial Ability Scores - As PH
-    * Option: Distribute 72 total points across the 6 abilities.
+    * Option - **Point Pool**: Distribute 72 total points across the 6 abilities
 * Hit Dice - As PH
-    * Option, *Mike's Advantage*: Roll Hit Dice with *advantage*, i.e. the highest of two dice rolls.
-
-<br>
+    * Option - **Mike's Advantage**: Roll Hit Dice with *advantage*, i.e. the highest of two dice rolls
 
 ## Campaign Start
-Characters begin in [Nexus, City of Coins](./city-of-coins.md) as contracted members of the [Maqamir Trading Company](./maqamir.md). Duties vary widely but each character has signed the employment [Contract](./contract.md). Players may create any character background they wish as long as it encompasses this fact.
-<br><br>
+Characters begin in [Nexus, City of Coins](./city-of-coins.md) as contracted members of the [Maqamir Trading Company](./maqamir.md). Each character must sign the employment [Contract](./contract.md). Players may create any character background they wish as long as it encompasses this fact.
 
 ## Scarred World Index
 * [Nexus, City of Coins](./city-of-coins.md)
     * [Adjudicators](./adjudicators.md)
+    * [Benevolent Benefactors (Feeders)](./feeders.md)
     * [Commerce Guild](./commerce-guild.md)
     * [Expulsion](./expulsion.md)
-    * [Feeders (Benevolent Benefactors)](./feeders.md)
     * [Map](./city-of-coins-map.png)
     * [Magnus Arcanus](./magnus-arcanus.md)
     * [Merchant-Traders](./merchant-traders.md)
