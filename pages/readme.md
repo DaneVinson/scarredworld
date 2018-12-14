@@ -1,2 +1,2 @@
 # Scarred World
-A fantasy campign. Start [here](./scarred-world.md).
+A fantasy campaign. Start [here](./scarred-world.md).
