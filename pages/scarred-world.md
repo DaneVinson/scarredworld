@@ -1,5 +1,5 @@
 # Scarred World
-Untold millennia ago a catastrophic event left the world open to random contact with the outer planes. Large portions of the planet’s surface were wiped away by pure chaos or populated with supernatural horrors. Today most of the world is uninhabitable and much of the rest is unnavigable. Only the most powerful pockets of mortal civilization remain. Characters begin the campaign in one such pocket, [Nexus, City of Coins](./city-of-coins.md).
+Untold millennia ago a catastrophic event left the world open to random contact with the outer planes. Large portions were wiped away by pure chaos or populated with supernatural horrors. Today most of the world is uninhabitable and much of the rest is unnavigable. Only the most powerful pockets of mortal civilization remain. Characters begin the campaign in one such pocket, [Nexus, City of Coins](./city-of-coins.md).
 
 ## Character Creation
 * Races - Any from the Player's Handbook (PH)
