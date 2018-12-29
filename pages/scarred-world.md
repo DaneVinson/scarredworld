@@ -15,6 +15,7 @@ Characters begin in [Nexus, City of Coins](./city-of-coins.md) as contracted mem
 ## Scarred World Index
 * [Nexus, City of Coins](./city-of-coins.md)
     * [Adjudicators](./adjudicators.md)
+        * [Justicars](./justicars.md)
     * [Benevolent Benefactors (Feeders)](./feeders.md)
     * [Commerce Guild](./commerce-guild.md)
     * [Expulsion](./expulsion.md)
@@ -26,4 +27,5 @@ Characters begin in [Nexus, City of Coins](./city-of-coins.md) as contracted mem
         * [Tradesmen's Guild](./tradesmens-guild.md)
     * [Poof](./poof.md)
     * [Prices](./prices.md)
+    * [Radiant Arms](./radiant-arms.md)
 * [Pantheon](./pantheon.md)
