@@ -2,7 +2,7 @@
 
 [Scarred World](./scarred-world.md) > City of Coins
 
-Nexus a is port city with a population of approximately 200K. Commonly called the City of Coins its culture and politics are dominated by trade and commerce. Nexus is located between its two primary trading partners, the cities of `Spire` and `Karrgerra`. Its chief exports are the [Poof](./poof.md) created by the [Benevolent Benefactors (Feeders)](./feeders.md), wondrous items created by [Magnus Arcanus](./magnus-arcanus.md) and all manner of exceptional inert items created by the [Tradesman's Guild](./tradesmens-guild.md). Primary imports are [The Green]() and the elixirs of `Spire`, and `Steel Paste` and the weapons and arms of `Karrgerra`.
+Nexus a is port city with a population of approximately 200K. Commonly called the City of Coins its culture and politics are dominated by trade and commerce. Nexus is located between its two primary trading partners, the cities of `Spire` and `Karrgerra`. Its chief exports are the [Poof](./poof.md) created by the [Benevolent Benefactors (Feeders)](./feeders.md), wondrous items created by [Magnus Arcanus](./magnus-arcanus.md) and all manner of exceptional inert items created by the [Tradesman's Guild](./tradesmens-guild.md). Primary imports are [The Green]() and and other elixirs from `Spire`, and `Steel Paste`, weapons and arms from `Karrgerra`.
 
 [Map](../images/city-of-coins-map.png)
 
@@ -24,7 +24,7 @@ The free distribution of [Poof](./poof.md) means even the lowliest of peoples ar
 Life in Nexus would be as a Golden Age if not for two facts. First, everyone understands they are one `Chaos Storm` away from being un-made. Second, [Poof](./poof.md) leaves some deeper hunger unsatisfied.
 
 ## Trade and Commerce
-The flow of money has primacy in the City of Coins and Any entity conducting commercial trade or commerce within Nexus must be a licensed member of the Merchant-Traders. Those found out of compliance will be subject to immediate punishment up to and including [Expulsion](./expulsion.md).
+The flow of money has primacy in the City of Coins and any entity conducting commercial trade or commerce within Nexus must be a licensed member of the [Merchant-Traders](.merchant-traders.md). Those found out of compliance will be subject to immediate punishment up to and including [Expulsion](./expulsion.md).
 
 ## Taxes
 All monetary transactions within Nexus are taxed at the rate of 10%. All prices listed in the PH or otherwise should be increased by 10%. Any entity found attempting to avoid this lawful Tax will be subject to immediate punishment up to and including [Expulsion](./expulsion.md).
