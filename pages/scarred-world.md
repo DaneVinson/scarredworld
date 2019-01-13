@@ -10,7 +10,6 @@ Five thousand years ago a catastrophic event left the world open to random conta
     * Option - **Mike's Advantage**: Roll Hit Dice with *Advantage*, i.e. the highest of two dice rolls
 
 ## Campaign Start
-Characters begin in [Nexus, City of Coins](./city-of-coins.md) as contracted members of the [Maqamir Trading Company](./maqamir.md). Each character must sign the employment [Contract](./contract.md). Players may create any character background they wish as long as it encompasses this fact.
+Characters begin in [Nexus, City of Coins](./city-of-coins.md) as contracted members of the [Maqamir Trading Company](./maqamir.md). Each character must sign the employment [**CONTRACT**](./contract.md). Players may create any character background they wish as long as it encompasses this fact.
 
-## Scarred World Index
-[Index](./index.md)
+## [Scarred World Index](./index.md)
