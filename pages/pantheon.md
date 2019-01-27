@@ -1,7 +1,7 @@
 # Scarred World Pantheon
 [Scarred World](./scarred-world.md) > Pantheon
 
-When the cataclysm occurred most of the gods abandoned the Scarred World and the few that remained claimed much broader domains of influence.
+After the cataclysm most gods abandoned the Scarred World for lack of worshippers. The few that remained laid claim to broad domains of influence.
 
 ### Raya, [NG]
 
@@ -11,11 +11,11 @@ Typically appearing as a beautiful human female Raya reigns over the domains of 
 
 ### Seethisat [NE]
 
-Seethisat takes many forms though most commonly he appears as a desiccated lich-like figure. His domains of influence include pain, death, plague, sickness and starvation. The red skull is universally known to be the sign of Seethisat.
+Seethisat can take many forms. Among the more common is a desiccated giant clothed in robes of darkness. His domains of influence include pain, death, plague, sickness and starvation. The red skull is universally known to be the sign of Seethisat.
 
 ![](../images/red-skull.png)
 
-### Jakahn (N)
-Jakahn commonly appears as a powerfully built human male. His sword Luckstrum is invariably at his side. Jakahn's domains include war, combat, bravery, swiftness, luck, athletics, gambling, drinking and fornication. His most common symbol is a plain sword.
+### Jarl-Kahn (N)
+Jarl-Kahn commonly appears as a powerfully built human male, his sword Luckstrum invariably at his side. Jakahn's domains include war, combat, bravery, swiftness, luck, athletics, gambling, drinking and fornication. His most common symbol is a plain sword.
 
 ![](../images/sword.png)
