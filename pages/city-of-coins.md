@@ -2,7 +2,7 @@
 
 [Scarred World](./scarred-world.md) > City of Coins
 
-Nexus a is port city with a population of approximately 200K. Commonly called the City of Coins its culture and politics are dominated by trade and commerce. Nexus is located between its two primary trading partners, the cities of [Spire](./spire.md) and `Karrgerra`. Its chief exports are the [Poof](./poof.md) created by the [Benevolent Benefactors (Feeders)](./feeders.md), wondrous items created by [Magnus Arcanus](./magnus-arcanus.md) and all manner of exceptional inert items created by the [Tradesman's Guild](./tradesmens-guild.md). Primary imports are [The Green](./green.md) and other elixirs from Spire, and `Steel Paste`, weapons and arms from Karrgerra.
+Nexus a is port city with a population of approximately 200K. Commonly called the City of Coins its culture and politics are dominated by trade and commerce. Nexus is located between its two primary trading partners, the cities of [Spire](./spire.md) and [Karrgerra](./karrgerra.md). Its chief exports are the [Poof](./poof.md) created by the [Benevolent Benefactors (Feeders)](./feeders.md), wondrous items created by [Magnus Arcanus](./magnus-arcanus.md) and all manner of exceptional inert items created by the [Tradesman's Guild](./tradesmens-guild.md). Primary imports are [The Green](./green.md) and the elixirs of Spire and [Steel Paste](./steel-paste.md) and the Dwarvish steel of Karrgerra.
 
 [Map](../images/city-of-coins-map.png)
 
