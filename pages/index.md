@@ -15,3 +15,5 @@
     * [Prices](./prices.md)
     * [Radiant Arms](./radiant-arms.md)
 * [Pantheon](./pantheon.md)
+* [Spire](./spire.md)
+    * [Green, the](./green.md)
