@@ -59,7 +59,43 @@ namespace ScarredWorld.MardownGenerator
 
         private static void GenerateMarkdown()
         {
-            GenerateIndex();
+            //GenerateIndex();
+            GenerateEntities(ScarredWorldSource);
+        }
+
+        private static void GenerateEntities(DirectoryInfo directory)
+        {
+            var crumbEntities = directory.FullName
+                                            .Split('\\')
+                                            .Skip(ScarredWorldDirectoryIndex)
+                                            .Select(s => EntityDictionary[s])
+                                            .ToArray();
+
+            foreach (var file in directory.GetFiles("*.md"))
+            {
+                var entity = EntityDictionary.FirstOrDefault(kv => kv.Key == file.Name.Split('.').First()).Value;
+                int take = crumbEntities.Length;
+                if (entity.Key == crumbEntities.Last().Key) { --take; }
+                var crumbs = crumbEntities.Take(take)
+                                            .Select(e => e.MarkdownLink)
+                                            .ToList();
+                crumbs.Add(entity.FullName);
+                WriteMarkdown(entity, crumbs, file);
+            }
+
+            foreach (var childDirectory in directory.GetDirectories())
+            {
+                GenerateEntities(childDirectory);
+            }
+        }
+
+        private static void WriteMarkdown(Entity entity, IEnumerable<string> crumbs, FileInfo sourceFile)
+        {
+            string header = $"# {entity.FullName}";
+            string crumbBar = String.Join(" > ", crumbs);
+            Console.WriteLine(header);
+            Console.WriteLine(crumbBar);
+            Console.WriteLine();
         }
 
         private static void GenerateIndex()
@@ -73,7 +109,7 @@ namespace ScarredWorld.MardownGenerator
             }
         }
 
-        private static DirectoryInfo GetScarredWorldDirectory()
+        private static DirectoryInfo GetScarredWorldTopDirectory()
         {
             var parts = Directory.GetCurrentDirectory().Split('\\');
             int generatorIndex = 0;
@@ -91,15 +127,21 @@ namespace ScarredWorld.MardownGenerator
 
         static Program()
         {
-            EntityDictionary = Entities.ToDictionary(e => e.Key);
-            MarkdownTarget = GetScarredWorldDirectory().GetDirectories("markdown", SearchOption.AllDirectories).FirstOrDefault();
+            EntityDictionary = RawEntities.ToDictionary(e => e.Key);
+            MarkdownTarget = GetScarredWorldTopDirectory().GetDirectories("markdown", SearchOption.AllDirectories).FirstOrDefault();
             ScarredWorldSource = new DirectoryInfo(Path.Combine(Directory.GetCurrentDirectory(), "scarred-world"));
+            ScarredWorldDirectoryIndex = ScarredWorldSource.FullName.Split('\\').Count() - 1;
         }
 
-        private static readonly Entity[] Entities = new Entity[]
+        private static readonly Dictionary<string, Entity> EntityDictionary;
+        private static readonly DirectoryInfo MarkdownTarget;
+        private static readonly int ScarredWorldDirectoryIndex;
+        private static readonly DirectoryInfo ScarredWorldSource;
+
+        private static readonly Entity[] RawEntities = new Entity[]
         {
             new Entity("bankers", "Commerce Guild", "Bankers"),
-            new Entity("city", "Nexus", "City of Coins"),
+            new Entity("city", "Nexus", "City of Coins", "Nexus, City of Coins"),
             new Entity("company", "Maqamir Trading Company"),
             new Entity("contract", "Employment Contract", fullName: "Intial Employment Contract"),
             new Entity("deity-evil", "Seethisat", markdownName: "pantheon.md"),
@@ -123,8 +165,5 @@ namespace ScarredWorld.MardownGenerator
             new Entity("tradesmen", "Tradesmen's Guild"),
             new Entity("wizards", "Magnus Arcana")
         };
-        private static readonly Dictionary<string, Entity> EntityDictionary;
-        private static readonly DirectoryInfo MarkdownTarget;
-        private static readonly DirectoryInfo ScarredWorldSource;
     }
 }
