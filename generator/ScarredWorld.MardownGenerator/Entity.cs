@@ -11,8 +11,10 @@ namespace ScarredWorld.MardownGenerator
             string name = null,
             string nickname = null,
             string fullName = null,
+            string alignment = null,
             string markdownName = null)
         {
+            Alignment = alignment;
             FullName = fullName;
             Key = key;
             MarkdownName = markdownName;
@@ -20,7 +22,7 @@ namespace ScarredWorld.MardownGenerator
             Nickname = nickname;
         }
 
-        public string Key { get; set; }
+        public string Alignment { get; set; }
         public string FullName
         {
             get
@@ -34,7 +36,8 @@ namespace ScarredWorld.MardownGenerator
             }
             set { _fullName = value; }
         }
-        public string MarkdownLink => $"[{FullName}](.\\{MarkdownName})]";
+        public string Key { get; set; }
+        public string MarkdownLink => $"[{Name}](.\\{MarkdownName})";
         public string MarkdownName
         {
             get { return String.IsNullOrWhiteSpace(_markdownName) ? $"{Key}.md" : _markdownName; }

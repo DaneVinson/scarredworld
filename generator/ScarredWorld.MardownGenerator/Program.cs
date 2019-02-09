@@ -11,6 +11,7 @@ namespace ScarredWorld.MardownGenerator
         {
             try
             {
+                CleanTarget();
                 GenerateMarkdown();
             }
             catch (Exception ex)
@@ -57,6 +58,13 @@ namespace ScarredWorld.MardownGenerator
             }
         }
 
+        private static void CleanTarget()
+        {
+            MarkdownTarget.GetFiles("*.md", SearchOption.AllDirectories)
+                            .ToList()
+                            .ForEach(f => f.Delete());
+        }
+
         private static void GenerateMarkdown()
         {
             //GenerateIndex();
@@ -91,11 +99,20 @@ namespace ScarredWorld.MardownGenerator
 
         private static void WriteMarkdown(Entity entity, IEnumerable<string> crumbs, FileInfo sourceFile)
         {
-            string header = $"# {entity.FullName}";
-            string crumbBar = String.Join(" > ", crumbs);
-            Console.WriteLine(header);
-            Console.WriteLine(crumbBar);
-            Console.WriteLine();
+            using (var reader = new StreamReader(sourceFile.FullName))
+            using (var writer = new StreamWriter(Path.Combine(MarkdownTarget.FullName, entity.MarkdownName)))
+            {
+                string alignment = String.IsNullOrWhiteSpace(entity.Alignment) ? String.Empty : $"[{entity.Alignment}]";
+                writer.WriteLine($"# {entity.FullName} {alignment}");
+                var crumbsArray = crumbs.ToArray();
+                if (crumbsArray.Length > 1) { writer.WriteLine(String.Join(" > ", crumbs)); }
+                writer.WriteLine();
+                string line;
+                while ((line = reader.ReadLine()) != null)
+                {
+                    writer.WriteLine(line);
+                }
+            }
         }
 
         private static void GenerateIndex()
@@ -140,30 +157,29 @@ namespace ScarredWorld.MardownGenerator
 
         private static readonly Entity[] RawEntities = new Entity[]
         {
-            new Entity("bankers", "Commerce Guild", "Bankers"),
-            new Entity("city", "Nexus", "City of Coins", "Nexus, City of Coins"),
-            new Entity("company", "Maqamir Trading Company"),
+            new Entity("bankers", "Commerce Guild", "Bankers", alignment: "LN"),
+            new Entity("city", "Nexus", "City of Coins", "Nexus, City of Coins", alignment: "NG"),
+            new Entity("company", "Maqamir Trading Company", alignment: "CG"),
             new Entity("contract", "Employment Contract", fullName: "Intial Employment Contract"),
             new Entity("deity-evil", "Seethisat", markdownName: "pantheon.md"),
-            new Entity("deity-good", "Raya", markdownName: "pantheon.md"),
-            new Entity("deity-neutral", "Jarl-Kahn", markdownName: "pantheon.md"),
+            new Entity("deity-good", "Raya", markdownName: "pantheon.md", alignment: "NG"),
+            new Entity("deity-neutral", "Jarl-Kahn", markdownName: "pantheon.md", alignment: "N"),
             new Entity("expulsion", "Expulsion"),
-            new Entity("feeders", "Benevolent Benefactors", "Feeders"),
+            new Entity("feeders", "Benevolent Benefactors", "Feeders", alignment: "LG"),
             new Entity("green", "The Green"),
-            new Entity("judges", "Adjudicators"),
-            new Entity("merchants", "Merchant-Traders"),
-            new Entity("pantheor", "Scarred World Pantheon"),
-            new Entity("poof", "Sustenance Wafers", "Poof", "Poof Wafers"),
+            new Entity("judges", "Adjudicators", alignment: "LG"),
+            new Entity("merchants", "Merchant-Traders", alignment: "CN"),
             new Entity("pantheon", "Pantheon", fullName: "Pantheon of the Scarred World"),
+            new Entity("poof", "Sustenance Wafers", "Poof", "Poof Wafers"),
             new Entity("prices", "Prices"),
-            new Entity("paladins", "Radiant Arms"),
+            new Entity("paladins", "Radiant Arms", alignment: "LG"),
             new Entity("scarred-world", "Scarred World"),
             new Entity("steel-paste", "Steel Paste"),
-            new Entity("street-judges", "Justicars", "Street Judges"),
-            new Entity("trade-partner-1", "Spire"),
-            new Entity("trade-partner-2", "Karrgerra"),
-            new Entity("tradesmen", "Tradesmen's Guild"),
-            new Entity("wizards", "Magnus Arcana")
+            new Entity("street-judges", "Justicars", "Street Judges", alignment: "LN"),
+            new Entity("trade-partner-1", "Spire", alignment: "LE"),
+            new Entity("trade-partner-2", "Karrgerra", alignment: "NG"),
+            new Entity("tradesmen", "Tradesmen's Guild", alignment: "NG"),
+            new Entity("wizards", "Magnus Arcana", alignment: "N")
         };
     }
 }

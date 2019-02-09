@@ -1,3 +1,6 @@
+# Maqamir Trading Company [CG]
+[Scarred World](.\scarred-world.md) > [Nexus](.\city.md) > [Merchant-Traders](.\merchants.md) > Maqamir Trading Company
+
 ### Company Overview
 *Maqamir* has been an independently owned, licensed and bonded trading company for twelve centuries. Small by most standards, it's prospered accepting contracts no others would. *Maqamir* specializes in high-risk, high-reward investment contracts and it has a reputation for completing them successfully. *Maqamir* accepts most types of contracts as long as they exhibit the desired risk/reward ratio.
 * Goods trade and transport

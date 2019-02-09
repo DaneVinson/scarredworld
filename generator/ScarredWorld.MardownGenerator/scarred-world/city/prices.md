@@ -1,7 +1,3 @@
-# Prices
-
-[Scarred World](./scarred-world.md) > [City of Coins](./city-of-coins.md) > Prices
-
 ### True Food and Drink
 *True* indicates a food or beverage is of natural origin.
 All *True* food costs are drastically elevated from those listed in the PH. Typical costs are 100x of the PH listed value for the same item. Example: the PH shows a loaf of bread costs 2 cp, subsequently a loaf of True bread costs 2 gp.
