@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Text;
 
 namespace ScarredWorld.MardownGenerator
 {
@@ -67,7 +68,7 @@ namespace ScarredWorld.MardownGenerator
 
         private static void GenerateMarkdown()
         {
-            //GenerateIndex();
+            GenerateIndex();
             GenerateEntities(ScarredWorldSource);
         }
 
@@ -110,7 +111,40 @@ namespace ScarredWorld.MardownGenerator
                 string line;
                 while ((line = reader.ReadLine()) != null)
                 {
-                    writer.WriteLine(line);
+                    // parse the line for entity meta-data
+                    var parts = line.Split("000");
+                    if (parts.Length == 1) { writer.WriteLine(line); }
+                    else
+                    {
+                        var lineBuilder = new StringBuilder();
+                        for (int i = 0; i < parts.Length; i++)
+                        {
+                            if (i % 2 > 0)
+                            {
+                                var metadataParts = parts[i].Split('.');
+                                var ent = EntityDictionary[metadataParts[0]];
+                                switch (metadataParts[1])
+                                {
+                                    case "FullName":
+                                        lineBuilder.Append(ent.FullName);
+                                        break;
+                                    case "MarkdownLink":
+                                        lineBuilder.Append(ent.MarkdownLink);
+                                        break;
+                                    case "MarkdownName":
+                                        lineBuilder.Append(ent.MarkdownName);
+                                        break;
+                                    case "Name":
+                                        lineBuilder.Append(ent.Name);
+                                        break;
+                                }
+                            }
+                            else
+                            {
+                                lineBuilder.Append(parts[i]);
+                            }
+                        }
+                    }
                 }
             }
         }
