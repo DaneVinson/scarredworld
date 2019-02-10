@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScarredWorld.MardownGenerator", "ScarredWorld.MardownGenerator\ScarredWorld.MardownGenerator.csproj", "{317FF7D0-F2F2-4DBE-A510-6B9133E2961D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{317FF7D0-F2F2-4DBE-A510-6B9133E2961D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{317FF7D0-F2F2-4DBE-A510-6B9133E2961D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{317FF7D0-F2F2-4DBE-A510-6B9133E2961D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{317FF7D0-F2F2-4DBE-A510-6B9133E2961D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AF4542C-EF32-4F4C-A983-CDE374BD886B}
+	EndGlobalSection
+EndGlobal

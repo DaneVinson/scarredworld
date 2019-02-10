@@ -1,0 +1,1 @@
+The ^judges.Name^ sit in lawful judgment of everything that occurs within the influence of ^city.NameLink^. Law dictates that the *Pentacouncil Chair* be reserved for the *Judge General* of the ^judges.Name^. They use the power of the *Chair* and its control of the city's martial resources to ensure peace and protection for all in their influence.

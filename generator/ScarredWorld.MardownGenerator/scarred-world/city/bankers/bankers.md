@@ -1,0 +1,1 @@
+*The ^bankers.Name^*, commonly called the *^bankers.Nickname^* or sometimes *Coin Books*, control the financial activities for the ^city.NicknameLink^. The Guild controls immense resources and it rigidly steers towards further accumulation.
