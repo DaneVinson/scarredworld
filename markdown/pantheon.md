@@ -1,5 +1,5 @@
 # Pantheon of the Scarred World 
-[Scarred World](.\scarred-world.md) > Pantheon of the Scarred World
+[Scarred World](./scarred-world.md) > Pantheon of the Scarred World
 
 After the cataclysm most gods abandoned the Scarred World for lack of worshippers. The few that remained laid claim to broad domains of influence.
 
