@@ -3,7 +3,7 @@
 
 After the cataclysm most gods abandoned the Scarred World for lack of worshippers. The few that remained laid claim to broad domains of influence.
 
-### Raya, [NG]
+### Raya [NG]
 
 Typically appearing as a beautiful human female Raya reigns over the domains of life, love, peace, justice, food, music drink and joy. Her most common symbol is the golden chalice.
 
@@ -15,7 +15,7 @@ Seethisat can take many forms. Among the more common is a desiccated giant cloth
 
 ![](../images/red-skull.png)
 
-### Jarl-Kahn (N)
-Jarl-Kahn commonly appears as a powerfully built human male, his sword Luckstrum invariably at his side. Jakahn's domains include war, combat, bravery, swiftness, luck, athletics, gambling, drinking and fornication. His most common symbol is a plain sword.
+### Jarl-Kahn [N]
+Jarl-Kahn commonly appears as a powerfully built human male, his sword Luckstrum invariably at his side. Jarl-Kahn's domains include war, combat, bravery, swiftness, luck, athletics, gambling, drinking and fornication. His most common symbol is a plain sword.
 
 ![](../images/sword.png)

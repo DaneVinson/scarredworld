@@ -86,7 +86,7 @@ namespace ScarredWorld.MardownGenerator
                 int take = crumbEntities.Length;
                 if (entity.Key == crumbEntities.Last().Key) { --take; }
                 var crumbs = crumbEntities.Take(take)
-                                            .Select(e => e.MarkdownLink)
+                                            .Select(e => e.NameLink)
                                             .ToList();
                 crumbs.Add(entity.FullName);
                 WriteMarkdown(entity, crumbs, file);
@@ -111,25 +111,28 @@ namespace ScarredWorld.MardownGenerator
                 string line;
                 while ((line = reader.ReadLine()) != null)
                 {
-                    // parse the line for entity meta-data
-                    var parts = line.Split("000");
+                    var parts = line.Split('^');
                     if (parts.Length == 1) { writer.WriteLine(line); }
                     else
                     {
                         var lineBuilder = new StringBuilder();
                         for (int i = 0; i < parts.Length; i++)
                         {
-                            if (i % 2 > 0)
+                            if (i % 2 == 0) { lineBuilder.Append(parts[i]); }
+                            else
                             {
                                 var metadataParts = parts[i].Split('.');
                                 var ent = EntityDictionary[metadataParts[0]];
                                 switch (metadataParts[1])
                                 {
+                                    case "Alignment":
+                                        lineBuilder.Append(ent.Alignment);
+                                        break;
                                     case "FullName":
                                         lineBuilder.Append(ent.FullName);
                                         break;
-                                    case "MarkdownLink":
-                                        lineBuilder.Append(ent.MarkdownLink);
+                                    case "FullNameLink":
+                                        lineBuilder.Append(ent.FullNameLink);
                                         break;
                                     case "MarkdownName":
                                         lineBuilder.Append(ent.MarkdownName);
@@ -137,13 +140,19 @@ namespace ScarredWorld.MardownGenerator
                                     case "Name":
                                         lineBuilder.Append(ent.Name);
                                         break;
+                                    case "NameLink":
+                                        lineBuilder.Append(ent.NameLink);
+                                        break;
+                                    case "Nickname":
+                                        lineBuilder.Append(ent.Nickname);
+                                        break;
+                                    case "NicknameLink":
+                                        lineBuilder.Append(ent.NicknameLink);
+                                        break;
                                 }
                             }
-                            else
-                            {
-                                lineBuilder.Append(parts[i]);
-                            }
                         }
+                        writer.WriteLine(lineBuilder.ToString());
                     }
                 }
             }
@@ -195,7 +204,7 @@ namespace ScarredWorld.MardownGenerator
             new Entity("city", "Nexus", "City of Coins", "Nexus, City of Coins", alignment: "NG"),
             new Entity("company", "Maqamir Trading Company", alignment: "CG"),
             new Entity("contract", "Employment Contract", fullName: "Intial Employment Contract"),
-            new Entity("deity-evil", "Seethisat", markdownName: "pantheon.md"),
+            new Entity("deity-evil", "Seethisat", markdownName: "pantheon.md", alignment: "NE"),
             new Entity("deity-good", "Raya", markdownName: "pantheon.md", alignment: "NG"),
             new Entity("deity-neutral", "Jarl-Kahn", markdownName: "pantheon.md", alignment: "N"),
             new Entity("expulsion", "Expulsion"),

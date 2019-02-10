@@ -36,15 +36,17 @@ namespace ScarredWorld.MardownGenerator
             }
             set { _fullName = value; }
         }
+        public string FullNameLink => $"[{FullName}](.\\{MarkdownName})";
         public string Key { get; set; }
-        public string MarkdownLink => $"[{Name}](.\\{MarkdownName})";
         public string MarkdownName
         {
             get { return String.IsNullOrWhiteSpace(_markdownName) ? $"{Key}.md" : _markdownName; }
             set { _markdownName = value; }
         }
         public string Name { get; set; }
+        public string NameLink => $"[{Name}](.\\{MarkdownName})";
         public string Nickname { get; set; }
+        public string NicknameLink => $"[{Nickname}](.\\{MarkdownName})";
 
         private string _fullName;
         private string _markdownName;

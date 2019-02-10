@@ -1,1 +1,1 @@
-*Merchant-Traders* - They're merchants, traders and tradesmen.
+*^merchants.Name^* - They're merchants, traders and tradesmen.
