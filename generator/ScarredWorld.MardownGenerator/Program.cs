@@ -13,7 +13,7 @@ namespace ScarredWorld.MardownGenerator
             new Entity("bankers", "Commerce Guild", "Bankers", alignment: "LN"),
             new Entity("chaos-storms", "Chaos Storms"),
             new Entity("city", "Nexus", "City of Coins", "Nexus, City of Coins", alignment: "NG"),
-            new Entity("company", "Maqamir Trading Company", alignment: "CG"),
+            new Entity("company", "The Maqamir Company", alignment: "CG"),
             new Entity("contract", "Employment Contract", fullName: "Intial Employment Contract"),
             new Entity("deity-evil", "Seethisat", markdownName: "pantheon.md", alignment: "NE"),
             new Entity("deity-good", "Raya", markdownName: "pantheon.md", alignment: "NG"),
