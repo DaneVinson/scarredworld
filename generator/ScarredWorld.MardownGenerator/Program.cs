@@ -11,12 +11,14 @@ namespace ScarredWorld.MardownGenerator
         private static readonly Entity[] CampaignEntities = new Entity[]
         {
             new Entity("bankers", "Commerce Guild", "Bankers", alignment: "LN"),
+            new Entity("chaos-storms", "Chaos Storms"),
             new Entity("city", "Nexus", "City of Coins", "Nexus, City of Coins", alignment: "NG"),
             new Entity("company", "Maqamir Trading Company", alignment: "CG"),
             new Entity("contract", "Employment Contract", fullName: "Intial Employment Contract"),
             new Entity("deity-evil", "Seethisat", markdownName: "pantheon.md", alignment: "NE"),
             new Entity("deity-good", "Raya", markdownName: "pantheon.md", alignment: "NG"),
             new Entity("deity-neutral", "Jarl-Kahn", markdownName: "pantheon.md", alignment: "N"),
+            new Entity("evil-priests", "Evil Priests", alignment: "CE"),
             new Entity("expulsion", "Expulsion"),
             new Entity("feeders", "Benevolent Benefactors", "Feeders", alignment: "LG"),
             new Entity("green", "The Green"),
@@ -31,7 +33,10 @@ namespace ScarredWorld.MardownGenerator
             new Entity("street-judges", "Justicars", "Street Judges", alignment: "LN"),
             new Entity("trade-partner-1", "Spire", alignment: "LE"),
             new Entity("trade-partner-2", "Karrgerra", alignment: "NG"),
+            new Entity("theater-company", "The Theater Company", alignment: "CG"),
+            new Entity("thieves-guild", "Thieves Guild", alignment: "NE"),
             new Entity("tradesmen", "Tradesmen's Guild", alignment: "NG"),
+            new Entity("vampire-paladin", "Lord Rothergul", "The Vampire-Paladin", alignment: "LG"),
             new Entity("wizards", "Magnus Arcana", alignment: "N")
         };
 
