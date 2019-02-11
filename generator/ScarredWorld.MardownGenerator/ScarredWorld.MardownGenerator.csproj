@@ -36,6 +36,9 @@
     <None Update="scarred-world\city\thieves-guild\thieves-guild.md">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="readme.md">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="scarred-world\trade-partner-1\green.md">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

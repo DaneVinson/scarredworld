@@ -47,6 +47,7 @@ namespace ScarredWorld.MardownGenerator
             {
                 CleanTarget();
                 GenerateMarkdown();
+                CopyReadme();
             }
             catch (Exception ex)
             {
@@ -97,7 +98,11 @@ namespace ScarredWorld.MardownGenerator
             MarkdownTarget.GetFiles("*.md", SearchOption.AllDirectories)
                             .ToList()
                             .ForEach(f => f.Delete());
-            var readme = MarkdownTarget.Parent.GetFiles("readme.md").FirstOrDefault();
+        }
+
+        private static void CopyReadme()
+        {
+            var readme = ScarredWorldSource.Parent.GetFiles("readme.md").FirstOrDefault();
             if (readme != null) { readme.CopyTo(Path.Combine(MarkdownTarget.FullName, readme.Name)); }
         }
 
