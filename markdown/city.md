@@ -15,7 +15,7 @@ Current Pentacouncil
 - Archmage Xocktol, Magnus Arcana
 - Marcus Rotundo, His Excellency of the order of the Benevolent Benefactors
 - Darin Dokow, Chief Operating Officer of the Commerce Guild
-- Aman the Magnificent, Maker of Coin, Representative of the Merchant-Traders
+- Aman the Magnificent, Maker of Coin, Pasha of Jewels, Bringer of Rain (Merchant-Traders)
 
 ## Life in the City of Coins
 The free distribution of [Poof](./poof.md) means even the lowliest of people are free from the daily pursuit of food. This liberates all to pursue goals beyond providing for self and family. As a result the majority of Nexus' citizens have some significant skill in at least one art, trade or discipline. Every organization from Magnus Arcana to the smallest blacksmith in the Tradesmen's Guild is inundated with requests for apprenticeship from well qualified applicants. All structures in the city from the keep to the roof of the lowliest house are soundly constructed and well maintained. Craftsmen, artisans and performers of every stripe exist in multitude and the majority of them are experts in their vocation. Theaters and concert halls are abundant and accessible to all. Truly the people of Nexus have a good life.

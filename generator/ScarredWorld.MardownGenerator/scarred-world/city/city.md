@@ -12,7 +12,7 @@ Current Pentacouncil
 - Archmage Xocktol, ^wizards.Name^
 - Marcus Rotundo, His Excellency of the order of the ^feeders.Name^
 - Darin Dokow, Chief Operating Officer of the ^bankers.Name^
-- Aman the Magnificent, Maker of Coin, Representative of the ^merchants.Name^
+- Aman the Magnificent, Maker of Coin, Pasha of Jewels, Bringer of Rain (^merchants.Name^)
 
 ## Life in the ^city.Nickname^
 The free distribution of ^poof.NicknameLink^ means even the lowliest of people are free from the daily pursuit of food. This liberates all to pursue goals beyond providing for self and family. As a result the majority of ^city.Name^' citizens have some significant skill in at least one art, trade or discipline. Every organization from ^wizards.Name^ to the smallest blacksmith in the ^tradesmen.Name^ is inundated with requests for apprenticeship from well qualified applicants. All structures in the city from the keep to the roof of the lowliest house are soundly constructed and well maintained. Craftsmen, artisans and performers of every stripe exist in multitude and the majority of them are experts in their vocation. Theaters and concert halls are abundant and accessible to all. Truly the people of ^city.Name^ have a good life.
