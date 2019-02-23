@@ -8,7 +8,7 @@ namespace ScarredWorld.MardownGenerator
     {
         public Entity(
             string key,
-            string name = null,
+            string name,
             string nickname = null,
             string fullName = null,
             string alignment = null,
