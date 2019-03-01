@@ -23,6 +23,7 @@ namespace ScarredWorld.MardownGenerator
             new Entity("feeders", "Benevolent Benefactors", "Feeders", alignment: "LG"),
             new Entity("green", "The Green"),
             new Entity("judges", "Adjudicators", alignment: "LG"),
+            new Entity("luckstrum", "Luckstrum", "The Every Sword", alignment: "N"),
             new Entity("merchants", "Merchant-Traders", alignment: "CN"),
             new Entity("pantheon", "Pantheon", fullName: "Pantheon of the Scarred World"),
             new Entity("poof", "Sustenance Wafers", "Poof", "Poof Wafers"),

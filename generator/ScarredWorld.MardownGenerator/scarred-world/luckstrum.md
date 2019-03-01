@@ -1,0 +1,1 @@
+Sentient sword currently held by ^deity-neutral.FullNameLink^.
