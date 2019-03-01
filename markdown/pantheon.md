@@ -16,6 +16,6 @@ Seethisat takes many forms. Perhaps the most common is a desiccated giant clothe
 ![](../images/red-skull.png)
 
 ### Jarl-Kahn [N]
-Jarl-Kahn commonly appears as powerfully built and extremely charismatic male of whatever race his worshiper happens to be. The sword [Luckstrum](./luckstrum.md) is invariably at his side. Jarl-Kahn's domains include war, combat, bravery, swiftness, luck, athletics, mischief, gambling, drinking and fornication. His most common symbol is a plain sword.
+Jarl-Kahn commonly appears as powerfully built and extremely charismatic male of whichever race a worshiper happens to be. The sword [Luckstrum](./luckstrum.md) is invariably at his side. Jarl-Kahn's domains include war, combat, bravery, swiftness, luck, athletics, mischief, gambling, drinking and fornication. His most common symbol is a plain sword.
 
 ![](../images/sword.png)
