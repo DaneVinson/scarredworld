@@ -3,6 +3,6 @@
 
 Luckstrum is the sentient sword currently wielded by [Jarl-Kahn](./pantheon.md). Some religious sects draw their power directly through the worship of Luckstrum clearly demonstrating its divine standing.
 
-Called  
+Called The Every Sword 
 * Appears as a plain, well-used but well-maintained sword. The sword of a professional warrior. 
 * It can imbue any sword with its diving power. Grants powers to its own worshipers as well as those who worship its current wielder.
