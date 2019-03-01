@@ -3,6 +3,7 @@
     * [Chaos Storms](./chaos-storms.md)
     * [Karrgerra](./trade-partner-2.md)
         * [Steel Paste](./steel-paste.md)
+    * [Luckstrum (The Every Sword)](./luckstrum.md)
     * [Nexus, City of Coins](./city.md)
         * [Adjudicators](./judges.md)
             * [Justicars (Street Judges)](./street-judges.md)
