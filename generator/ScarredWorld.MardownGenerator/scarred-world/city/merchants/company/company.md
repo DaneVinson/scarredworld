@@ -1,5 +1,5 @@
 ### Company Overview
-^company.Name^ has been an independently owned, licensed and bonded trading company for over three centuries. Small by most standards, it's prospered accepting contracts few others would. ^company.Name^ specializes in high-risk, high-reward service contracts and it has a reputation for completing them successfully and discretely. ^company.Name^ accepts most types of contracts as long as they exhibit the desired risk/reward ratio.
+^company.Name^ has been an independently owned, licensed and bonded trading company for over three centuries. Small by most standards it has prospered accepting contracts few others would. ^company.Name^ specializes in high-risk, high-reward service contracts and it has a reputation for completing them successfully and discretely. ^company.Name^ accepts most types of contracts as long as they exhibit the desired risk/reward ratio.
 * Goods trade and transport
 * Escort and protection
 * Recovery or disposal
