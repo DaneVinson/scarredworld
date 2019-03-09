@@ -39,7 +39,7 @@
     <None Update="readme.md">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="scarred-world\luckstrum.md">
+    <None Update="scarred-world\trade-partner-1\alchemist.md">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="scarred-world\trade-partner-1\green.md">

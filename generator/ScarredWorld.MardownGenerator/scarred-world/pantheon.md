@@ -13,6 +13,6 @@ Typically appearing as a beautiful human female ^deity-good.Name^ reigns over th
 ![](../images/red-skull.png)
 
 ### ^deity-neutral.FullName^ [^deity-neutral.Alignment^]
-^deity-neutral.Name^ commonly appears as powerfully built and extremely charismatic male of whichever race a worshiper happens to be. The sword ^luckstrum.NameLink^ is invariably at his side. ^deity-neutral.Name^'s domains include war, combat, bravery, swiftness, luck, athletics, mischief, gambling, drinking and fornication. His most common symbol is a plain sword.
+^deity-neutral.Name^ commonly appears as powerfully built and extremely charismatic male of whichever race a worshiper happens to be. Whatever his form his sword Luckstrum is invariably at his side. ^deity-neutral.Name^'s domains include war, combat, bravery, swiftness, luck, athletics, mischief, gambling, drinking and fornication. His most common symbol is a plain sword.
 
 ![](../images/sword.png)

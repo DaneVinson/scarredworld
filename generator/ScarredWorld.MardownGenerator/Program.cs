@@ -10,6 +10,7 @@ namespace ScarredWorld.MardownGenerator
     {
         private static readonly Entity[] CampaignEntities = new Entity[]
         {
+            new Entity("alchemist", "Vonstrit", "The Mad Alchemist", "The Alchemist", "CE"),
             new Entity("bankers", "Commerce Guild", "Bankers", alignment: "LN"),
             new Entity("chaos-storms", "Chaos Storms"),
             new Entity("city", "Nexus", "City of Coins", "Nexus, City of Coins", alignment: "NG"),
@@ -23,7 +24,6 @@ namespace ScarredWorld.MardownGenerator
             new Entity("feeders", "Benevolent Benefactors", "Feeders", alignment: "LG"),
             new Entity("green", "The Green"),
             new Entity("judges", "Adjudicators", alignment: "LG"),
-            new Entity("luckstrum", "Luckstrum", "The Every Sword", alignment: "N"),
             new Entity("merchants", "Merchant-Traders", alignment: "CN"),
             new Entity("pantheon", "Pantheon", fullName: "Pantheon of the Scarred World"),
             new Entity("poof", "Sustenance Wafers", "Poof", "Poof Wafers"),
@@ -32,7 +32,7 @@ namespace ScarredWorld.MardownGenerator
             new Entity("scarred-world", "Scarred World"),
             new Entity("steel-paste", "Steel Paste"),
             new Entity("street-judges", "Justicars", "Street Judges", alignment: "LN"),
-            new Entity("trade-partner-1", "Spire", alignment: "LE"),
+            new Entity("trade-partner-1", "Spire", alignment: "CN"),
             new Entity("trade-partner-2", "Karrgerra", alignment: "NG"),
             new Entity("theater-company", "The Theater Company", alignment: "CG"),
             new Entity("thieves-guild", "Thieves Guild", alignment: "NE"),
