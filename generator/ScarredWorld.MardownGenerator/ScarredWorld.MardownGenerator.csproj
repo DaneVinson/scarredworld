@@ -9,6 +9,9 @@
     <None Update="scarred-world\chaos-storms.md">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="scarred-world\city\evil-priests\evil-priests.md">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="scarred-world\city\judges\judges.md">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
