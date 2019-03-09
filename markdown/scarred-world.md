@@ -1,5 +1,7 @@
 # Scarred World 
 
+[Scarred World Index](./index.md)
+
 Seven-hundred years ago a catastrophic event left the world open to random contact with the outer planes. Large portions were wiped away by pure chaos or populated with supernatural horrors. Today most of the world is unnavigable and much of the rest is uninhabitable. Only the most powerful pockets of mortal civilization remain. Characters begin the campaign in one such pocket, [Nexus, City of Coins](./city.md).
 
 ## Character Creation
@@ -12,6 +14,3 @@ Seven-hundred years ago a catastrophic event left the world open to random conta
 
 ## Campaign Start
 Characters begin in [Nexus, City of Coins](./city.md) as contracted members of the [The Maqamir Company](./company.md). Each character must sign the employment [**CONTRACT**](./contract.md). Players may create any character background they wish as long as it encompasses this fact.
-
-## Scarred World Index
-[Scarred World Index](./index.md)
