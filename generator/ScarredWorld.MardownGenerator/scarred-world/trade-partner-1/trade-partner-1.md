@@ -1,4 +1,4 @@
-^trade-partner-1.Name^ is a river city with a population of approximately 50K. Located 1000 miles North of ^city.NameLink^. It is entirely controlled by ^alchemist.FullNameLink^.
+^trade-partner-1.Name^ is a river city a thousand miles North of ^city.NameLink^. Its population of ~50K is entirely controlled by ^alchemist.FullNameLink^.
 
 Long before the cataclysm ^alchemist.Name^ created an impossibly high and thin tower known as The ^trade-partner-1.Name^. After the cataclysm the region's survivors fled to The ^trade-partner-1.Name^ in hope of protection. ^alchemist.Name^ was benevolent, he didn't kill them.
 

@@ -1,7 +1,7 @@
 # Spire [CN]
 [Scarred World](./scarred-world.md) > Spire
 
-Spire is a river city with a population of approximately 50K. Located 1000 miles North of [Nexus](./city.md). It is entirely controlled by [The Alchemist](./alchemist.md).
+Spire is a river city a thousand miles North of [Nexus](./city.md). Its population of ~50K is entirely controlled by [The Alchemist](./alchemist.md).
 
 Long before the cataclysm Vonstrit created an impossibly high and thin tower known as The Spire. After the cataclysm the region's survivors fled to The Spire in hope of protection. Vonstrit was benevolent, he didn't kill them.
 
