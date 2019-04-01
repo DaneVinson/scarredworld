@@ -11,4 +11,4 @@ Seven-hundred years ago some catastrophic event left the world vunerable to rand
     * Option - **Mike's Advantage**: Roll Hit Dice with *Advantage*, i.e. the highest of two dice rolls
 
 ## Campaign Start
-Characters begin in ^city.FullNameLink^ as contracted members of the ^company.FullNameLink^. Each character must sign the employment [**CONTRACT**](./^contract.MarkdownName^). Players may create any character background they wish as long as it encompasses this fact.
+Characters begin in ^city.FullNameLink^ as contracted members of the ^company.FullNameLink^. Each character must sign the employment [**CONTRACT**](./^contract.MarkdownName^). Players may create any character background they wish as long as it encompasses these facts.
