@@ -8,7 +8,7 @@ Seven-hundred years ago some catastrophic event left the world vunerable to rand
 * Initial Ability Scores - As PH
     * Option - **Point Pool**: Distribute 72 total points across the 6 abilities
 * Hit Dice - As PH
-    * Option - **Mike's Advantage**: Roll Hit Dice with *Advantage*, i.e. the highest of two dice rolls
+    * Option - **Mike's Advantage**: Roll Hit Dice with *Advantage*
 
 ## Campaign Start
-Characters begin in ^city.FullNameLink^ as contracted members of the ^company.FullNameLink^. Each character must sign the employment [**CONTRACT**](./^contract.MarkdownName^). Players may create any character background they wish as long as it encompasses these facts.
+Characters begin in ^city.FullNameLink^ as contracted members of the ^company.FullNameLink^. Each character must have signed the employment [**CONTRACT**](./^contract.MarkdownName^) within the last month. The DM will entertain all character concepts that encompass this fact.
