@@ -8,4 +8,4 @@ For a period of two years the *Contracted* will perform duties as requested by ^
 * Private lodgings upon request
 * Weekly ration of 5 measures [True Spirit](./^prices.MarkdownName^) (maximum accumulation 25)
 * Bonuses commensurate with involvement in fulfilled sub-contracts
-* A group member’s share of 50% of any *Spoils* acquired during fulfillment of a sub-contract
+* Group member’s share of 50% of any *Spoils* acquired during fulfillment of a sub-contract
