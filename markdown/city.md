@@ -1,14 +1,21 @@
 # Nexus, City of Coins [NG]
 [Scarred World](./scarred-world.md) > Nexus, City of Coins
 
-Nexus a is port city with a population of approximately 200K. Commonly called the City of Coins its culture and politics are dominated by trade and commerce. Nexus is located between its two primary trading partners, the cities of [Spire](./trade-partner-1.md) and [Karrgerra](./trade-partner-2.md). Its chief exports are the [Poof Wafers](./poof.md) created by the [Benevolent Benefactors](./feeders.md), wondrous items created by [Magnus Arcana](./wizards.md) and all manner of exceptional inert items created by the [Tradesmen's Guild](./tradesmen.md). Primary imports are [The Green](./green.md) and the elixirs of Spire and [Steel Paste](./steel-paste.md) and Dwarvish steel from Karrgerra.
+Nexus a is port city with a population of approximately 200K. Commonly called the City of Coins its culture and politics are dominated by trade and commerce. Nexus is located between its two primary trading partners, the cities of [Spire](./trade-partner-1.md) and [Karrgerra](./trade-partner-2.md). Its chief exports are the [Poof Wafers](./poof.md) created by the [Benevolent Benefactors](./feeders.md), wondrous items created by [Magnus Arcana](./wizards.md) and all manner of exceptional inert items created by the [Tradesmen's Guild](./tradesmen.md). Primary imports are [The Green](./green.md) and the elixirs of Spire and [Steel Paste](./steel-paste.md) and the Dwarvish metals of Karrgerra.
 
 [Map](../images/city-of-coins-map.png)
 
 ## Government
-Nexus is governed by the Pentacouncil which consists of a Chair and four member Seats. By law the Chair belongs to the *Judge General* of the [Adjudicators](./judges.md) and Seats to one representative each from [Magnus Arcana](./wizards.md), the [Benevolent Benefactors](./feeders.md), the [Commerce Guild](./bankers.md) and the [Merchant-Traders](./merchants.md).
+Nexus is governed by the Pentacouncil which consists of a *Chair* and four member *Seats*. By law the *Chair* belongs to the *Judge General* of the [Adjudicators](./judges.md) and *Seats* to one representative each of [Magnus Arcana](./wizards.md), the [Benevolent Benefactors](./feeders.md), the [Commerce Guild](./bankers.md) and the [Merchant-Traders](./merchants.md).
 
-On all issues before the Pentacouncil each Member has one vote. The Chair has two. At any deadlock the Chair receives an additional vote. The Chair has Veto power over all new legislation. The Chair's first charge is to ensure the safety and well-being of the Nexus and its citizens. The Chair has direct command of city's military. Historically, the Chair has used the later to fulfill of the former.
+The *Chair's* primary charge is to ensure the safety and well-being of Nexus and its citizens. In service of that charge the *Chair* has direct command of the city's martial resources. Historically, those sitting in the *Chair* have faithfully used the later in fulfillment of the former.
+
+For all issues before the Pentacouncil 
+
+* Seats receive one vote each
+* The Chair receives two votes 
+* The Chair cast deciding votes
+* The Chair has Veto power over all *New* legislation
 
 Current Pentacouncil
 - Barret Highreach, Judge General of the Adjudicators

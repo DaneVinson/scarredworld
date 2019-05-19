@@ -1,11 +1,18 @@
-^city.Name^ a is port city with a population of approximately 200K. Commonly called the ^city.Nickname^ its culture and politics are dominated by trade and commerce. ^city.Name^ is located between its two primary trading partners, the cities of ^trade-partner-1.FullNameLink^ and ^trade-partner-2.FullNameLink^. Its chief exports are the ^poof.FullNameLink^ created by the ^feeders.NameLink^, wondrous items created by ^wizards.FullNameLink^ and all manner of exceptional inert items created by the ^tradesmen.FullNameLink^. Primary imports are ^green.NameLink^ and the elixirs of ^trade-partner-1.Name^ and ^steel-paste.NameLink^ and Dwarvish steel from ^trade-partner-2.Name^.
+^city.Name^ a is port city with a population of approximately 200K. Commonly called the ^city.Nickname^ its culture and politics are dominated by trade and commerce. ^city.Name^ is located between its two primary trading partners, the cities of ^trade-partner-1.FullNameLink^ and ^trade-partner-2.FullNameLink^. Its chief exports are the ^poof.FullNameLink^ created by the ^feeders.NameLink^, wondrous items created by ^wizards.FullNameLink^ and all manner of exceptional inert items created by the ^tradesmen.FullNameLink^. Primary imports are ^green.NameLink^ and the elixirs of ^trade-partner-1.Name^ and ^steel-paste.NameLink^ and the Dwarvish metals of ^trade-partner-2.Name^.
 
 [Map](../images/city-of-coins-map.png)
 
 ## Government
-^city.Name^ is governed by the Pentacouncil which consists of a Chair and four member Seats. By law the Chair belongs to the *Judge General* of the ^judges.FullNameLink^ and Seats to one representative each from ^wizards.NameLink^, the ^feeders.NameLink^, the ^bankers.NameLink^ and the ^merchants.NameLink^.
+^city.Name^ is governed by the Pentacouncil which consists of a *Chair* and four member *Seats*. By law the *Chair* belongs to the *Judge General* of the ^judges.FullNameLink^ and *Seats* to one representative each of ^wizards.NameLink^, the ^feeders.NameLink^, the ^bankers.NameLink^ and the ^merchants.NameLink^.
 
-On all issues before the Pentacouncil each Member has one vote. The Chair has two. At any deadlock the Chair receives an additional vote. The Chair has Veto power over all new legislation. The Chair's first charge is to ensure the safety and well-being of the Nexus and its citizens. The Chair has direct command of city's military. Historically, the Chair has used the later to fulfill of the former.
+The *Chair's* primary charge is to ensure the safety and well-being of ^city.Name^ and its citizens. In service of that charge the *Chair* has direct command of the city's martial resources. Historically, those sitting in the *Chair* have faithfully used the later in fulfillment of the former.
+
+For all issues before the Pentacouncil 
+
+* Seats receive one vote each
+* The Chair receives two votes 
+* The Chair cast deciding votes
+* The Chair has Veto power over all *New* legislation
 
 Current Pentacouncil
 - Barret Highreach, Judge General of the ^judges.Name^
