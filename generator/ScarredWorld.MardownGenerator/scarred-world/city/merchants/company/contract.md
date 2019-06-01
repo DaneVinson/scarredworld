@@ -9,3 +9,4 @@ For a period of two years the *Contracted* will perform duties as directed by ^c
 * Weekly ration of 5 measures [True Spirit](./^prices.MarkdownName^) (maximum accumulation 25)
 * Bonuses commensurate with involvement in fulfilled sub-contracts
 * Group member’s share of 50% of any *Spoils* acquired during fulfillment of a sub-contract
+* Possibility of *Contract Extension* (see ^company.NameLink^)

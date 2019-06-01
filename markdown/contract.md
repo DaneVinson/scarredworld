@@ -12,3 +12,4 @@ For a period of two years the *Contracted* will perform duties as directed by Th
 * Weekly ration of 5 measures [True Spirit](./prices.md) (maximum accumulation 25)
 * Bonuses commensurate with involvement in fulfilled sub-contracts
 * Group member’s share of 50% of any *Spoils* acquired during fulfillment of a sub-contract
+* Possibility of *Contract Extension* (see [The Maqamir Company](./company.md))
