@@ -12,7 +12,7 @@ The *Chair's* primary charge is to ensure the safety and well-being of Nexus and
 
 For all issues before the *Pentacouncil* 
 
-* Seats receive one vote each
+* Seats receive one vote
 * The Chair receives two votes 
 * The Chair receives an additional deciding if necessary
 * The Chair has Veto power over all *New* legislation
