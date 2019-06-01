@@ -12,10 +12,10 @@ The *Chair's* primary charge is to ensure the safety and well-being of Nexus and
 
 For all issues before the *Pentacouncil* 
 
-* Seats receive one vote
-* The Chair receives two votes 
-* The Chair receives an additional deadlock vote
-* The Chair has *Veto* power over all *New* legislation
+* Each *Seat* receives one vote
+* The *Chair* receives two votes 
+* The *Chair* receives an additional deadlock vote
+* The *Chair* has *Veto* power over all *New* legislation
 
 Current *Pentacouncil*
 - Barret Highreach, Judge General of the [Adjudicators](./judges.md)
