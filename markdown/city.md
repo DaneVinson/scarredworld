@@ -6,18 +6,18 @@ Nexus a is port city with a population of approximately 200K. Commonly called th
 [Map](../images/city-of-coins-map.png)
 
 ## Government
-Nexus is governed by the Pentacouncil which consists of a *Chair* and four member *Seats*. By law the *Chair* belongs to the *Judge General* of the [Adjudicators](./judges.md) and *Seats* to one representative each of [Magnus Arcana](./wizards.md), the [Benevolent Benefactors](./feeders.md), the [Commerce Guild](./bankers.md) and the [Merchant-Traders](./merchants.md).
+Nexus is governed by the *Pentacouncil* which consists of a *Chair* and four member *Seats*. By law the *Chair* belongs to the *Judge General* of the [Adjudicators](./judges.md) and *Seats* to one representative each of [Magnus Arcana](./wizards.md), the [Benevolent Benefactors](./feeders.md), the [Commerce Guild](./bankers.md) and the [Merchant-Traders](./merchants.md).
 
 The *Chair's* primary charge is to ensure the safety and well-being of Nexus and its citizens. In service of that charge the *Chair* has direct command of the city's martial resources. Historically, those sitting in the *Chair* have faithfully used the later in fulfillment of the former.
 
-For all issues before the Pentacouncil 
+For all issues before the *Pentacouncil* 
 
 * Seats receive one vote each
 * The Chair receives two votes 
 * The Chair receives an additional deciding if necessary
 * The Chair has Veto power over all *New* legislation
 
-Current Pentacouncil
+Current *Pentacouncil*
 - Barret Highreach, Judge General of the [Adjudicators](./judges.md)
 - Archmage Xocktol, [Magnus Arcana](./wizards.md)
 - Marcus Rotundo, His Excellency of the order of the [Benevolent Benefactors](./feeders.md)
@@ -36,7 +36,7 @@ The flow of money has primacy in the City of Coins and any entity conducting com
 All monetary transactions within Nexus are taxed at the rate of 10%. All prices listed in the PH or otherwise should be increased by 10%. Any entity found attempting to avoid this lawful Tax will be subject to immediate punishment up to and including [Expulsion](./expulsion.md).
 
 ## Catacombs
-In the first decades after the cataclysm [Chaos Storms](./chaos-storms.md) were frequent. Early survivors took any subterranean refuge available to them. For Nexus this meant utilizing the ancient burial crypts of the city's noble ancestors. The initial survivors called these crypts home for almost three decades and throughout that time they continued to excavate adding to their underground domain. As the early wave of [Chaos Storms](./chaos-storms.md) subsided people left the catacombs for a new life on the surface and in the following decades the catacombs were sealed by proclamation of the first _Pentacouncil_.
+In the first decades after the cataclysm [Chaos Storms](./chaos-storms.md) were frequent. Early survivors took any subterranean refuge available to them. For Nexus this meant utilizing the ancient burial crypts of the city's noble ancestors. The initial survivors called these crypts home for almost three decades and throughout that time they continued to excavate adding to their underground domain. As the early wave of [Chaos Storms](./chaos-storms.md) subsided people left the catacombs for a new life on the surface and in the following decades the catacombs were sealed by proclamation of the first *Pentacouncil*.
 
 Over the centuries the catacombs of Nexus have become the domain of the undead. Several intelligent undead lords came to hold sway over the region and they've held a restless peace with the living of Nexus for generations. The undead lords know that if the might of the Nexus were rallied against them they'd be eradicated. Likewise, the lords of Nexus know they could exterminate the undead entirely but doing so would incur grievous losses. Thus, the undead generally confine their activities to the catacombs and the leaders of Nexus generally act as if the undead do not exist.
 

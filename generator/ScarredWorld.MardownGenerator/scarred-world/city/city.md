@@ -3,18 +3,18 @@
 [Map](../images/city-of-coins-map.png)
 
 ## Government
-^city.Name^ is governed by the Pentacouncil which consists of a *Chair* and four member *Seats*. By law the *Chair* belongs to the *Judge General* of the ^judges.FullNameLink^ and *Seats* to one representative each of ^wizards.NameLink^, the ^feeders.NameLink^, the ^bankers.NameLink^ and the ^merchants.NameLink^.
+^city.Name^ is governed by the *Pentacouncil* which consists of a *Chair* and four member *Seats*. By law the *Chair* belongs to the *Judge General* of the ^judges.FullNameLink^ and *Seats* to one representative each of ^wizards.NameLink^, the ^feeders.NameLink^, the ^bankers.NameLink^ and the ^merchants.NameLink^.
 
 The *Chair's* primary charge is to ensure the safety and well-being of ^city.Name^ and its citizens. In service of that charge the *Chair* has direct command of the city's martial resources. Historically, those sitting in the *Chair* have faithfully used the later in fulfillment of the former.
 
-For all issues before the Pentacouncil 
+For all issues before the *Pentacouncil* 
 
 * Seats receive one vote each
 * The Chair receives two votes 
 * The Chair receives an additional deciding if necessary
 * The Chair has Veto power over all *New* legislation
 
-Current Pentacouncil
+Current *Pentacouncil*
 - Barret Highreach, Judge General of the ^judges.NameLink^
 - Archmage Xocktol, ^wizards.NameLink^
 - Marcus Rotundo, His Excellency of the order of the ^feeders.NameLink^
@@ -33,7 +33,7 @@ The flow of money has primacy in the ^city.Nickname^ and any entity conducting c
 All monetary transactions within ^city.Name^ are taxed at the rate of 10%. All prices listed in the PH or otherwise should be increased by 10%. Any entity found attempting to avoid this lawful Tax will be subject to immediate punishment up to and including ^expulsion.NameLink^.
 
 ## Catacombs
-In the first decades after the cataclysm ^chaos-storms.NameLink^ were frequent. Early survivors took any subterranean refuge available to them. For ^city.Name^ this meant utilizing the ancient burial crypts of the city's noble ancestors. The initial survivors called these crypts home for almost three decades and throughout that time they continued to excavate adding to their underground domain. As the early wave of ^chaos-storms.NameLink^ subsided people left the catacombs for a new life on the surface and in the following decades the catacombs were sealed by proclamation of the first _Pentacouncil_.
+In the first decades after the cataclysm ^chaos-storms.NameLink^ were frequent. Early survivors took any subterranean refuge available to them. For ^city.Name^ this meant utilizing the ancient burial crypts of the city's noble ancestors. The initial survivors called these crypts home for almost three decades and throughout that time they continued to excavate adding to their underground domain. As the early wave of ^chaos-storms.NameLink^ subsided people left the catacombs for a new life on the surface and in the following decades the catacombs were sealed by proclamation of the first *Pentacouncil*.
 
 Over the centuries the catacombs of ^city.Name^ have become the domain of the undead. Several intelligent undead lords came to hold sway over the region and they've held a restless peace with the living of ^city.Name^ for generations. The undead lords know that if the might of the ^city.Name^ were rallied against them they'd be eradicated. Likewise, the lords of ^city.Name^ know they could exterminate the undead entirely but doing so would incur grievous losses. Thus, the undead generally confine their activities to the catacombs and the leaders of ^city.Name^ generally act as if the undead do not exist.
 
