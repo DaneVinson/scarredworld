@@ -3,7 +3,7 @@
 [Map](../images/city-of-coins-map.png)
 
 ## Government
-^city.Name^ is governed by the *Pentacouncil* which consists of a *Chair* and four member *Seats*. By law the *Chair* belongs to the *Judge General* of the ^judges.FullNameLink^ and *Seats* to one representative each of ^wizards.NameLink^, the ^feeders.NameLink^, the ^bankers.NameLink^ and the ^merchants.NameLink^.
+^city.Name^ is governed by the *Pentacouncil* which consists of a *Chair* and four member *Seats*. By law the *Chair* belongs to the *Judge General* of the ^judges.FullNameLink^ and *Seats* to representatives of ^wizards.NameLink^, the ^feeders.NameLink^, the ^bankers.NameLink^ and the ^merchants.NameLink^.
 
 The *Chair's* primary charge is to ensure the safety and well-being of ^city.Name^ and its citizens. In service of that charge the *Chair* has direct command of the city's martial resources. Historically, those sitting in the *Chair* have faithfully used the later in fulfillment of the former.
 
