@@ -11,8 +11,8 @@ For all issues before the *Pentacouncil*
 
 * Seats receive one vote
 * The Chair receives two votes 
-* The Chair receives an additional deciding if necessary
-* The Chair has Veto power over all *New* legislation
+* The Chair receives an additional deadlock vote
+* The Chair has *Veto* power over all *New* legislation
 
 Current *Pentacouncil*
 - Barret Highreach, Judge General of the ^judges.NameLink^
