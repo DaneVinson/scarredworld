@@ -37,7 +37,7 @@ namespace ScarredWorld.MardownGenerator
             new Entity("theater-company", "The Theater Company", alignment: "CG"),
             new Entity("thieves-guild", "Thieves Guild", alignment: "NE"),
             new Entity("tradesmen", "Tradesmen's Guild", alignment: "NG"),
-            new Entity("vampire-paladin", "Lord Rothergul", "The Vampire-Paladin", alignment: "LG"),
+            new Entity("vampire-paladin", "Lord Roth", "The Vampire-Paladin", alignment: "LG"),
             new Entity("wizards", "Magnus Arcana", alignment: "N")
         };
 

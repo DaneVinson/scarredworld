@@ -19,7 +19,7 @@
         * [Poof Wafers](./poof.md)
         * [Prices](./prices.md)
         * [Radiant Arms](./paladins.md)
-            * [Lord Rothergul (The Vampire-Paladin)](./vampire-paladin.md)
+            * [Lord Roth (The Vampire-Paladin)](./vampire-paladin.md)
         * [Thieves Guild](./thieves-guild.md)
     * [Pantheon of the Scarred World](./pantheon.md)
     * [Spire](./trade-partner-1.md)

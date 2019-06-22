@@ -45,4 +45,4 @@ Over the centuries the catacombs of Nexus have become the domain of the undead. 
 - [Radiant Arms](./paladins.md)
 - [Evil Priests](./evil-priests.md)
 - [The Theater Company](./theater-company.md)
-- [Lord Rothergul (The Vampire-Paladin)](./vampire-paladin.md)
+- [Lord Roth (The Vampire-Paladin)](./vampire-paladin.md)
