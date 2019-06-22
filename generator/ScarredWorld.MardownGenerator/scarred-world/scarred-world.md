@@ -11,4 +11,4 @@ Seven-hundred years ago a catastrophic event left the world vulnerable to random
     * Option - **Mike's Advantage**: Roll Hit Dice with *Advantage*
 
 ## Campaign Start
-Characters begin in ^city.FullNameLink^ as contracted members of the ^company.FullNameLink^. Each character must have signed the employment [**CONTRACT**](./^contract.MarkdownName^) within the last month. The DM will entertain all character concepts that encompass this fact.
+Characters begin in ^city.FullNameLink^ as contracted members of the ^company.FullNameLink^. Each character must have signed the employment [**CONTRACT**](./^contract.MarkdownName^) within the last month. The DM will entertain all character concepts that encompass these facts.
