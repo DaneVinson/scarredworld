@@ -1,1 +1,3 @@
-^vampire-paladin.FullName^ came to ^city.NameLink^ shortly after the survivors of the Catastrophe took refuge in the Catacombs. The city he'd previously called home was un-made by ^chaos-storms.NameLink^
+^vampire-paladin.FullName^ revealed himself to ^city.NameLink^ shortly after the survivors of the Catastrophe took refuge in the Catacombs. Through those decades ^vampire-paladin.Name^ acted as the defender of the people. He was personally responsible for the destruction of dozens of powerful undead lords and the surviving Undead learned to fear him. Today most people understand that the "truce" between the Undead of the Catacombs and the living of ^city.Name^ is held in check by ^vampire-paladin.Name^.
+
+^vampire-paladin.Name^ wanders through ^city.NameLink^ randomly, mostly at night. He is often accompanied by one or more of his "blood guard" who are often ^paladins.NameLink^
