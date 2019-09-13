@@ -3,4 +3,4 @@
 
 Lord Roth (The Vampire-Paladin) revealed himself to [Nexus](./city.md) shortly after the survivors of the Catastrophe took refuge in the Catacombs. Through those decades Lord Roth acted as the defender of the people. He was personally responsible for the destruction of dozens of powerful undead lords and the surviving Undead learned to fear him. Today most people understand that the "truce" between the Undead of the Catacombs and the living of Nexus is held in check by Lord Roth.
 
-Lord Roth wanders through [Nexus](./city.md) randomly, mostly at night. He is often accompanied by one or more of his "blood guard" who are often [Radiant Arms](./paladins.md)
+Lord Roth wanders through [Nexus](./city.md) randomly, mostly at night. He's usually accompanied by members of his *Blood Guard*. Often these are [Radiant Arms](./paladins.md).
