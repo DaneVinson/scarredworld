@@ -1,4 +1,4 @@
-After the cataclysm most divine powers abandoned the Scarred World for lack of worshippers. They deemed it a dead world no longer worth their attention they turned away. Only three, lesser deities, remained. Each laid claim to broad domains of influence.
+After the cataclysm most divine powers abandoned the Scarred World for lack of worshippers. They deemed it a dead world, no longer worth their attention and they turned away. Only three lesser deities, remained. Each laid claim to broad domains of influence.
 
 ### ^deity-good.FullName^ [^deity-good.Alignment^]
 

@@ -1,1 +1,1 @@
-The Vampire-Paladin
+^vampire-paladin.FullName^ came to ^city.NameLink^ shortly after the survivors of the Catastrophe took refuge in the Catacombs. The city he'd previously called home was un-made by ^chaos-storms.NameLink^
