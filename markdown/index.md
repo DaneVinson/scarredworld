@@ -1,7 +1,7 @@
 ## Scarred World Index
 * [Scarred World](./scarred-world.md)
     * [Chaos Storms](./chaos-storms.md)
-    * [Karrgerra](./trade-partner-2.md)
+    * [Karrgerra (Dwarven Stronghold)](./trade-partner-2.md)
         * [Steel Paste](./steel-paste.md)
     * [Nexus, City of Coins](./city.md)
         * [Adjudicators](./judges.md)
@@ -22,6 +22,6 @@
             * [Lord Roth (The Vampire-Paladin)](./vampire-paladin.md)
         * [Thieves Guild](./thieves-guild.md)
     * [Pantheon of the Scarred World](./pantheon.md)
-    * [Spire](./trade-partner-1.md)
+    * [Spire (City of the Mad Alchemist)](./trade-partner-1.md)
         * [The Alchemist](./alchemist.md)
         * [The Green](./green.md)

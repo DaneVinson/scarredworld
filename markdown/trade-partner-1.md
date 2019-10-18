@@ -1,5 +1,5 @@
-# Spire [CN]
-[Scarred World](./scarred-world.md) > Spire
+# Spire (City of the Mad Alchemist) [CN]
+[Scarred World](./scarred-world.md) > Spire (City of the Mad Alchemist)
 
 Spire is a river city a thousand miles North of [Nexus](./city.md). Its population of ~50K is entirely controlled by [The Alchemist](./alchemist.md).
 

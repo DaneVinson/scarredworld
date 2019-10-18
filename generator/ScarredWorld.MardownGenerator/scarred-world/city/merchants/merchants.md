@@ -1,7 +1,1 @@
-*^merchants.Name^* - They're merchants, traders and tradesmen.
-
-Post cataclysm, shortly after the people's emergence from the catacombs of c its merchants, vagabonds and low people began organizing. The result has become mt. 
-
-mt agents made first contact with c trading partners tp1 and tp2.
-
-Today all trade with tp1,2 goes through nt.
+Shortly after emergence from the catacombs of ^city.NameLink^ traders, vagabonds and people of low morals began organizing. Through force of will that organization became the ^merchants.Name^. The ^merchants.Name^ made first contact with ^trade-partner-1.NameLink^ and ^trade-partner-2.NameLink^ and started robust trade activity to both. Today the ^merchants.Name^ has interests in almost all ^city.Name^ commerce.
