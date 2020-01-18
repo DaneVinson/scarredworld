@@ -30,7 +30,7 @@ The availability of [Poof](./poof.md) means all people are free from the daily n
 Life in Nexus would be like a golden age if not for two facts. First, everyone understands exactly what the [Chaos Storms](./chaos-storms.md) mean. On any day everything could be un-made. Second, [Poof](./poof.md) satisfies the need for food and water but it leaves some deeper _hunger_ quite unsatisfied. Individual responses to this _hunger_ vary erratically.
 
 ## Trade and Commerce
-The flow of money has primacy in the City of Coins and any entity conducting commercial trade or commerce within Nexus must be a licensed member of the [Merchant-Traders](./merchants.md). Those found out of compliance are subject to immediate punishment up to and including [Expulsion](./expulsion.md).
+The flow of money has primacy in the City of Coins and any entity conducting commercial trade within Nexus must be a licensed member of the [Merchant-Traders](./merchants.md). Those found out of compliance are subject to immediate punishment up to and including [Expulsion](./expulsion.md).
 
 ## Taxes
 All monetary transactions within Nexus are taxed at the rate of 10%. All prices listed in the PH or otherwise should be increased by 10%. Any entity found attempting to avoid the *Lawful Tax* are be subject to immediate punishment up to and including [Expulsion](./expulsion.md).

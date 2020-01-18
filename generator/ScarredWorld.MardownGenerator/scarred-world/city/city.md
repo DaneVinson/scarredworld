@@ -27,7 +27,7 @@ The availability of ^poof.NicknameLink^ means all people are free from the daily
 Life in ^city.Name^ would be like a golden age if not for two facts. First, everyone understands exactly what the ^chaos-storms.NameLink^ mean. On any day everything could be un-made. Second, ^poof.NicknameLink^ satisfies the need for food and water but it leaves some deeper _hunger_ quite unsatisfied. Individual responses to this _hunger_ vary erratically.
 
 ## Trade and Commerce
-The flow of money has primacy in the ^city.Nickname^ and any entity conducting commercial trade or commerce within ^city.Name^ must be a licensed member of the ^merchants.NameLink^. Those found out of compliance are subject to immediate punishment up to and including ^expulsion.NameLink^.
+The flow of money has primacy in the ^city.Nickname^ and any entity conducting commercial trade within ^city.Name^ must be a licensed member of the ^merchants.NameLink^. Those found out of compliance are subject to immediate punishment up to and including ^expulsion.NameLink^.
 
 ## Taxes
 All monetary transactions within ^city.Name^ are taxed at the rate of 10%. All prices listed in the PH or otherwise should be increased by 10%. Any entity found attempting to avoid the *Lawful Tax* are be subject to immediate punishment up to and including ^expulsion.NameLink^.
