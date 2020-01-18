@@ -10,7 +10,7 @@ Seven-hundred years ago a catastrophic event left the world vulnerable to random
 * Initial Ability Scores - As PH
     * Option - **Point Pool**: Distribute 72 total points across the 6 abilities
 * Hit Dice - As PH
-    * Option - **Mike's Advantage**: Roll Hit Dice with *Advantage*
+    * Option - **Mike's Advantage**: Roll new Hit Dice with *Advantage*
 
 ## Campaign Start
 Characters begin in [Nexus, City of Coins](./city.md) as contracted members of the [The Maqamir Company](./company.md). Each character must have signed the employment [**CONTRACT**](./contract.md) within the last month. The DM will entertain all character concepts that encompass these facts.
