@@ -2,7 +2,7 @@ After the cataclysm most divine powers abandoned the Scarred World for lack of w
 
 ### ^deity-good.FullName^ [^deity-good.Alignment^]
 
-Typically appearing as a beautiful human female ^deity-good.Name^ reigns over the domains of life, love, peace, justice, fertility, food, music drink and joy. Her most common symbol is the golden chalice.
+Typically appearing as a beautiful human female ^deity-good.Name^ reigns over the domains of life, love, peace, justice, fertility, food, music, drink and joy. Her most common symbol is the golden chalice.
 
 ![](../images/chalice.png)
 

@@ -5,7 +5,7 @@ After the cataclysm most divine powers abandoned the Scarred World for lack of w
 
 ### Raya [NG]
 
-Typically appearing as a beautiful human female Raya reigns over the domains of life, love, peace, justice, fertility, food, music drink and joy. Her most common symbol is the golden chalice.
+Typically appearing as a beautiful human female Raya reigns over the domains of life, love, peace, justice, fertility, food, music, drink and joy. Her most common symbol is the golden chalice.
 
 ![](../images/chalice.png)
 
