@@ -1,6 +1,6 @@
 [Scarred World Index](./index.md)
 
-Seven-hundred years ago a catastrophic event left the world vulnerable to random contact with the outer planes. Large portions were wiped away by pure chaos. Much of the rest was populated with supernatural horrors. Today 70% of the world is consumed by pure choas (or worse) and at least half the remaining is uninhabitable. Only the most powerful pockets of mortal civilization remain. Characters begin the campaign in one such pocket, ^city.FullNameLink^.
+Seven-hundred years ago a catastrophic event left the world vulnerable to random contact with the outer planes. Large portions were wiped away by pure chaos. Much of the rest was populated with supernatural horrors. Today half the world is consumed by pure chaos and much that remains is uninhabitable. Only the most powerful pockets of mortal civilization remains. Characters begin the campaign in one such pocket, ^city.FullNameLink^.
 
 ## Character Creation
 * Races - Any from the Player's Handbook (PH)
