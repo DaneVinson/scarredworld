@@ -1,6 +1,4 @@
-# Evil Priests [CE]
-[Scarred World](./scarred-world.md) > [Nexus](./city.md) > Evil Priests
+# Dead Shield (Necromancers) [CE]
+[Scarred World](./scarred-world.md) > [Nexus](./city.md) > Dead Shield (Necromancers)
 
-The Evil Priests
-
-They advocate utilizing the undead from the catacombs to bolster the city's forces and then take the fight to the outer-planar denizens.
+Dead Shield is a loose alliance of Necromancers that wish to use the undead in the catacombs of [Nexus](./city.md) to destroy the outer-planer invaders.

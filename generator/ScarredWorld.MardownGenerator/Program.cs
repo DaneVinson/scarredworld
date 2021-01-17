@@ -19,7 +19,7 @@ namespace ScarredWorld.MardownGenerator
             new Entity("deity-evil", "Seethisat", markdownName: "pantheon.md", alignment: "NE"),
             new Entity("deity-good", "Raya", markdownName: "pantheon.md", alignment: "NG"),
             new Entity("deity-neutral", "Jarl-Kahn", markdownName: "pantheon.md", alignment: "N"),
-            new Entity("evil-priests", "Evil Priests", alignment: "CE"),
+            new Entity("evil-priests", "Dead Shield", "Necromancers", alignment: "CE"),
             new Entity("expulsion", "Expulsion"),
             new Entity("feeders", "Benevolent Benefactors", "Feeders", alignment: "LG"),
             new Entity("green", "The Green"),

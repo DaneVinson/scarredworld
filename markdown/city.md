@@ -43,6 +43,6 @@ Over the centuries the catacombs of Nexus have become the domain of the undead. 
 ## Other Entities of Note
 - [Thieves Guild](./thieves-guild.md)
 - [Radiant Arms](./paladins.md)
-- [Evil Priests](./evil-priests.md)
+- [Dead Shield (Necromancers)](./evil-priests.md)
 - [The Theater Company](./theater-company.md)
 - [Lord Roth (The Vampire-Paladin)](./vampire-paladin.md)
