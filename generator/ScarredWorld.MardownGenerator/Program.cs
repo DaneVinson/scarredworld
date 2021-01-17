@@ -11,7 +11,7 @@ namespace ScarredWorld.MardownGenerator
         private static readonly Entity[] CampaignEntities = new Entity[]
         {
             new Entity("alchemist", "Vonstrit", "The Mad Alchemist", "The Alchemist", "CE"),
-            new Entity("bankers", "Commerce Guild", "Bankers", alignment: "LN"),
+            new Entity("bankers", "Commerce Guild", "Coin Bookers", alignment: "LN"),
             new Entity("chaos-storms", "Chaos Storms"),
             new Entity("city", "Nexus", "City of Coins", "Nexus, City of Coins", alignment: "NG"),
             new Entity("company", "The Maqamir Company", alignment: "N"),

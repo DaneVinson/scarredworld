@@ -7,7 +7,7 @@
         * [Adjudicators](./judges.md)
             * [Justicars (Street Judges)](./street-judges.md)
         * [Benevolent Benefactors (Feeders)](./feeders.md)
-        * [Commerce Guild (Bankers)](./bankers.md)
+        * [Commerce Guild (Coin Bookers)](./bankers.md)
         * [Evil Priests](./evil-priests.md)
         * [Expulsion](./expulsion.md)
         * [Magnus Arcana](./wizards.md)
