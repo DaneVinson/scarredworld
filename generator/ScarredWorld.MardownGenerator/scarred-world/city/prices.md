@@ -1,3 +1,6 @@
+### Taxes
+All commerce within ^city.FullNameLink^ is assessed a 10% tax.
+
 ### *True* Food and Drink
 *True* indicates a food or beverage is of natural origin.
 All *True* food costs are drastically increased from those listed in the PH. *True* food costs can easily be 100x the PH value. For example the PH shows a loaf of bread costs 2 cp. A loaf of *True* bread in the streets of ^city.Name^ starts at 2 gp.
