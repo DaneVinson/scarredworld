@@ -36,10 +36,3 @@ All monetary transactions within ^city.Name^ are taxed at the rate of 10%. All p
 In the first decades after the cataclysm ^chaos-storms.NameLink^ were frequent. Early survivors took any subterranean refuge available to them. For ^city.Name^ this meant utilizing the ancient burial crypts of the city's noble ancestors. The initial survivors called these crypts home for almost three decades and throughout that time they continued to excavate adding to their underground domain. As the early wave of ^chaos-storms.NameLink^ subsided people left the catacombs for a new life on the surface and in the following decades the catacombs were sealed by proclamation of the first *Pentacouncil*.
 
 Over the centuries the catacombs of ^city.Name^ have become the domain of the undead. Several intelligent undead lords came to hold sway over the region and they've held a restless peace with the living of ^city.Name^ for generations. The undead lords know that if the might of the ^city.Name^ were rallied against them they'd be eradicated. Likewise, the lords of ^city.Name^ know they could exterminate the undead entirely but doing so would incur grievous losses. Thus, the undead generally confine their activities to the catacombs and the leaders of ^city.Name^ generally act as if the undead do not exist.
-
-## Other Entities of Note
-- ^thieves-guild.FullNameLink^
-- ^paladins.FullNameLink^
-- ^evil-priests.FullNameLink^
-- ^theater-company.FullNameLink^
-- ^vampire-paladin.FullNameLink^

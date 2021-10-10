@@ -1,5 +1,4 @@
-[Scarred World Index](./index.md)
-
+## The Scarring
 Seven-hundred years ago a catastrophic event left the world vulnerable to random contact with the outer planes. Large portions were wiped away by pure chaos. Much of the rest was populated with supernatural horrors. Today half the world is consumed by pure chaos and much that remains is uninhabitable. Only the most powerful pockets of mortal civilization remain. Characters begin the campaign in one such pocket, ^city.FullNameLink^.
 
 ## Character Creation
@@ -12,3 +11,5 @@ Seven-hundred years ago a catastrophic event left the world vulnerable to random
 
 ## Campaign Start
 Characters begin in ^city.FullNameLink^ as contracted members of the ^company.FullNameLink^. Each character must have signed the employment [**CONTRACT**](./^contract.MarkdownName^) within the last month. The DM will entertain all character concepts that encompass these facts.
+
+## [Scarred World Index](./index.md)

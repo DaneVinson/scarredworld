@@ -1,1 +1,1 @@
-The Alchemist!!!
+Very little is known of ^alchemist.Name^ beyond the fact that he is an incredibly ancient and powerful arcanist. Records from centuries before The Scarring mention the ^trade-partner-1.Nickname^.
