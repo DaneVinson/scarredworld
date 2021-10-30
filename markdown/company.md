@@ -4,7 +4,6 @@
 ### Company Overview
 The Maqamir Company has been an independently owned, licensed and bonded trading company for over three centuries. Small by most standards it has prospered accepting contracts few others would. The Maqamir Company specializes in high-risk, high-reward service contracts and it has a reputation for completing them successfully and discretely. The Maqamir Company accepts a wide array of contract types including:
 
-* Trade
 * Transport
 * Protection
 * Recovery
