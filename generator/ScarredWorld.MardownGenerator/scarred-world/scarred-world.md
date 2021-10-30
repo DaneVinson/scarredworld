@@ -11,7 +11,7 @@ Seven-hundred years ago a catastrophic event left the world vulnerable to random
     * Option - **Mike's Advantage**: Roll new Hit Dice with *Advantage*
     * Option - **Dan's Fallback**: Take highest of class default and a roll of the class Hit Dice
 
-The DM will consider Races and Classes outside of BR on an individual basis.
+The DM will consider the use of Races and Classes outside of BR on an individual basis.
 
 ## Campaign Start
 Characters begin in ^city.FullNameLink^ as contracted members of the ^company.FullNameLink^. Each character must have signed the employment [**CONTRACT**](./^contract.MarkdownName^) within the last month. The DM will entertain all character concepts that encompass these facts.
