@@ -5,7 +5,7 @@ Seven-hundred years ago a catastrophic event left the world vulnerable to random
 
 ## Character Creation
 * Races - Any from the Base Rules (BR)
-* Classes - Any from the BR
+* Classes - Any from BR
 * Initial Ability Scores - As BR
     * Option - **Point Pool**: Distribute 69 points across the 6 abilities
     * Option - **2-for-1**: After initial ability assigment players may exchange points between abilities 2-for-1
