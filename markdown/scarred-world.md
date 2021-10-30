@@ -8,10 +8,12 @@ Seven-hundred years ago a catastrophic event left the world vulnerable to random
 * Classes - Any from BR
 * Initial Ability Scores - As BR
     * Option - **Point Pool**: Distribute 69 points across the 6 abilities
-    * Option - **2-for-1**: After initial ability assigment players may exchange points between abilities 2-for-1
+    * Option - **2-for-1**: After initial ability assignment players may exchange points between abilities 2-for-1
 * Hit Dice - As BR
     * Option - **Mike's Advantage**: Roll new Hit Dice with *Advantage*
     * Option - **Dan's Fallback**: Take highest of class default and a roll of the class Hit Dice
+
+The DM will consider Races and Classes outside of BR on an individual basis.
 
 ## Campaign Start
 Characters begin in [Nexus, City of Coins](./city.md) as contracted members of the [The Maqamir Company](./company.md). Each character must have signed the employment [**CONTRACT**](./contract.md) within the last month. The DM will entertain all character concepts that encompass these facts.
