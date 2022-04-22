@@ -8,6 +8,9 @@
 *.sln.docstates
 appsettings.Development.json
 
+# Rider
+.idea/
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
