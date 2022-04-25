@@ -11,6 +11,9 @@ appsettings.Development.json
 # Rider
 .idea/
 
+# VS Code
+.vscode/
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
