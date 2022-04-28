@@ -1,7 +1,7 @@
 # Spire (City of the Mad Alchemist) [CN]
 [Scarred World](./scarred-world.md) > Spire (City of the Mad Alchemist)
 
-Spire is a river city a thousand miles North of [Nexus](./city.md). Its population of ~50K is entirely controlled by [CE](./alchemist.md).
+Spire is a river city a thousand miles North of [Nexus](./city.md). Its population of ~50K is entirely controlled by [Meister Von Strit ??? (The Mad Alchemist)](./alchemist.md).
 
 Long before the cataclysm Meister Von Strit ??? created an impossibly high and thin tower known as The Spire. After the cataclysm the region's survivors fled to The Spire in hope of protection. Meister Von Strit ??? was benevolent, he didn't kill them.
 

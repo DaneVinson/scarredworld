@@ -10,7 +10,7 @@ namespace ScarredWorld.MardownGenerator
     {
         private static readonly Entity[] CampaignEntities = new Entity[]
         {
-            new Entity("alchemist", "Meister Von Strit ???", "The Mad Alchemist", "CE"),
+            new Entity("alchemist", "Meister Von Strit ???", "The Mad Alchemist", alignment: "CE"),
             new Entity("bankers", "Commerce Guild", "Coin Books", alignment: "LN"),
             new Entity("chaos-storms", "Chaos Storms"),
             new Entity("city", "Nexus", "City of Coins", "Nexus, City of Coins", alignment: "NG"),
