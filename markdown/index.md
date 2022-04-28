@@ -23,5 +23,5 @@
         * [Thieves Guild ???](./thieves-guild.md)
     * [Pantheon of the Scarred World](./pantheon.md)
     * [Spire (City of the Mad Alchemist)](./trade-partner-1.md)
-        * [Meister Vonstrit](./alchemist.md)
+        * [CE](./alchemist.md)
         * [The Green](./green.md)
