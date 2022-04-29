@@ -2,6 +2,7 @@
 Seven-hundred years ago a catastrophic event left the world vulnerable to random contact with the outer planes. Large portions were wiped away by pure chaos. Much of the rest was populated with supernatural horrors. Today half the world is consumed by pure chaos and much that remains is uninhabitable. Only the most powerful pockets of mortal civilization remain. Characters begin the campaign in one such pocket, ^city.FullNameLink^.
 
 ## Character Creation
+Players may create one or two characters using the following rules. Players may only run one character at a time selecting which to run at the start of each session. If a player chooses to create two characters those characters are level-bound together, i.e. when one advances so too does the other even when the second character was not in play.
 * Races - Any from the Base Rules (BR)
 * Classes - Any from BR
 * Initial Ability Scores - As BR

@@ -4,13 +4,13 @@ using System.IO;
 using System.Linq;
 using System.Text;
 
-namespace ScarredWorld.MardownGenerator
+namespace ScarredWorld.MarkdownGenerator
 {
     class Program
     {
         private static readonly Entity[] CampaignEntities = new Entity[]
         {
-            new Entity("alchemist", "Meister Von Strit", "The Mad Alchemist", alignment: "CE"),
+            new Entity("alchemist", "Meister Von Strit", "The Mad Alchemist", alignment: "CN"),
             new Entity("bankers", "Commerce Guild", "Coin Books", alignment: "LN"),
             new Entity("chaos-storms", "Chaos Storms"),
             new Entity("city", "Nexus", "City of Coins", "Nexus, City of Coins", alignment: "NG"),
@@ -54,12 +54,6 @@ namespace ScarredWorld.MardownGenerator
             {
                 Console.WriteLine("{0} - {1}", ex.GetType(), ex.Message);
                 Console.WriteLine(ex.StackTrace ?? String.Empty);
-            }
-            finally
-            {
-                Console.WriteLine();
-                Console.WriteLine("...");
-                Console.ReadKey();
             }
         }
 

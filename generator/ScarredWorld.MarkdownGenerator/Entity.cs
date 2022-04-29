@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ScarredWorld.MardownGenerator
+namespace ScarredWorld.MarkdownGenerator
 {
     public class Entity
     {
