@@ -10,12 +10,12 @@ namespace ScarredWorld.MardownGenerator
     {
         private static readonly Entity[] CampaignEntities = new Entity[]
         {
-            new Entity("alchemist", "Meister Von Strit ???", "The Mad Alchemist", alignment: "CE"),
+            new Entity("alchemist", "Meister Von Strit", "The Mad Alchemist", alignment: "CE"),
             new Entity("bankers", "Commerce Guild", "Coin Books", alignment: "LN"),
             new Entity("chaos-storms", "Chaos Storms"),
             new Entity("city", "Nexus", "City of Coins", "Nexus, City of Coins", alignment: "NG"),
             new Entity("company", "The Maqamir Company", alignment: "N"),
-            new Entity("contract", "Employment Contract", fullName: "Intial Employment Contract"),
+            new Entity("contract", "Employment Contract", fullName: "Initial Employment Contract"),
             new Entity("deity-evil", "Seethisat", markdownName: "pantheon.md", alignment: "NE"),
             new Entity("deity-good", "Raya", markdownName: "pantheon.md", alignment: "NG"),
             new Entity("deity-neutral", "Jarl-Kahn", markdownName: "pantheon.md", alignment: "N"),
