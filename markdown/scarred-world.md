@@ -8,7 +8,7 @@ Players may create either one or two characters under the guidelines that follow
 * Races - Any from the Base Rules (BR)
 * Classes - Any from BR
 * Initial Ability Scores - As BR
-    * Option - **Point Pool**: Distribute 69 points across the 6 abilities
+    * Option - **Point Pool**: Distribute 68 points across the 6 abilities
     * Option - **2-for-1**: After initial ability assignment players may exchange points between abilities 2-for-1
 * Hit Dice - As BR
     * Option - **Mike's Advantage**: Roll new Hit Dice with *Advantage*
