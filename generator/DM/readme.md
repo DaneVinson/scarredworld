@@ -7,3 +7,5 @@
 * Purchase Green from Spire (5-6)
 * Deliver supplies to Karrgerra, Githyankie pirates (7+)
 * Recover Staff of Power (7+)
+
+Party's Maqamir handler - Temerrius Squeebus, Master-Merchant, tall, pale, whip-thin, pinched face, arrogant, terse
