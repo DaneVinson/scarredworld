@@ -16,11 +16,11 @@ For all issues before the *Pentacouncil*
 * The *Chair* has *Veto* power over all *New* legislation
 
 Current *Pentacouncil*
-- Barret Highreach, Judge General of the [Adjudicators](./judges.md)
+- Sir Barret Highreach, Judge General of the [Adjudicators](./judges.md)
 - Archmage Xocktol, [Magnus Arcana](./wizards.md)
 - Marcus Rotundo, His Excellency of the order of the [Benevolent Benefactors](./feeders.md)
-- Darin Dokow, Chief Operating Officer of the [Commerce Guild](./bankers.md)
-- Aman the Magnificent, Maker of Coin, Pasha of Jewels, Bringer of Rain ([Merchant-Traders](./merchants.md))
+- Faereniss Saaberteal, Chief Operating Officer of the [Commerce Guild](./bankers.md)
+- Aman the Magnificent, Pasha of Jewels and Maker of Coin ([Merchant-Traders](./merchants.md))
 
 ## Life in the City of Coins
 The availability of [Poof](./poof.md) means all people are free from the daily need to acquire food. This fact liberates the populace to pursue goals beyond daily provisioning for self and family. As a result the majority of Nexus' citizens have some significant skill in at least one art, trade or discipline. Every organization from [Magnus Arcana](./wizards.md) to the smallest blacksmith in the [Tradesmen's Guild](./tradesmen.md) is inundated with requests for apprenticeship by well qualified applicants. From the walls of the keep to the roof on the lowliest house the entire city is soundly constructed and well maintained. Craftsmen, artisans and performers of every stripe exist in multitude and the majority of them are skilled in their trade. Theaters and concert halls are abundant and accessible to all. Truly the people of Nexus have a good life.

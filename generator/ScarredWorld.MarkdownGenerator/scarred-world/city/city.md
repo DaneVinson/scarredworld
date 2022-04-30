@@ -13,11 +13,11 @@ For all issues before the *Pentacouncil*
 * The *Chair* has *Veto* power over all *New* legislation
 
 Current *Pentacouncil*
-- Barret Highreach, Judge General of the ^judges.NameLink^
+- Sir Barret Highreach, Judge General of the ^judges.NameLink^
 - Archmage Xocktol, ^wizards.NameLink^
 - Marcus Rotundo, His Excellency of the order of the ^feeders.NameLink^
-- Darin Dokow, Chief Operating Officer of the ^bankers.NameLink^
-- Aman the Magnificent, Maker of Coin, Pasha of Jewels, Bringer of Rain (^merchants.NameLink^)
+- Faereniss Saaberteal, Chief Operating Officer of the ^bankers.NameLink^
+- Aman the Magnificent, Pasha of Jewels and Maker of Coin (^merchants.NameLink^)
 
 ## Life in the ^city.Nickname^
 The availability of ^poof.NicknameLink^ means all people are free from the daily need to acquire food. This fact liberates the populace to pursue goals beyond daily provisioning for self and family. As a result the majority of ^city.Name^' citizens have some significant skill in at least one art, trade or discipline. Every organization from ^wizards.NameLink^ to the smallest blacksmith in the ^tradesmen.NameLink^ is inundated with requests for apprenticeship by well qualified applicants. From the walls of the keep to the roof on the lowliest house the entire city is soundly constructed and well maintained. Craftsmen, artisans and performers of every stripe exist in multitude and the majority of them are skilled in their trade. Theaters and concert halls are abundant and accessible to all. Truly the people of ^city.Name^ have a good life.
