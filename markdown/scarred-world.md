@@ -19,4 +19,4 @@ The DM will consider the use of Races and Classes outside of BR on an individual
 ## Campaign Start
 Characters begin in [Nexus, City of Coins](./city.md) as contracted members of the [The Maqamir Company](./company.md). Each character must have signed the employment [**CONTRACT**](./contract.md) within the last month. The DM will entertain all character concepts that encompass these facts.
 
-## [Scarred World Index](./index.md)
+## [Index](./index.md)

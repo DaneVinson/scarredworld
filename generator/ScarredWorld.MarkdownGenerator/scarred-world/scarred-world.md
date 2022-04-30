@@ -17,4 +17,4 @@ The DM will consider the use of Races and Classes outside of BR on an individual
 ## Campaign Start
 Characters begin in ^city.FullNameLink^ as contracted members of the ^company.FullNameLink^. Each character must have signed the employment [**CONTRACT**](./^contract.MarkdownName^) within the last month. The DM will entertain all character concepts that encompass these facts.
 
-## [Scarred World Index](./index.md)
+## [Index](./index.md)
