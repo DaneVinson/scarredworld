@@ -1,7 +1,5 @@
 The port city of ^city.Name^ is home to more than 250K people. Commonly called the ^city.Nickname^ its culture and politics are dominated by trade and commerce. ^city.Name^ is located between its two primary trading partners, the cities of ^trade-partner-1.FullNameLink^ and ^trade-partner-2.FullNameLink^. Its chief exports are the ^poof.FullNameLink^ created by the ^feeders.NameLink^, wondrous items created by ^wizards.FullNameLink^ and all manner of exceptional inert items created by the ^tradesmen.FullNameLink^. Primary imports from ^trade-partner-1.Name^ are ^green.NameLink^ and its other faboulus elixirs. From ^trade-partner-2.Name^ comes ^steel-paste.NameLink^ and the surperior metal works of the Dwarves.
 
-[Map](../images/city-of-coins-map.png)
-
 ## Government
 ^city.Name^ is governed by the *Pentacouncil* which consists of a *Chair* and four member *Seats*. By law the *Chair* belongs to the *Judge General* of the ^judges.FullNameLink^ and *Seats* to representatives of ^wizards.NameLink^, the ^feeders.NameLink^, the ^bankers.NameLink^ and the ^merchants.NameLink^.
 

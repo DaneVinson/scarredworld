@@ -3,8 +3,6 @@
 
 The port city of Nexus is home to more than 250K people. Commonly called the City of Coins its culture and politics are dominated by trade and commerce. Nexus is located between its two primary trading partners, the cities of [Spire (City of the Mad Alchemist)](./trade-partner-1.md) and [Karrgerra (Dwarven Stronghold)](./trade-partner-2.md). Its chief exports are the [Poof Wafers](./poof.md) created by the [Benevolent Benefactors](./feeders.md), wondrous items created by [Magnus Arcana](./wizards.md) and all manner of exceptional inert items created by the [Tradesmen's Guild](./tradesmen.md). Primary imports from Spire are [The Green](./green.md) and its other faboulus elixirs. From Karrgerra comes [Steel Paste](./steel-paste.md) and the surperior metal works of the Dwarves.
 
-[Map](../images/city-of-coins-map.png)
-
 ## Government
 Nexus is governed by the *Pentacouncil* which consists of a *Chair* and four member *Seats*. By law the *Chair* belongs to the *Judge General* of the [Adjudicators](./judges.md) and *Seats* to representatives of [Magnus Arcana](./wizards.md), the [Benevolent Benefactors](./feeders.md), the [Commerce Guild](./bankers.md) and the [Merchant-Traders](./merchants.md).
 
