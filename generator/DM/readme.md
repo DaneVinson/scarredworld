@@ -8,4 +8,4 @@
 * Deliver supplies to Karrgerra, Githyankie pirates (7+)
 * Recover Staff of Power (7+)
 
-Party's Maqamir handler - Temerrius Squeebus, Master-Merchant, tall, pale, whip-thin, pinched face, arrogant, terse
+Party's Maqamir handler - Master Assessor Temerrius Squeebus, tall, pale, whip-thin, pinched face, arrogant, terse
