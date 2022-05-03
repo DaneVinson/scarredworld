@@ -4,13 +4,13 @@ using System.IO;
 using System.Linq;
 using System.Text;
 
-namespace ScarredWorld.MardownGenerator
+namespace ScarredWorld.MarkdownGenerator
 {
     class Program
     {
         private static readonly Entity[] CampaignEntities = new Entity[]
         {
-            new Entity("alchemist", "Meister Von Strit", "The Mad Alchemist", alignment: "CE"),
+            new Entity("alchemist", "Meister Von Strit", "The Mad Alchemist", alignment: "CN"),
             new Entity("bankers", "Commerce Guild", "Coin Books", alignment: "LN"),
             new Entity("chaos-storms", "Chaos Storms"),
             new Entity("city", "Nexus", "City of Coins", "Nexus, City of Coins", alignment: "NG"),
@@ -28,14 +28,14 @@ namespace ScarredWorld.MardownGenerator
             new Entity("pantheon", "Pantheon", fullName: "Pantheon of the Scarred World"),
             new Entity("poof", "Sustenance Wafers", "Poof", "Poof Wafers"),
             new Entity("prices", "Prices"),
-            new Entity("paladins", "Radiant Arms ???", alignment: "LG"),
+            new Entity("paladins", "Radiant Arms", "LG", "The Order of the Radiant Arms"),
             new Entity("scarred-world", "Scarred World"),
             new Entity("steel-paste", "Steel Paste"),
             new Entity("street-judges", "Justicars", "Street Judges", alignment: "LN"),
             new Entity("trade-partner-1", "Spire", "City of the Mad Alchemist", alignment: "CN"),
             new Entity("trade-partner-2", "Karrgerra", "Dwarven Stronghold", alignment: "NG"),
             new Entity("theater-company", "The Theater Company", alignment: "CG"),
-            new Entity("thieves-guild", "Thieves Guild ???", alignment: "NE"),
+            new Entity("thieves-guild", "The Red Hand", "Thieves Guild of Nexus", alignment: "NE"),
             new Entity("tradesmen", "Tradesmen's Guild", alignment: "NG"),
             new Entity("vampire-paladin", "Lord Roth", "The Vampire-Paladin", alignment: "LG"),
             new Entity("wizards", "Magnus Arcana", alignment: "N")
@@ -54,12 +54,6 @@ namespace ScarredWorld.MardownGenerator
             {
                 Console.WriteLine("{0} - {1}", ex.GetType(), ex.Message);
                 Console.WriteLine(ex.StackTrace ?? String.Empty);
-            }
-            finally
-            {
-                Console.WriteLine();
-                Console.WriteLine("...");
-                Console.ReadKey();
             }
         }
 
