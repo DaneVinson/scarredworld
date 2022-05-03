@@ -11,6 +11,6 @@ The Maqamir Company has been an independently owned, licensed and bonded trading
 * Intelligence
 
 ### Employment
-Candidates who wish employment with the The Maqamir Company will be screened. If selected a candidate will be asked to sign the [Intial Employment Contract](./contract.md). Upon signing they are *Contracted*.
+Candidates who wish employment with the The Maqamir Company will be screened. If selected a candidate will be asked to sign the [Initial Employment Contract](./contract.md). Upon signing they are *Contracted*.
 
 Sometime before the end of their initial contract the *Contracted* will either be offered a *Contract Extension* or their contract will be *Terminated*. Details for extensions are provided upon offering and typically include additional duties, incentives and compensations as fitting an experienced *Contractor*.
