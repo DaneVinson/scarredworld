@@ -1,4 +1,8 @@
 # Chaos Storms 
 [Scarred World](./scarred-world.md) > Chaos Storms
 
-As the name suggests Chaos Storms are storms of pure chaos. They can appear as anything from cyclones to towering thunder-heads miles wide. They may be wildly colored, dark and grey or void black. The one constant is that when Chaos Storms pass they leave destruction in their wake. Everything in a storm's path is utterly un-made leaving behind land scoured to a smooth surface of toxic grey sand.
+As the name suggests Chaos Storms are storms of pure chaos. They can appear as anything from cyclones to towering thunder-heads miles wide. They may be wildly colored, dark and grey or void black. The one constant is that when Chaos Storms pass they leave destruction in their wake. Everything in a storm's path is utterly un-made leaving behind land scoured to a smooth surface of toxic grey sand commonly referred to as Wasteland. 
+
+After the passing of a Storm effected lands remain toxic to all organic life for decades. Anyone entering Wasteland must make a DC 8 Constitution (poison) save or be incur _Wasteland Sickness_. Such individuals incur the Poisoned condition and loose one maximum hit point immediately and another each day until they are cured or their maximum hit points reach 0 (at which point they die). Any individual that passes their initial saving throw and remains in Wasteland must save again each day at dawn.
+
+_Wasteland Sickness_ can be cured by any means that resolves the Poisoned condition or through ingestion of a [Potion of Antidote to Wasteland Sickness](.\prices.md). Upon being cured an individual immediately regains all lost temporary hit points.
