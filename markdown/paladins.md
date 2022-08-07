@@ -1,4 +1,4 @@
-# The Order of the Radiant Arms 
+# The Order of the Radiant Arms [LG]
 [Scarred World](./scarred-world.md) > [Nexus](./city.md) > The Order of the Radiant Arms
 
 __The White Code__: _Act with justice. Speak only truth. Protect the innocent._

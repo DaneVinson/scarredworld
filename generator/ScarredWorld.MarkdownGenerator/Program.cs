@@ -28,7 +28,7 @@ namespace ScarredWorld.MarkdownGenerator
             new Entity("pantheon", "Pantheon", fullName: "Pantheon of the Scarred World"),
             new Entity("poof", "Sustenance Wafers", "Poof", "Poof Wafers"),
             new Entity("prices", "Prices"),
-            new Entity("paladins", "Radiant Arms", "LG", "The Order of the Radiant Arms"),
+            new Entity("paladins", "Radiant Arms", "", "The Order of the Radiant Arms", "LG"),
             new Entity("scarred-world", "Scarred World"),
             new Entity("steel-paste", "Steel Paste"),
             new Entity("street-judges", "Justicars", "Street Judges", alignment: "LN"),
