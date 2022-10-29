@@ -18,6 +18,6 @@ Sometime before the end of their initial contract the *Contracted* will either b
 ### Holdings
 The The Maqamir Company has business interests throughout [Nexus](./city.md) including several buildings and holdings. These include:
 * Headquarters - A large, two-story, square building with a sizable courtyard at its center. The building serves as the offices of company operation, includes elegant quarters for honored guests, well appointed residences for senior executives and meeting halls as well as containing a small stable, armory and equipment store. The center courtyard often serves as the rally point for the start of new contracts.
-* Company Housing - A large, plain, two-story building with over hundred tiny rooms provided as residence to contracted members who opt to avail themselves of company provided housing. Additionally the building holds a small pub and a few meeting rooms both of which are accessible only to members of The Maqamir Company.
+* Company Housing - A large, plain, two-story building with over hundred tiny rooms provided as residence to contracted members who opt to avail themselves of company provided housing. Additionally the building holds a small pub (The Wee Dram) and a few meeting rooms both of which are accessible only to members of The Maqamir Company.
 * Warehouse - A modestly sized, but heavily secured warehouse building used to store company assets.
 * The Silk Garden - An inn and brothel operated by the The Maqamir Company.
