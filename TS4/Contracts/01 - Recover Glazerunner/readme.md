@@ -14,8 +14,8 @@
     * Halflong - Halfling(Andy)
     * Dr. Orwen - Human (Drew)
     * Tycho Phandrel - Human (Drew)
-* The Master Assessor assigned off-contract duties to each Contractor and they worked these duties for just over one month collecting that month's Contractor Benefits.
 * The Master Assessor provided the Contractors with the opportunity to name their group. The Contractors failed to be inspired by any name and so were recorded as Contractor Group TS4.
+* The Master Assessor assigned off-contract duties to each Contractor and they worked these duties for just over one month collecting that month's Contractor Benefits.
 * The Master Assessor presented TS4 with the first contract
 
 # Contract 1 - Recover Glazerunner (Success)
