@@ -34,7 +34,7 @@ TS4 selected active Contractors
 * Wildberry MacGruder (Andy)
 * Dr. Orwen (Drew)
 
-Contractors were provided
+Provisions
 * 2 Potions of Healing
 * 2 Antidotes for Wasteland Sickness
 * 2 Vials of Holy Water
