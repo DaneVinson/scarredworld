@@ -17,6 +17,7 @@ All *True* food costs are drastically increased from those listed in the PH. *Tr
 * +1 Enchanted Weapon/Armor - Item cost +5000 gp
 
 ### Coins
+* Solars - Platinum coin
 * Crowns - Gold coin
 * Talons - Silver coin
 * Slugs - Copper coin
