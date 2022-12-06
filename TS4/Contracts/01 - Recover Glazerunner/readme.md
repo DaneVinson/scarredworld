@@ -45,7 +45,7 @@ Provisions
 
 ## Day 1
 * Travel uneventfully to a known cave where camp was to be made for the night. Torgrin informed TS4 that the cave would likely be occupied by something, human or otherwise.
-* TS4 discovered a Brown Bear resting in the cave. Upon learning this Grym immediately moved towards the Bear with intentions of securing the shelter, waking the Bear in the process. The Bear charged Grym. The encounter was brief leaving a dead bear and a slightly wounded Grym.
+* TS4 discovered a Brown Bear resting in the cave. Upon learning this Grym immediately moved towards the Bear with intentions of securing the shelter, waking the Bear in the process. The Bear charged Grym. The encounter was brief. Grym traded wounds with the Bear and Tall Paul struck the final blow to dispatch the beast. Afterwards, TS4 got their first view of Dr. Orwen's impressive natural healing abilities as he healed Grym's wounds completely using only a simple Healer's Kit.
 * TS4 rested with three watches
 * During the third watch something was heard to be approaching the cave, Grym woke and yelled out ferociously "come closer and die!". Whatever it was thought better of approach and disappeared into the night.
 
@@ -58,7 +58,7 @@ Provisions
 
 ## Day 3
 * TS4 explored the ruins finding evidence of habitation within as little as a couple days previous.
-* Wildberry attempted the use of the Locate Object spell (succeeding by the narrowest of margins) and it was determined that Glazerunner was located approximately 35' down under the section of the keep which had been wiped away.
+* Wildberry attempted the use of the Locate Object scroll to find Glazerunner. With both the aid of Tall Paul and Bardic Inspiration from Worley he succeeded by the narrowest of margins determining that Glazerunner was located approximately 35' down under the section of the keep which had been wiped away.
 * After an extensive search of the site TS4 discovered what looked to be a buried stairway.
 * Excavation began and continued through the day which ended with TS4 uncovering 10' of downward stairway
 * TS4 set watch and Hobgoblins attached during the night. Several Hobgoblins and their Captain attacked TS4 but were beaten back. During the fight Grym was laid low by a blow from the the Hobgoblin Captain but rose to continue fighting by sheer force of will. The Captain attempted to flee shortly after but was killed by Torgrin with a long range arrow shot. A search of the Captain's body produced a small slip of paper which read "wait until they recover the item, kill them all and then bring it to me".
