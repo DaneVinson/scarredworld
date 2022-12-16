@@ -87,6 +87,9 @@
     <None Update="scarred-world\city\merchants\tradesmen\tradesmen.md">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="scarred-world\northern-occlusion.md">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>

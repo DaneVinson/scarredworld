@@ -5,4 +5,4 @@ As the name suggests Chaos Storms are storms of pure chaos. They can appear as a
 
 After the passing of a Storm effected lands remain toxic to all organic life for decades. Anyone entering Wasteland must make a DC 8 Constitution (poison) save or incur _Wasteland Sickness_. Such individuals incur the Poisoned condition and loose one maximum hit point immediately and another each day at dawn until they are cured or their maximum hit points reach 0 (at which point they die). Any individual that passes their initial saving throw and remains in Wasteland must save again each day at dawn, dusk, mid-day and midnight.
 
-_Wasteland Sickness_ can be cured by any means that resolves the Poisoned condition or through ingestion of a [Potion of Antidote to Wasteland Sickness](./prices.md). Upon being cured an individual immediately regains all lost temporary hit points.
+_Wasteland Sickness_ can be cured by any means that resolves the Poisoned condition or through ingestion of a [Potion of Antidote to Wasteland Sickness](./prices.md). Upon being cured an individual immediately regains all lost maximum hit points.

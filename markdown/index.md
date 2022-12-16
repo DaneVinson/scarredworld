@@ -21,6 +21,7 @@
         * [The Order of the Radiant Arms](./paladins.md)
             * [Lord Roth (The Vampire-Paladin)](./vampire-paladin.md)
         * [The Red Hand (Thieves Guild of Nexus)](./thieves-guild.md)
+    * [Northern Occlusion](./northern-occlusion.md)
     * [Pantheon of the Scarred World](./pantheon.md)
     * [Spire (City of the Mad Alchemist)](./trade-partner-1.md)
         * [Meister Von Strit (The Mad Alchemist)](./alchemist.md)

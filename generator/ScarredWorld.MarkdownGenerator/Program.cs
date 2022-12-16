@@ -25,6 +25,7 @@ namespace ScarredWorld.MarkdownGenerator
             new Entity("green", "The Green"),
             new Entity("judges", "Adjudicators", alignment: "LG"),
             new Entity("merchants", "Merchant-Traders", alignment: "CN"),
+            new Entity("northern-occlusion", "Northern Occlusion"),
             new Entity("pantheon", "Pantheon", fullName: "Pantheon of the Scarred World"),
             new Entity("poof", "Sustenance Wafers", "Poof", "Poof Wafers"),
             new Entity("prices", "Prices"),
