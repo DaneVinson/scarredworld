@@ -29,7 +29,7 @@ Provisions
   * 2 weeks rations (14 poof wafers) per party member
 
 ## Day 1 (7/16)
-Contractors boarded the keelboat Sea Sparrow and set out from Nexus. Conditions were favorable and travel went smoothly. During the first night the ship was attacked by what was later identified as a Shadow Demon. Grym was on watch in the crow's nest when he saw the creature take one of the deck-hands over the rail. A few moments later the creature materialized through the deck and attacked those around him. The battle was short and the Contractors vanquished the demon taking little damage themselves.
+Contractors boarded the keelboat Sea Sparrow and set out from Nexus. Conditions were favorable and travel went smoothly. During the first night the ship was attacked by a Shadow Demon. Grym was on watch in the crow's nest when he saw the creature take one of the deck-hands over the rail. A few moments later the creature materialized through the deck and attacked those around him. The battle was short and the Contractors vanquished the demon taking little damage themselves.
 
 ## Day 2
 With favorable winds and relatively calm seas the Sea Sparrow dropped the Contractors on the beach approximately 20 miles from the edge of the Northern Occlusion in the afternoon of the second day. At this range the Occlusion was ominous and menacing, feelings which only worsened as the Contractors moved closer. The Sparrow moved away from the shore preparing to wait the agreed upon 48 hours for the Contractors' return.
