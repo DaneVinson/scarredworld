@@ -40,12 +40,12 @@ As darkness fell the Contractors shifted to traveling East in search of their ta
 
 As the Contractors explored the mine they encountered a small group of Zombies then three Ghouls. All these they dispatched easily. Next, they came upon a larger group of Zombies. They began as before but were attacked through a side mineshaft by a second group of Zombies and a human that could only be their Target. As the Zombies attacked Kraydus was couched upside down on the celling. From there he dropped a Sleep spell on Tall Paul and retreated back down the shaft. Shortly after came his scream. As the Contractors continued their engagement with the Zombies a Death Knight emerged from the shaft dragging a limp Kraydus behind him. He waved a hand and all the Zombies dropped. He threw the limp body towards the nearest Contractor and said "This one much overplayed his position". He identified himself as Lord Kaamaz and said he would not be the one to break the truce with Nexus. He allowed the Contractors to take the still living Kraydus but kept the Elven Dagger for himself. He bid the Contractors to leave his domain and in parting said "Tell your [Lord Roth](../../../markdown/vampire-paladin.md) that Lord Kaamaz is at his service whenever he wishes."
 
-The remaining stolen items were discovered on Kraydus along with: 
+Kraydus was found to have the rest of the stolen items as well as: 
 * __Bracers of Defense__
 * 10x diamond, 100 Crows
 * Emerald ring, 800 Crowns
 
-The Contractors retreated toward the surface. Within sight of the exit, illuminated by lightning flashes from the Occlusion, they encountered the Mist. The edge of the Mist was close to the entrance so the Contractors decided to run through to the outside, then South as quickly as possible. They escaped the Mist within seconds but not before every Contractor suffered poison damage and the Poisoned condition. Additionally, several Contractors suffered from Confusion. Once they'd distanced themselves from the Mist the Contractors stopped briefly to cure wounds and Poisonings.
+The Contractors retreated toward the surface. Within sight of the exit, illuminated by lightning flashes from the Occlusion, they encountered the Mist. The edge of the Mist was close to the entrance so the Contractors decided to run through to the outside, then South as quickly as possible. They escaped the Mist within seconds but not before most Contractors had suffered poison damage and the Poisoned condition. Additionally, several Contractors suffered from Confusion. Once they'd distanced themselves from the Mist the Contractors stopped briefly to cure wounds and Poisonings.
 
 ## Day 3
 As the sun broke on the third day the Contractors all suffered a level of Exhaustion as they'd had no significant rest since they left the Sea Sparrow.
@@ -55,9 +55,13 @@ In the late morning the Contractors were attacked by a Bulezau Demon which spran
 As evening approached the Contractors arrived at the rendezvous point to find the Sea Sparrow waiting just off the shore. They boarded and the ship set off on the return voyage to Nexus.
 
 ## Day 4
-After an uneventful night of travel the Contractors started the fourth day rested and well on their way back to Nexus. In the afternoon they first caught sight of flames in the sky many miles behind them. It was slowly moving closer. Within an hour a Nightmare attacked the Sparrow. The Fiend went down quickly. With the final blow Grym split it open and fiery entrails burst onto the ship. Akuul immediately put out the flames. As night fell the Sparrow delivered the Contractors back to Nexus.
+After an uneventful night of travel the Contractors started the fourth day rested and well on their way back to Nexus. 
 
-## Contract Completion
+In the afternoon they first caught sight of flames in the sky many miles behind them. It was slowly moving closer. Within an hour a Nightmare attacked the Sparrow. The Fiend went down quickly. With the final blow Grym split it open and fiery entrails burst onto the ship. Akuul easily put out the flames. 
+
+As night fell the Sparrow delivered the Contractors back to Nexus.
+
+## Contract
 * The thief Necromancer Kraydus recovered alive (2500 Crowns)
 * __Cloak of Arachnida__  recovered (500 Crowns)
 * __Ring of Protection__ recovered (500 Crowns)
@@ -65,10 +69,10 @@ After an uneventful night of travel the Contractors started the fourth day reste
 * Large black pearl recovered (1500 Crowns)
 
 ## Spoils
-* __Wand of Magic Missiles__ (Contractors, -1000 Crowns)
-* __Bracers of Defense__ (Maqamir)
-* 10x diamond, 100 Crown (Contractors, 500 Crowns)
-* Emerald ring, 800 Crowns (Contractors, 400 Crowns)
+* __Wand of Magic Missiles__ (-1000 Crowns)
+* __Bracers of Defense__ (To Maqamir)
+* 10x diamond, 100 Crown (500 Crowns)
+* Emerald ring, 800 Crowns (400 Crowns)
 
 ## Final Tally
-Each active Contractor received 983 Crowns, 33 Talons. TS4 as a group took possession of the __Wand of Magic Missiles__. Additionally, all TS4 characters who successfully passed their Dedication Check were awarded a bonus of 50 Crown.
+Each active Contractor received 983 Crowns, 33 Talons. TS4 as a group took possession of the __Wand of Magic Missiles__. Additionally, all TS4 characters who successfully passed their Dedication Check were awarded a bonus of 50 Crowns.
