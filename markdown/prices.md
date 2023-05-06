@@ -8,10 +8,6 @@ All commerce within [Nexus, City of Coins](./city.md) is assessed a 10% tax.
 *True* indicates a food or beverage is of natural origin.
 All *True* food costs are drastically increased from those listed in the PH. *True* food costs can easily be 100x the PH value. For example the PH shows a loaf of bread costs 2 cp. A loaf of *True* bread in the streets of Nexus starts at 2 gp.
 
-### Poof Spirits
-*Poof Spirits* is the common name for any beverage made from the distillation or fermentation of [Poof Wafers](./poof.md). Consumption of *Poof Spirits* produces intoxication. However, the effect is typically a muted version of that produced by alcohol (*True Sprits*). The cost of *Poof Spirit* is the same as listed in the PH for its equivalent *True* counterpart. Example: 1 gallon of Poof ale costs 2 sp.
-
-### Food and Drink
 | Item                  | Unit                  | Standard Cost     | Nexus Value              |
 |-----------------------|-----------------------|-------------------|--------------------------|
 | Ale                   | pint/10 gallon barrel | 1 cp/5 sp         | 1.5/50 Crowns            |
@@ -42,6 +38,9 @@ All *True* food costs are drastically increased from those listed in the PH. *Tr
 | Whiskey               | tumbler/bottle        | 5 cp/5 sp         | 10/100 Crowns            |
 | Wine                  | glass/bottle          | 5-10 sp/60-120 sp | 100-200/1200-2400 Crowns |
 | Venison/large game    | 1 lb.                 | 1 sp              | 20 Crowns                |
+
+### Poof Spirits
+*Poof Spirits* is the common name for any beverage made from the distillation or fermentation of [Poof Wafers](./poof.md). Consumption of *Poof Spirits* produces intoxication. However, the effect is typically a muted version of that produced by alcohol (*True Sprits*). The cost of *Poof Spirit* is the same as listed in the PH for its equivalent *True* counterpart. Example: 1 gallon of Poof ale costs 2 sp.
 
 ### Common Magic Items
 * Potion of Healing - 100 gp
