@@ -16,6 +16,7 @@ namespace ScarredWorld.MarkdownGenerator
             new Entity("city", "Nexus", "City of Coins", "Nexus, City of Coins", alignment: "NG"),
             new Entity("company", "The Maqamir Company", alignment: "N"),
             new Entity("contract", "Employment Contract", fullName: "Initial Employment Contract"),
+            new Entity("cudgel-mountains", "Cudgel Mountains"),
             new Entity("deity-evil", "Seethisat", markdownName: "pantheon.md", alignment: "NE"),
             new Entity("deity-good", "Raya", markdownName: "pantheon.md", alignment: "NG"),
             new Entity("deity-neutral", "Jarl-Kahn", markdownName: "pantheon.md", alignment: "N"),
@@ -24,6 +25,7 @@ namespace ScarredWorld.MarkdownGenerator
             new Entity("feeders", "Benevolent Benefactors", "Feeders", alignment: "LG"),
             new Entity("green", "The Green"),
             new Entity("judges", "Adjudicators", alignment: "LG"),
+            new Entity("menalay-river", "Menalay River"),
             new Entity("merchants", "Merchant-Traders", alignment: "CN"),
             new Entity("northern-occlusion", "Northern Occlusion"),
             new Entity("pantheon", "Pantheon", fullName: "Pantheon of the Scarred World"),
@@ -31,6 +33,8 @@ namespace ScarredWorld.MarkdownGenerator
             new Entity("prices", "Prices"),
             new Entity("paladins", "Radiant Arms", "", "The Order of the Radiant Arms", "LG"),
             new Entity("scarred-world", "Scarred World"),
+            new Entity("sliprun-mountains", "Sliprun Mountains"),
+            new Entity("southern-wasteland", "Southern Wasteland"),
             new Entity("steel-paste", "Steel Paste"),
             new Entity("street-judges", "Justicars", "Street Judges", alignment: "LN"),
             new Entity("trade-partner-1", "Spire", "City of the Mad Alchemist", alignment: "CN"),
@@ -39,6 +43,7 @@ namespace ScarredWorld.MarkdownGenerator
             new Entity("thieves-guild", "The Red Hand", "Thieves Guild of Nexus", alignment: "NE"),
             new Entity("tradesmen", "Tradesmen's Guild", alignment: "NG"),
             new Entity("vampire-paladin", "Lord Roth", "The Vampire-Paladin", alignment: "LG"),
+            new Entity("vermans-path", "Verman's Path"),
             new Entity("wizards", "Magnus Arcana", alignment: "N")
         };
 

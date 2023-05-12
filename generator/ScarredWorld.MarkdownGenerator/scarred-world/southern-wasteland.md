@@ -1,0 +1,3 @@
+In 534 AS the ^chaos-storm.NameLink^ that created the Southern Wasteland raged for weeks. Its fury was felt over 100 miles away in ^city.NameLink^ where there were Earthquakes, it rained both ice and stone and for weeks following horrific supernatural creatures attacked ^city.Name^.
+
+As close as 120 miles southeast of ^city.NameLink^ the ^southern-wasteland.Name^ crosses both the ^sliprun-mountains^ and the ^cudgel-mountains.NameLink^.

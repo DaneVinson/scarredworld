@@ -1,0 +1,1 @@
+Located as few as 150 miles east of ^city.NameLink^ the Sliprun Mountains run roughly north-south. Bounded by the ^northern-occlusion.Namelink^ to the north and the ^southern-wasteland.NameLink^ in the south they rise up to a mile high in places. Elevation of lands west of Sliprun is typically under 100 feet while those east are 1000.
