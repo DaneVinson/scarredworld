@@ -8,7 +8,7 @@
     * Sylcros Tattersoul - Human (Dan)
     * Worley Finnegani - Human (Todd)
     * Renard Finnegani - Human (Todd)
-    * Torgrin the Survivor - Human (Mike)
+    * Torgrain the Survivor - Human (Mike)
     * Akuul - Half-Orc (Mike)
     * Wildberry MacGruder - Gnome (Andy)
     * Halflong - Halfling(Andy)
@@ -30,7 +30,7 @@ TS4 selected active Contractors
 * Tall Paul Thunderhill (Collin)
 * Grym (Dan)
 * Worley Finnegani (Todd)
-* Torgrin the Surviror (Mike)
+* Torgrain the Surviror (Mike)
 * Wildberry MacGruder (Andy)
 * Dr. Orwen (Drew)
 
@@ -44,16 +44,16 @@ Provisions
 * Excavation tools and supplies
 
 ## Day 1
-* Travel uneventfully to a known cave where camp was to be made for the night. Torgrin informed TS4 that the cave would likely be occupied by something, human or otherwise.
+* Travel uneventfully to a known cave where camp was to be made for the night. Torgrain informed TS4 that the cave would likely be occupied by something, human or otherwise.
 * TS4 discovered a Brown Bear resting in the cave. Upon learning this Grym immediately moved towards the Bear with intentions of securing the shelter, waking the Bear in the process. The Bear charged Grym. The encounter was brief. Grym traded wounds with the Bear and Tall Paul struck the final blow to dispatch the beast. Afterwards, TS4 got their first view of Dr. Orwen's impressive natural healing abilities as he healed Grym's wounds completely using only a simple Healer's Kit.
 * TS4 rested with three watches
 * During the third watch something was heard to be approaching the cave, Grym woke and yelled out ferociously "come closer and die!". Whatever it was thought better of approach and disappeared into the night.
 
 ## Day 2
 * TS4 crossed the Wasteland. Grym was poisoned with Wasteland Sickness but Lay Hands upon himself and removed the condition.
-* While scouting ahead Torgrin identified a large hole in a hill he believed to be inhabited by some giant insect. The Contractors avoided it.
-* While scouting ahead Torgin witnessed a murder of Crows silently flying North in a very orderly formation. Shortly after a supernatural creature flew after them and it looked down upon Torgrin and smiled as it passed over (Master Assessor later divulged that this creature was likely what is called a Pit Fiend).
-* TS4 located the keep ruins on a small hill late in the day. Two thirds of the keep had been wiped away by a Chaos Storm hundreds of years ago and the rest appeared abandoned. During the last hour of daylight Torgrin reconnoitered all the way around the bottom of the hill the ruins lay upon.
+* While scouting ahead Torgrain identified a large hole in a hill he believed to be inhabited by some giant insect. The Contractors avoided it.
+* While scouting ahead Torgin witnessed a murder of Crows silently flying North in a very orderly formation. Shortly after a supernatural creature flew after them and it looked down upon Torgrain and smiled as it passed over (Master Assessor later divulged that this creature was likely what is called a Pit Fiend).
+* TS4 located the keep ruins on a small hill late in the day. Two thirds of the keep had been wiped away by a Chaos Storm hundreds of years ago and the rest appeared abandoned. During the last hour of daylight Torgrain reconnoitered all the way around the bottom of the hill the ruins lay upon.
 * TS4 made camp near the ruins.
 
 ## Day 3
@@ -61,7 +61,7 @@ Provisions
 * Wildberry attempted the use of the Locate Object scroll to find Glazerunner. With both the aid of Tall Paul and Bardic Inspiration from Worley he succeeded by the narrowest of margins determining that Glazerunner was located approximately 35' down under the section of the keep which had been wiped away.
 * After an extensive search of the site TS4 discovered what looked to be a buried stairway.
 * Excavation began and continued through the day which ended with TS4 uncovering 10' of downward stairway
-* TS4 set watch and Hobgoblins attached during the night. Several Hobgoblins and their Captain attacked TS4 but were beaten back. During the fight Grym was laid low by a blow from the the Hobgoblin Captain but rose to continue fighting by sheer force of will. The Captain attempted to flee shortly after but was killed by Torgrin with a long range arrow shot. A search of the Captain's body produced a small slip of paper which read "wait until they recover the item, kill them all and then bring it to me".
+* TS4 set watch and Hobgoblins attached during the night. Several Hobgoblins and their Captain attacked TS4 but were beaten back. During the fight Grym was laid low by a blow from the the Hobgoblin Captain but rose to continue fighting by sheer force of will. The Captain attempted to flee shortly after but was killed by Torgrain with a long range arrow shot. A search of the Captain's body produced a small slip of paper which read "wait until they recover the item, kill them all and then bring it to me".
 
 ## Day 4
 * TS4 rested during the daylight hours to regain rest they'd lost in the encounter with the Hobgoblins the night before.
