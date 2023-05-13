@@ -1,0 +1,1 @@
+Around 20 miles east of Nexus is a long, thin strip of Wasteland known as ^vermans-path.Name^. It was formed by a short lived and relatively small [Chaos Storm](./chaos-storms.md) in 732 AS and was named after the Wizard Verman the Seer who accurately predicted both the time and location of the Storm weeks in advance.
