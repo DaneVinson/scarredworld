@@ -101,5 +101,5 @@ TS4 returned goods worth 51,750 Crowns, spoils and all of the initial 5K Crown i
 TS4 compensation:
 * 5175 Crowns (862 Crowns, 5 Talons per active contractor)
 * __+1 Longbow__
-* __Unbreakable Arrow__ x5
+* 5x __Unbreakable Arrow__
 * __Rod of Retribution__
