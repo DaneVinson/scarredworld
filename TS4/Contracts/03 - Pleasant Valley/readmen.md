@@ -26,56 +26,24 @@ Issued equipment
 * 4 mules
 * 4 weeks rations (28 poof wafers) per party member (or mule)
 
-## Day 1 (8/21/735)
-Displacer beast (morning)
-
-## Day 2 (8/22/735)
-Shadow Mastiff (first watch)
-
-## Day 3 (8/23/735)
-Bearded Devil (afternoon)
-
-## Day 4 (8/24/735)
-Chaos storm through day, zombies/wight 2nd watch
-
-## Day 5 (8/25/735)
-uneventful
-
-## Day 6 (8/26/735)
-small arrow at 2nd watch
-
-## Day 7 (8/27/735)
-Giant Scorpion
-
-## Day 8 (8/28/735)
-Valley entrance
-
-## Day 9 (8/29/735)
-In valley
-
-## Day 10 (8/30/735)
-Kingfisher
-
-## Day 11 (8/31/735)
-uneventful
-
-## Day 12 (9/1/735)
-Manticores
-
-## Day 13 (9/2/735)
-White Abashai
-
-## Day 14 (9/3/735)
-uneventful
-
-## Day 15 (9/4/735)
-uneventful
-
-## Day 16 (9/5/735)
-Green Hag (mid day), Wight and zombies 3rd watch
-
-## Day 17 (9/6/735)
-Bugbears (immediately on breaking camp)
+Timeline
+* 8/21: Displacer beast, morning
+* 8/22: Shadow Mastiff Alpha and 4x Shadow Mastiffs, first watch
+* 8/23: Bearded Devil (afternoon)
+* 8/24: Chaos storm through day, zombies/wight, 2nd watch
+* 8/25: uneventful
+* 8/26: small arrow, 2nd watch
+* 8/27: Giant Scorpion, afternoon
+* 8/28: Valley entrance
+* 8/29: In valley
+* 8/30: Kingfisher
+* 8/31: Uneventful
+* 9/1: Manticores
+* 9/2: White Abashai
+* 9/3: Uneventful
+* 9/4: Uneventful
+* 9/5: Green Hag, afternoon, Wight and zombies, 3rd watch
+* 9/6: Bugbears, morning immediately on breaking camp, kobold traps late day
 
 ## Contract Results
 * Returned all of Maqamir's original 5k Crown investment
@@ -90,7 +58,7 @@ Bugbears (immediately on breaking camp)
 ## Spoils
 * __+1 Greatsword__
 * __+1 Longbow__
-* __Unbreakable Arrow__ x5
+* 5x __Unbreakable Arrow__
 * __Ring of Evasion__
 * __Rod of Retribution__
 * 110 gold coins (Bugbears)
