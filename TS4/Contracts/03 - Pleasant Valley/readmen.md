@@ -1,7 +1,7 @@
 # Contract 3 - Pleasant Valley (Success)
 
 ## Objective and Intelligence
-Two nights before TS4 was briefed on the the Ranger Farstep completed a contract for Maqamir. During his debrief he reported seeing manicured rows of grapes just past the well hidden entrance to a valley. He was in haste and did not investigate further.
+Two nights before TS4 was briefed the Ranger Farstep completed a contract for Maqamir. During his debrief he reported seeing manicured rows of grapes just past the well hidden entrance to a valley. He was in haste and did not investigate further.
 
 Farstep understood the potential of his discovery and marked the location with an enchanted iron coin magically joined to a twin which he sold to Maqamir. He placed this coin exactly 1000 yards due West of the valley opening. Its twin indicated this to be precisely 192 miles Northeast. 
 
