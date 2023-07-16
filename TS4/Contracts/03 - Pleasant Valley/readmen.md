@@ -35,46 +35,46 @@ Shadow Mastiff (first watch)
 ## Day 3 (8/23/735)
 Bearded Devil (afternoon)
 
-## Day 4 (8/23/735)
+## Day 4 (8/24/735)
 Chaos storm through day, zombies/wight 2nd watch
 
-## Day 5 (8/23/735)
+## Day 5 (8/25/735)
 uneventful
 
-## Day 6 (8/23/735)
+## Day 6 (8/26/735)
 small arrow at 2nd watch
 
-## Day 7 (8/23/735)
+## Day 7 (8/27/735)
 Giant Scorpion
 
-## Day 8 (8/23/735)
+## Day 8 (8/28/735)
 Valley entrance
 
-## Day 9 (8/23/735)
+## Day 9 (8/29/735)
 In valley
 
-## Day 10 (8/23/735)
+## Day 10 (8/30/735)
 Kingfisher
 
-## Day 11 (8/23/735)
+## Day 11 (8/31/735)
 uneventful
 
-## Day 12 (8/23/735)
+## Day 12 (9/1/735)
 Manticores
 
-## Day 13 (8/23/735)
+## Day 13 (9/2/735)
 White Abashai
 
-## Day 14 (8/23/735)
+## Day 14 (9/3/735)
 uneventful
 
-## Day 15 (8/23/735)
+## Day 15 (9/4/735)
 uneventful
 
-## Day 16 (8/23/735)
+## Day 16 (9/5/735)
 Green Hag (mid day), Wight and zombies 3rd watch
 
-## Day 17 (8/23/735)
+## Day 17 (9/6/735)
 Bugbears (immediately on breaking camp)
 
 ## Contract Results
@@ -96,7 +96,7 @@ Bugbears (immediately on breaking camp)
 * 110 gold coins (Bugbears)
 
 ## Tally
-TS4 returned goods worth 51,750 Crowns, plus spoils.
+TS4 returned goods worth 51,750 Crowns, spoils and all of the initial 5K Crown investment.
 
 TS4 compensation:
 * 5175 Crowns (862 Crowns, 5 Talons per active contractor)
