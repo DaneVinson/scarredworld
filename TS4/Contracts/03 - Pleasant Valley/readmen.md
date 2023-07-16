@@ -18,11 +18,11 @@ TS4 selected active Contractors
 
 Issued equipment
 * 5k Crowns worth of 100 Crown diamonds
-* [Chest of Preserving](https://www.dndbeyond.com/magic-items/372030-chest-of-preserving) (3.75 ft^3 or 28 gallons)
-* 4x Potion of Healing
-* 2x vials of Holy Water
-* 2x Scroll Lesser Restoration
-* 2x Scroll Protection from Evil
+* __Chest of Preserving__
+* 4x __Potion of Healing__
+* 2x Vial of Holy Water
+* 2x __Scroll Lesser Restoration__
+* 2x __Scroll Protection from Evil__
 * 4 mules
 * 4 weeks rations (28 poof wafers) per party member (or mule)
 
