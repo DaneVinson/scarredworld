@@ -85,7 +85,7 @@ Timeline
 ## Spoils
 * __+1 Greatsword__
 * __+1 Longbow__
-* 5x __Unbreakable Arrow__
+* __Unbreakable Arrow__, x5
 * __Ring of Evasion__
 * __Rod of Retribution__
 * 110 gold coins (Bugbears)
