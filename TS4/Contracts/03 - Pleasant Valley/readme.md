@@ -48,6 +48,7 @@ Timeline
   * Rest: During the second watch the contractors were attacked with arrows. The attack ended once all contractors were awake and alerted. Tograin identified the arrows as Kobold made.
 * 8/27
   * Travel: Mid-day Tograin spotted a small cave along the direction the contractors were traveling. Investigation discovered a small cave area that was home to two Giant Scorpions. The beasts were destroyed with no further poisonings. Spoils recovered: __Ring of Evasion__, 25 pp (not Solars), 1 ruby (250 Crowns), 2x opals (100 Crowns each).
+  * Rest: Uneventful
 * 8/28
   * Travel: Valley entrance
   * Rest: Peaceful in the plaza
