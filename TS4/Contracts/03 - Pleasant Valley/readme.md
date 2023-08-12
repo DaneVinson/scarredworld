@@ -50,7 +50,7 @@ Timeline
   * Travel: Mid-day Tograin spotted a small cave along the direction the contractors were traveling. Investigation discovered a small cave area that was home to two Giant Scorpions. The beasts were destroyed with no further poisonings. Spoils recovered: __Ring of Evasion__, 25 pp (not Solars), 1 ruby (250 Crowns), 2x opals (100 Crowns each).
   * Rest: Uneventful
 * 8/28
-  * Travel: Valley entrance
+  * Travel: Near the end of the day the contractors arrived at the location coin. Following the provided directions they searched for the entrance to the valley but were having no success until Dr. Orwen's keen perception located it. As described by Farstep the valley did indeed contain rows of manicured grapevines. On entry the contractors noticed a thin line of obsidian embedded in the ground and a 12' tall plain featured statue across the line. Upon crossing all contractors had the distinct feeling that the statue was watching them. They also noted that the air, soil and vegetation were all markedly healthier and more vibrant on the valley side of the line. Dr. Orwen quickly noticed the group was being watched by a small halfling (later identified as Jory Quicktoes) standing in the grapes a couple hundred yards away. Upon being noticed he disappeared into the vines at an amazing pace. The contractors begin moving into the valley which they discovered was filled with agriculture. Within a short time they were met by a gruff weathered halfling who identified himself as Sheriff Jasper Thornspeak. The Sheriff suggested the contractors should leave the valley but when they refused he reluctantly lead them to a plaza at the center of the valley. There they met with members of a Council including the Sheriff, Big Bee the Mayor and Sas Buttercup the head of the farmers co-op. The contractors were made welcome and invited to stay at least a day.
   * Rest: Peaceful in the plaza
 * 8/29: Contractors spent the day talking with inhabitants of the Valley, acquiring information and negotiating for goods. By the end of the day several bottles each of brandy and wine were procured from Quiv the Casker. Late in the day Laan Bestwater, Owner/operator of The Honeyed Mug, told the contractors that there was a known nest of Cave Fishers near the Valley. If the contractors would kill and return the creatures he's match their weight in the produce of TS4's choice. The contractors decided to pursue the deal.
 * 8/30
@@ -60,7 +60,7 @@ Timeline
   * Travel: Contractors left the Valley at sunrise. The day's travel was uneventful.
   * Rest: Uneventful
 * 9/1
-  * Travel: Morning attack of Manticores
+  * Travel: The contractors were attacked by a mated pair of Manticores. The beasts remained attacked from the air with their spiked tails and inflicted heavy wounds on contractors before they were both killed.
   * Rest: Uneventful
 * 9/2
   * Travel: White Abashai
