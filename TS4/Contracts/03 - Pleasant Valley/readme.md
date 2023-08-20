@@ -27,7 +27,7 @@ Issued equipment
 * 4 weeks rations (28 poof wafers) per party member (or mule)
 
 ## Travel Plan
-The magical coin provided by Farstep showed the location of it's twin at the base of the [Sliprun Mountains](../../../markdown/sliprun-mountains.md), just north of the norther fork of the [Menalay River](../../../markdown/menalay-river.md) ([Map](../../Images/nexus_local_area.jpg) #3). TS4 decided to travel along the River as far as possible turning north only for the last half day. TS4 contractors had crossed [Verman's Path](../../../markdown/vermans-path.md) in their maiden Contract so the decision was made to pass through it again saving a half-day of travel each way. Expected travel time to the target was 8 days.
+The magical coin provided by Farstep showed the location of it's twin at the base of the [Sliprun Mountains](../../../markdown/sliprun-mountains.md), just north of the norther fork of the [Menalay River](../../../markdown/menalay-river.md) ([Map](../../Images/nexus_local_area.jpg) #3). TS4 decided to travel along the River as far as possible turning north for the last half day. TS4 contractors had crossed [Verman's Path](../../../markdown/vermans-path.md) in the group's maiden Contract so the decision was made to pass through it again saving a half-day of travel each way. Expected travel time to the target was 8 days.
 
 ## Timeline
 * 8/21/735
