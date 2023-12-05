@@ -25,7 +25,9 @@ Issued equipment
 ## Timeline
 
 ## Contract Results
-* Success: Established the viability of the target for the mining of diamonds.
+* Success: Confirm the location of the island mine
+* Success: Explore (clear) the mine
+* Success: Established the viability of the mine for diamonds production
 
 ## Spoils Ledger
 * Wreckage of the Driftfit
@@ -52,4 +54,6 @@ Issued equipment
 
 ## TS4 Compensation
 * 3,908 Crowns for each active Contractor
-* Magic items?
+* __Astromancy Archive__
+* __Scimitar of Speed__
+* __Boots of Elvenkind__
