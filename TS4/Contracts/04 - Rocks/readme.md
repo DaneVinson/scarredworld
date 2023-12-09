@@ -5,22 +5,11 @@
 * Look for evidence of mining on the island.
 * Investigate the potential of re-opening the mine.
 
-
-XXXXX
-* Maqamir recently acquired documents from before the Scarring. Among them was a set of ledgers showing the operation of a lucrative diamond mine. Also found was a map showing a small island ~1000 nautical miles southwest of Nexus labeled as the mine itself.
-* Locate the island and evaluate the mine for potential value.
-* Dr. Orwen and Worley Finnegani have been been trained.
-* Potential for Spoils is unknown but if the mine is viable and Maqamir extracts profit TS4 will, of course, receive bonuses on any future profits
-* Find the ship Whipline in Nexus' harbor. The captain will will take the contractors to the island and wait for up to two days before returning.
-  * [Captain Strom](https://drive.google.com/file/d/1CKIQResCdeb7vAmQkvQdqVJfHJVbyMLl/view?usp=share_link) (Dwarf [Bandit Captain](https://www.dndbeyond.com/monsters/16799-bandit-captain)) returns, this time with the small sailing ship Whipline ([Sailing Ship](https://www.dndbeyond.com/vehicles/sailing-ship))
-    * "If your Company's map is accurate the journey to the island this time of year should take 'bout 10 days...not accounting for other stuff of course"
-    * First Mate Lonni Barbtongue (Human female [Swashbuckler](https://www.dndbeyond.com/monsters/2560936-swashbuckler))
-      * Leather armor, scimitar, dirk, passing glace shows several other weapons, close inspection shows weapons everywhere
-      * "That's a sorry looking bunch Cap. Any you lot ever been out of sight of land? No? {snort, shakes head} thought not." Sighs, walks away, heard shouting at sailors a few seconds later.
-    * Cook Brewman (Half-orc male [Pirate First Mate](https://www.dndbeyond.com/monsters/316611-pirate-first-mate)), unkept but not slovenly, mostly cracks bad jokes
-    * 15 crew (10x human, 2x half-elf, 2x dwarf, 1x halfling [Pirate First Mate](https://www.dndbeyond.com/monsters/316611-pirate-first-mate))
-
 ## Intelligence
+* Maqamir had recently acquired documents from before the Scarring. Among them was a set of ledgers showing the operation of a lucrative diamond mine. Also found was a map showing a small island ~1000 nautical miles southwest of Nexus labeled as the mine itself.
+* Prior to the Contract start Dr. Orwen and Worley Finnegani underwent two months of intensive training in geology and mining administered by Mine Master Gruntel Rocksniffer (Dwarf).
+* The ship Whipline was contracted to take TS4 members to the location of the island shown on the map (~10 days travel). Whipline was manned by Captain Strom, the First Mate Loni Barbtongue and a dozen crew. If and when the island was located the Captain was to attempt to put TS4 ashore. If TS4 did not make contact within two days he was to return to Nexus and debrief.
+* The potential for Spoils was unknown.
 
 ## Preparation (2/4/736)
 TS4 selected active contractors
@@ -41,6 +30,15 @@ Issued equipment
   * Mundane equipment from Maqamir stores as desired by the Contractors
 
 ## Timeline
+* 9/6/735 - Completion of Contract 3 (Pleasant Valley)
+* 2/4/736 - Terramis Squeebus briefs TS4 on Contract 4 (Rocks)
+* 2/5 - TS4 members locate the sailing ship Whipline in the harbor of Nexus and set sail in search of the island. The day presented light winds and Whipline made moderate progress.
+* 2/6-2/10 - Light and medium winds. No additional complications.
+* 2/11 - A Chaos Storm was spotted early in the afternoon. The large storm blocked the Whipline's path and appeared to be moving closer. Captain Strom turned the Whipline about and employed an Air Elemental bound to her to produce gail-force winds into the sails. The Whipline speed out of danger quickly but the day was lost to evasive actions.
+* 2/12 - Medium winds and good travel distance helped to make up for time lost evading the Chaos Storm.
+* 2/13 - Another Chaos Storm was spotted though this one was far in the distance and moving away.
+* 2/14 - Winds began to fall off in the morning and continued to do. The ship was becalmed by mid-afternoon and remained so through the night. Early in the evening the ship was attacked by several Ice Mephits who were dispatched without loss of crew.
+* 2/15 - The island was located exactly as the map indicated. At first sight it appeared as a rock dome approximately a half mile in diameter and 150' high. The characteristic gray color of Wasteland indicated it had been swept over many times by Chaos Storms. Captain Strom decided to sail completely around the island before deciding how to proceed. This exploration showed a ship wrecked against the rocks on the west side and a small bay at the south which appeared to contain a seawall carved out of the rock at its interior. The remainder of the island met the sea with 60' or higher rock cliffs.
 
 ## Contract Results
 * Success: Confirm the location of the island mine
