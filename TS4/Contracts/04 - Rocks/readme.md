@@ -1,5 +1,10 @@
 # Contract 4 - Rocks (Success)
 
+## Pre-contract (9/735 - 2/736)
+* The five members of the [Radiant Arms](https://github.com/DaneVinson/scarredworld/blob/master/markdown/paladins.md) pursuing the Pit Fiend left 9/735. According to the [Benevolent Benefactors](https://github.com/DaneVinson/scarredworld/blob/master/markdown/feeders.md) at least one of the Arms "no longer exists on this plane". The Paladins that left would have easily defeated a lone Pit Fiend.
+* The Contractor group "Steel Wardens" was sent to the Halfling Valley to continue trade. They returned 12/3 and their contract was both successful and lucrative (though 3 of 7 contractors did not return). As the founding Contractor group TS4 received 1% of the profits, 834 Crowns.
+* [Lord Roth](https://github.com/DaneVinson/scarredworld/blob/master/markdown/vampire-paladin.md) left Nexus 12/17 with the intention of dueling Lord Kaamaz, in his lair, on the winter solstice. There's been no word of him since.
+
 ## Objectives
 * Locate an island ~1000 nautical miles southwest of Nexus as indicated by a map from before the Scarring.
 * Look for evidence of mining on the island.
@@ -12,7 +17,7 @@
 * The potential for Spoils was unknown.
 
 ## Preparation (2/4/736)
-TS4 selected active contractors
+TS4 selected active Contractors
 * Worley Finnegani (Todd)
 * Tograin the Survivor (Mike)
 * Sylcros Tattersoul (Dan)
@@ -39,6 +44,9 @@ Issued equipment
 * 2/13 - Another Chaos Storm was spotted though this one was far in the distance and moving away.
 * 2/14 - Winds began to fall off in the morning and continued to do. The ship was becalmed by mid-afternoon and remained so through the night. Early in the evening the ship was attacked by several Ice Mephits who were dispatched without loss of crew.
 * 2/15 - The island was located exactly as the map indicated. At first sight it appeared as a rock dome approximately a half mile in diameter and 150' high. The characteristic gray color of Wasteland indicated it had been swept over many times by Chaos Storms. Captain Strom decided to sail completely around the island before deciding how to proceed. This exploration showed a ship wrecked against the rocks on the west side and a small bay at the south which appeared to contain a seawall carved out of the rock at its interior. The remainder of the island met the sea with 60' or higher rock cliffs.
+    * The Contractors decided to investigate the shipwreck. Captain Strom gave them use of a __Folding Boat__ and two sailors to pilot them to the wreckage. The Contractors discovered 5 Zombies (which were easily destroyed), 13,000 Crowns worth of uncut diamonds in the hold and 900 Crowns of loose gems and a log in the captain's quarters. The log showed the ship to be the Driftfit out of Nexus. The logs last entry was dated 7/18/721.
+    * Captain Strom anchored the Whipline in the bay ~200 yards from the previously discovered seawall. Once again using Captain Strom's __Folding Boat__ the Contractors approached the 20' high wall which was clearly hand carved out of the island's rock. Above was found a large, two-tiered platform with 40' high stairs connecting the top and bottom tiers and small cave entrances on both ends of the to level. Like the seawall the entire structure was hand carved from the bedrock. The Contractors surmised this was likely a dock and cargo loading area in the past. On approach a human female was seen at the entrance of one of the caves. She quickly disappeared into the cave but several Contractors felt there was something odd about her.
+    * The Contractors came to a stop along the seawall and used a __Rope Trick__ spell to ascend to the top. As Contractors were climbing the rope the group was attacked from the water by a Giant Coral Snake. A short fight ensued and the Snake was slain with little damage done. 
 
 ## Contract Results
 * Success: Confirm the location of the island mine
