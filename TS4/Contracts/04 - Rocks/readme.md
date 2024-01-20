@@ -49,7 +49,17 @@ Issued equipment
   * The Contractors came to a stop along the seawall and used a __Rope Trick__ spell to ascend to the top. As Contractors were climbing the rope the group was attacked from the water by a Giant Coral Snake. A short fight ensued and the Snake was slain with little damage done.
   * The Contractors gained the first level and began up the stairs. When the first of the group were near the top they were set upon by 3 Yuan-ti Broodguard and the woman seen previously, a Yuan-ti Pureblood. The Contractors disposed of the Broodguard in short order and the Pureblood retreated back into the "cave", the entrance of the mine they were searching for.
   * Several Contractors employed Light and the group moved into the mine after the Pureblood. They shortly encountered a swarm of poisonous snakes which they eradicated with little more than annoyance. This repeated a half dozen times during the Contractors exploration of the mine.
-  * As the Contractors moved through the mine Tycho and Worley confirmed the tunnels were consistent with mining operations but it appeared the miners of old had tapped out the treasure once held in the rock.
+  * As the Contractors moved through the mine they discovered it had several branches and moved up and down apparently following veins of diamond. Tycho and Worley confirmed the tunnels were consistent with mining operations but it appeared the miners of old had tapped out the treasure once held in the rock. Several of the lower mineshafts dropped below the sea level and were flooded. Using their previously cast __Water Breathing__ they were able to explore these flooded sections as well.
+  * During the exploration of the lower mineshafts the Contractors found a room that was clearly carved out of the bedrock after the creation of the shaft that lead to it. The room was on the other side of a flooded section and was the home to a Yuan-ti Night Whisperer  and two female Purebloods. The Contractors fought a pitched battle wounding several of them grievously before they killed their foes.
+  * In a second lower shaft, also beyond a flooded area the Contractors found a Yuan-ti nursery which had 56 eggs and 4 Broodguards. They killed the Broodguards taking only minor wounds and then destroyed the eggs.
+  * Past the nursery, in another submerged tunnel the Contractors discovered the Yuan-ti's treasury.
+  * While exploring a mineshaft in the upper area of the mine the Contractors again entered a large room which had clearly been carved after the original mine. The room had 4 large pillars, the walls were adorned with paintings of snakes, scantily clad women and all manner of debauchers and the floor was covered in pillows, cushions and leisure furniture. The leasure room was home to 2 Yuan-ti Malisons (Type-1), 2 Broodguards and 4 Purebloods (one of whom was the female encountered at the entrance who'd fled). A pitched battle ensued and several Contractors were dropped. The Yuan-ti were defeated by the slimmest of margins.
+  * The Contractors retreated to the Whipline to rest and recover.
+* 2/16, Aboard the Whipline - The Contractors were ferried back to the landing platform and continued exploring the mine.
+  * Again in the upper tunnels the Contractors found another newly carved room. This one had a 50' vaulted celling, 4 pillars and walls covered in paintings of serpents striking, crushing or eating their victims. In the center of the room was the statue of a giant snake. This alter room was occupied by a Yuan-ti Pitmaster and 2 Pureblood who attacked immediately. The foes fought viciously and several Contractors were moderately wounded but they were well rested and had prepared well ultimately defeating their opponents.
+  * At the end of the final searched mineshaft Tycho and Worley easily identified an un-mined vein of diamonds.
+  * The Contractors returned to the Whipline and set sail back to Nexus.
+* 2/17-2/24 - Favorable winds and clear weather made the return trip easy and relatively short.
 
 ## Contract Results
 * Success: Confirm the location of the island mine
@@ -60,12 +70,12 @@ Issued equipment
 * Wreckage of the Driftfit
   * 900 Crowns in loose gems in the captain's quarters
   * 13,000 Crowns uncut diamonds in the hold (~100) pounds
-* Yuan Ti Night Whisper: __Scimitar of Speed__
-* Yuan Ti treasury
+* Yuan-ti Night Whisper: __Scimitar of Speed__
+* Yuan-ti treasury
   * __Boots of Elvenkind__
   * __Elven Chain__
   * 30,000 Crowns jewelry, gems and coin
-* Yuan Ti leisure room:
+* Yuan-ti leisure room:
   * Malison Type 1 x2: 
     * __Bracers of Defense__
     * __+1 Scimitar__
@@ -73,7 +83,7 @@ Issued equipment
   * True Blood x4: 
     * __Dagger of Venom__
     * 800 Crowns jewelry
-* Yuan Ti Snake Alter
+* Yuan-ti Snake Alter
   * Pit Master
     * __Astromancy Archive__
     * 1000 Crowns jewelry
