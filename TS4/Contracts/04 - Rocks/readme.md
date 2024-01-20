@@ -64,7 +64,7 @@ Issued equipment
 ## Contract Results
 * Success: Confirm the location of the island mine
 * Success: Explore (clear) the mine
-* Success: Established the viability of the mine for diamonds production
+* Success: Established the viability of the mine for diamond production
 
 ## Spoils Ledger
 * Wreckage of the Driftfit
