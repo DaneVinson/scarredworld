@@ -10,7 +10,7 @@ The *Contracted* receives the following benefits
 * 50 gps / month
 * Private lodgings upon request
 * Weekly ration of 5 measures [True Spirit](./prices.md) (maximum accumulation 25)
-* Bonuses commensurate with involvement in fulfilled sub-contracts
-* Group member’s share of 50% of any *Spoils* acquired during fulfillment of a sub-contract
+* Bonuses commensurate with involvement in fulfilled Contracts
+* Group member’s share of 50% of any *Spoils* acquired during fulfillment of a Contract
 
 Additionally, *Contractors* who demonstrate exceptional performance will be offered *Contract Extensions*.
