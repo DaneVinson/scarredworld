@@ -52,7 +52,9 @@ Issued equipment
   * The Contractors were fed more True Food than they'd ever seen. All Contractors but Grym partook of the food and most gained some magical enhancement in so doing.
   * The Contractors were provided individual rooms in the Spire where they stayed for the night.
 * 4/9 - Travel back to the Whipline
-  * The Contractors are treated to a good breakfast of excellent True Food (no magical effects this time) before departing Spire.
+  * The Contractors are treated to a breakfast of excellent True Food (no magical effects this time) before departing Spire
+  * In the late afternoon the Contractors encounter a group of bandits. Their leader, a Greened human, identifies himself as Jerrit Alexander and he demands some of __The Green__ the Contractors are carrying. They of course refuse and combat ensues. Despite Alexander's incredible regeneration ability and another of the bandit's Green ability (Wild Shape) the bandits are quickly defeated and Alexander uses __Fly__ to make his escape.
+  * The Contractors reach the Whipline near dusk.
 * 4/10 - No encounters, traveled 100 miles with favorable winds
 * 4/11 - No encounters, traveled 100 miles with favorable winds
 * 4/12 - No encounters, traveled 100 miles with favorable winds
