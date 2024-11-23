@@ -19,12 +19,12 @@ All *True* food costs are drastically increased from those listed in the PH. *Tr
 | Eggs                   | 1 dozen               | 2 cp              | 2 Crowns                 |
 | Fish                   | 1 lb                  | 2 cp-2 sp         | 6/60 Crowns              |
 | Flour                  | 10 lb                 | 5 cp              | 5 Crowns                 |
-| Fruit, fresh           | 1 lb                  | 6 cp-5 sp         | 12/100 Crowns            |
-| Fruit, dried/preserves | 1 lb                  | 5 cp-4 sp         | 7.5/60 Crowns            |
+| Fruit, fresh           | 1 lb                  | 6 cp-5 sp         | 12-100 Crowns            |
+| Fruit, dried/preserves | 1 lb                  | 5 cp-4 sp         | 7.5-60 Crowns            |
 | Greens                 | 1 lb                  | 5 cp              | 7.5 Crowns               |
 | Grain                  | 5 lb                  | 5 sp              | 50 Crowns                |
 | Grog                   | pint                  | 1 cp              | 2 Talons                 |
-| Herbs                  | 1 lb                  | 2 cp-1 sp         | 3/25 Crowns              |
+| Herbs                  | 1 lb                  | 2 cp-1 sp         | 3-25 Crowns              |
 | Honey                  | 1 cup                 | 5 cp              | 7.5 Crowns               |
 | Nuts, various          | 1 lb                  | 1 sp-5 sp         | 20-100 Crowns            |
 | Pork, fresh            | 1 lb                  | 8 cp              | 12 Crowns                |
@@ -34,7 +34,7 @@ All *True* food costs are drastically increased from those listed in the PH. *Tr
 | Sugar                  | 1 lb                  | 1 sp              | 15 Crowns                |
 | Tobacco, dried         | 1 lb                  | 1 sp              | 20 Crowns                |
 | Whiskey                | tumbler/bottle        | 5 cp/5 sp         | 10/100 Crowns            |
-| Wine                   | glass/bottle          | 5-10 sp/60-120 sp | 100-200/1200-2400 Crowns |
+| Wine                   | glass/bottle          | 5 sp/60 sp        | 100/1200 Crowns          |
 | Venison/large game     | 1 lb                  | 1 sp              | 20 Crowns                |
 
 ### Poof Spirits
