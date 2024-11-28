@@ -5,7 +5,7 @@
 * [Maqamir](../../markdown/company.md) pays the Contractors 3 month's salary, benefits and bonuses as agreed with each Contractor
 * Second TS4 bonus from Diamond Dome is 2311 Crowns (193/Contractor)
 
-## Objectives (6/16/736)
+## Objectives (9/16/736)
 * Return to Happy Valley and re-establish friendly relations with its inhabitants
   * Another group of Contractors was sent to Pleasant Valley in May. While there, one of the Contractors got drunk, increasingly aggressive and a fight ensued. There were fatalities, both halfling and Contractor, and the Contractors fled the valley. Only 3 of the 7 Contractors made it out of the Valley and only 2 made it back to Nexus. Maqamir questioned the survivors extensively and then they were charged with Breach of Contract. They've since been Expelled from Nexus.
   * Unbeknownst to most, Maqamir contracted with a wizard of [Magnus Arcana](../../markdown/wizards.md) to create a permanent __Teleportation Circle__ near Happy Valley in order to improve the efficiency of trade. This contract was a significant investment and was seriously jeopardized by the actions of the previous Contractor group. The process had been underway for 9 months and still had 3 more months until completion. TS4 was ordered to never divulge this information.
@@ -31,10 +31,10 @@
   * Mundane equipment from Maqamir stores as desired by the Contractors
 
 ## Contract Timeline
-* 7/18/736 - Tower Garden
+* 9/18/736 - Tower Garden
   * 8:30 PM - A Novice of Magnus Arcana met the Contractors at the gates of Tower Garden and led them to an ellipsoid tower tiled with mirrors call The Eye which housed a permanent __Teleportation Circle__.
   * 9:00 PM - The __Teleportation Circle__ near the Valley was activated and a tattooed male half-elf (the wizard Slight) passed by the Contractors as they moved through. The Contractors slept in the cave for the rest of the night while the dwarves (6) continued their work.
-* 7/19/736 - Starting at sunrise
+* 9/19/736 - Starting at sunrise
   * The Contractors left the cave and immediately spotted the halfling Jory Quicktoes who quickly disappeared into the brush.
   * As they continued towards the Valley they were attacked by an [Armanite](https://www.dndbeyond.com/avatars/thumbnails/266/330/1000/1000/636596677808633175.png) which they destroyed taking little damage.
   * Upon reaching the Valley entrance they found Sheriff Jasper Thornspeak, several halfling archers and 3 Guardians waiting. The Sheriff was prickly and clearly wanted the Contractors to leave but when they crossed the obsidian line and were not attacked by the Guardians he begrudgingly agreed to lead them to the Mayor.
@@ -54,7 +54,7 @@
   * Having no idea of the nature of the rift or how to close it the Contractors decided to travel back to the cave, wait for the wizard Slight to arrive for his nightly casting and ask for his assistance.
   * The Contractors moved back across the obsidian barrier where Dr. Orwen and Dran set out for the cave leaving the others behind with Old Bill
   * As expected Slight Teleported into the cave moments before 9:00 PM and then cast the daily __Teleportation Circle__. Afterwards, he listened to Dr. Orwen and Dran's description of the rift asking questions along the way. He agreed to help if he could on the condition that if he successfully closed the rift Maqamir would pay him 10k Crowns. Having no other options the Contractors agreed. Slight gave them a coin telling them to place it on a stone and speak his name when they reached the rift further warning them that he should NOT be summoned into a fight. Additionally, Dr. Orwen and Drann discussed the possibility of repairing the damage to the obsidian barrier with the dwarves who told them the magic was beyond them but that they could most likely patch over the damage with indigenous bedrock stone (for a fee to be arranged with Maqamir). Dr. Orwen and Drann then slept in the cave for the remainder of the night.
-* 7/20/736 - Sunrise
+* 9/20/736 - Sunrise
   * Dr. Orwen and Drann traveled back to their companions and then the Contractors left the safety of the Valley and traveled towards the rift.
   * When they reached their destination they discovered 3 more Vrocks guarding the portal. Being at full strength the Contractors quickly destroyed the newly arrived demons taking little damage themselves.
   * Following Slight's instructions his coin was placed on a stone and his name spoken. Slight appeared and immediately began examining the rift. In short order he decided he could likely close it, cast a spell and the portal shrank into non-existence within seconds. Moments later Slight bid the Contractors well and vanished.
