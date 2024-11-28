@@ -11,7 +11,7 @@
   * Unbeknownst to most, Maqamir contracted with a wizard of [Magnus Arcana](../../markdown/wizards.md) to create a permanent __Teleportation Circle__ near Happy Valley in order to improve the efficiency of trade. This contract was a significant investment and was seriously jeopardized by the actions of the previous Contractor group. The process had been underway for 9 months and still had 3 more months until completion. TS4 was ordered to never divulge this information.
   * The __Teleportation Circle__ is being created in a cave approximately a mile from the Valley. In addition to the contracted Magnus Arcana wizard (Slight) Maqamir has contracted with a group of dwarves from [Karrgerra](../../markdown/trade-partner-2.md) to inscribe the __Circle__ in silver and fortify the cave.
   * TS4 Contractors were instructed to travel to the Valley using the __Teleportation Circle__ during its daily casting and re-establish friendly relations with the Valley's inhabitants. TS4 was given 2 __+1 Shortswords__, 2 __+1 Shortbows__ and a __Ring of Protection__ to offer as gifts to the halflings to help engender good will.
-* Contract was set to begin 7/18/736 8:30 PM at Tower Garden (the compound of Magnus Arcana)
+* Contract was set to begin 9/18/736 8:30 PM at Tower Garden (the compound of Magnus Arcana)
 
 ## Preparation
 * TS4 selected active Contractors
