@@ -28,7 +28,7 @@
   * 1x scroll level 3
   * 1x Potion of Revivify
   * [Poof](../../markdown/poof.md) wafers as needed
-  * Mundane equipment from Maqamir stores as desired by the Contractors
+  * Mundane equipment from Maqamir stores as needed by the Contractors
 
 ## Contract Timeline
 * 9/18/736 - Tower Garden
