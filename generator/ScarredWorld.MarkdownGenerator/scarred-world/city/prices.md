@@ -1,5 +1,23 @@
+### Coins
+* Solars - Platinum coin
+* Crowns - Gold coin
+* Talons - Silver coin
+* Slugs - Copper coin
+
 ### Taxes
 All commerce within ^city.FullNameLink^ is assessed a 10% tax.
+
+### Common Magic Items
+* [Bracers of Defense](https://www.dndbeyond.com/magic-items/4594-bracers-of-defense) - 5000 Crowns
+* [Cloak of Protection](https://www.dndbeyond.com/magic-items/4607-cloak-of-protection) - 6000 Crowns
+* [Keightom's Ointment](https://www.dndbeyond.com/magic-items/5355-keoghtoms-ointment), full jar (5 doses) - 700 Crowns
+* Potions
+  * [Potion of Healing](https://www.dndbeyond.com/magic-items/4708-potion-of-healing) - 100 Crowns
+  * Potion of Antidote to Wasteland Sickness - 100 Crowns
+* [Ring of Protection](https://www.dndbeyond.com/magic-items/4726-ring-of-protection) - 6000 Crowns
+* Weapons/Armor
+  * +1 Weapon/Armor - Item cost +5000 Crowns
+  * +2 Weapon/Armor - Item cost +15,000 Crowns
 
 ### *True* Food and Drink
 *True* indicates a food or beverage is of natural origin.
@@ -39,21 +57,3 @@ All *True* food costs are drastically increased from those listed in the PH. *Tr
 
 ### Poof Spirits
 *Poof Spirits* is the common name for any beverage made from the distillation or fermentation of ^poof.FullNameLink^. Consumption of *Poof Spirits* produces intoxication. However, the effect is typically a muted version of that produced by alcohol (*True Sprits*). The cost of *Poof Spirit* is the same as listed in the PH for its equivalent *True* counterpart. Example: 1 gallon of Poof ale costs 2 Talons.
-
-### Common Magic Items
-* [Bracers of Defense](https://www.dndbeyond.com/magic-items/4594-bracers-of-defense) - 5000 Crowns
-* [Cloak of Protection](https://www.dndbeyond.com/magic-items/4607-cloak-of-protection) - 6000 Crowns
-* [Keightom's Ointment](https://www.dndbeyond.com/magic-items/5355-keoghtoms-ointment), full jar (5 doses) - 700 Crowns
-* Potions
-  * [Potion of Healing](https://www.dndbeyond.com/magic-items/4708-potion-of-healing) - 100 Crowns
-  * Potion of Antidote to Wasteland Sickness - 100 Crowns
-* [Ring of Protection](https://www.dndbeyond.com/magic-items/4726-ring-of-protection) - 6000 Crowns
-* Weapons/Armor
-  * +1 Weapon/Armor - Item cost +5000 Crowns
-  * +2 Weapon/Armor - Item cost +15,000 Crowns
-
-### Coins
-* Solars - Platinum coin
-* Crowns - Gold coin
-* Talons - Silver coin
-* Slugs - Copper coin
