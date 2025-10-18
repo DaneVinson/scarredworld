@@ -10,9 +10,13 @@
 ### Taxes
 All commerce within [Nexus, City of Coins](./city.md) is assessed a 10% tax.
 
-### Common Magic Items
+### Generally Available Magic Items
+* [Belt of Giant Strength](https://www.dndbeyond.com/magic-items/5372-belt-of-giant-strength)
+  * Belt of Hill Giant Strength (21) - 8000 Crowns
+  * Belt of Stone Giant Strength (23) - 20,000 Crowns
 * [Bracers of Defense](https://www.dndbeyond.com/magic-items/4594-bracers-of-defense) - 5000 Crowns
 * [Cloak of Protection](https://www.dndbeyond.com/magic-items/4607-cloak-of-protection) - 6000 Crowns
+* [Green](../../../../markdown/green.md), one dose - 10,000 Crowns
 * [Keightom's Ointment](https://www.dndbeyond.com/magic-items/5355-keoghtoms-ointment), full jar (5 doses) - 700 Crowns
 * Potions
   * [Potion of Healing](https://www.dndbeyond.com/magic-items/4708-potion-of-healing) - 100 Crowns
@@ -21,6 +25,8 @@ All commerce within [Nexus, City of Coins](./city.md) is assessed a 10% tax.
 * Weapons/Armor
   * +1 Weapon/Armor - Item cost +5000 Crowns
   * +2 Weapon/Armor - Item cost +15,000 Crowns
+* [Wand of Magic Missiles](https://www.dndbeyond.com/magic-items/4794-wand-of-magic-missiles) - 8000 Crowns
+* [Wand of Fireballs](https://www.dndbeyond.com/magic-items/4791-wand-of-fireballs)/[Wand of Lighting Bolts](https://www.dndbeyond.com/magic-items/4792-wand-of-lightning-bolts) - 25,000
 
 ### *True* Food and Drink
 *True* indicates a food or beverage is of natural origin.
