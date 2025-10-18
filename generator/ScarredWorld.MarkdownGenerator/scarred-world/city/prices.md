@@ -13,7 +13,7 @@ All commerce within ^city.FullNameLink^ is assessed a 10% tax.
   * Belt of Stone Giant Strength (23) - 20,000 Crowns
 * [Bracers of Defense](https://www.dndbeyond.com/magic-items/4594-bracers-of-defense) - 5000 Crowns
 * [Cloak of Protection](https://www.dndbeyond.com/magic-items/4607-cloak-of-protection) - 6000 Crowns
-* [Green](../trade-partner-1/green.md), one dose - 10,000 Crowns
+* [Green](./green.md), one dose - 10,000 Crowns
 * [Keightom's Ointment](https://www.dndbeyond.com/magic-items/5355-keoghtoms-ointment), full jar (5 doses) - 700 Crowns
 * Potions
   * [Potion of Healing](https://www.dndbeyond.com/magic-items/4708-potion-of-healing) - 100 Crowns
