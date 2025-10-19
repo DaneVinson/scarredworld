@@ -14,13 +14,24 @@ All commerce within [Nexus, City of Coins](./city.md) is assessed a 10% tax.
 * [Belt of Giant Strength](https://www.dndbeyond.com/magic-items/5372-belt-of-giant-strength)
   * Belt of Hill Giant Strength (21) - 8000 Crowns
   * Belt of Stone Giant Strength (23) - 20,000 Crowns
+* [Boots of Elvenkind](https://www.dndbeyond.com/magic-items/4587-boots-of-elvenkind) - 4000 Crowns
 * [Bracers of Defense](https://www.dndbeyond.com/magic-items/4594-bracers-of-defense) - 5000 Crowns
+* [Cload of Elvenkind](https://www.dndbeyond.com/magic-items/4606-cloak-of-elvenkind) - 4000 Crowns
 * [Cloak of Protection](https://www.dndbeyond.com/magic-items/4607-cloak-of-protection) - 6000 Crowns
 * [Green](./green.md), one dose - 10,000 Crowns
-* [Keightom's Ointment](https://www.dndbeyond.com/magic-items/5355-keoghtoms-ointment), full jar (5 doses) - 700 Crowns
+* [Headband of Intellect](https://www.dndbeyond.com/magic-items/4652-headband-of-intellect) - 7000 Crowns
+* [Instrument of the Bards](https://www.dndbeyond.com/magic-items/5508-instrument-of-the-bards)
+  * Anstruth Harp - 10,000 Crowns
+  * Canaith Mandolin - 7000 Crowns
+  * Cli Lyre - 10,000 Crowns
+  * Doss Lute - 6000 Crowns
+  * Fochlucan Bandore - 6000 Crowns
+  * Mac-Fuirmidh Cittern - 7000 Crowns
+* [Keoghtom's Ointment](https://www.dndbeyond.com/magic-items/5355-keoghtoms-ointment), full jar (5 doses) - 700 Crowns
 * Potions
   * [Potion of Healing](https://www.dndbeyond.com/magic-items/4708-potion-of-healing) - 100 Crowns
   * Potion of Antidote to Wasteland Sickness - 100 Crowns
+* [Ring of Evasion](https://www.dndbeyond.com/magic-items/4720-ring-of-evasion) - 8000 Crowns
 * [Ring of Protection](https://www.dndbeyond.com/magic-items/4726-ring-of-protection) - 6000 Crowns
 * Weapons/Armor
   * +1 Weapon/Armor - Item cost +5000 Crowns
