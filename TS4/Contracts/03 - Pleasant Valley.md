@@ -10,7 +10,7 @@ TS4 was to investigate the valley, make friendly contact with its inhabitants, b
 ## Preparation (8/20/735)
 TS4 selected active contractors
 * Sylcros Tattersoul (Dan)
-* Tograin the Survivor (Mike)
+* Togrian the Survivor (Mike)
 * Renard Finnegani (Todd)
 * Dr. Orwen (Drew)
 * Halflong (Andy)
@@ -45,9 +45,9 @@ The magical coin provided by Farstep showed the location of it's twin at the bas
 * 8/25: Travel/Rest: Uneventful
 * 8/26
   * Travel: One mule died of Wasteland Sickness in the early morning and a second just after mid-day.
-  * Rest: During the second watch the contractors were attacked with arrows. The attack ended once all contractors were awake and alerted. Tograin identified the arrows as Kobold made.
+  * Rest: During the second watch the contractors were attacked with arrows. The attack ended once all contractors were awake and alerted. Togrian identified the arrows as Kobold made.
 * 8/27
-  * Travel: Mid-day Tograin spotted a small cave along the direction the contractors were traveling. Investigation revealed the cave opened into a larger area which was home to two Giant Scorpions. The beasts were destroyed with no additional poisonings. Spoils recovered: __Ring of Evasion__, 25 pp (not Solars), 1 ruby (250 Crowns), 2x opals (100 Crowns each).
+  * Travel: Mid-day Togrian spotted a small cave along the direction the contractors were traveling. Investigation revealed the cave opened into a larger area which was home to two Giant Scorpions. The beasts were destroyed with no additional poisonings. Spoils recovered: __Ring of Evasion__, 25 pp (not Solars), 1 ruby (250 Crowns), 2x opals (100 Crowns each).
   * Rest: Uneventful
 * 8/28
   * Travel: Near the end of the day TS4 located Farstep's magical coin but after moving 1000 yards east of its location there was no sign of the described valley. After an hour searching Dr. Orwen's keen perception noted an odd looking game trail. He followed it a few steps and found it opened suddenly into a large valley. As described by Farstep the valley did indeed contain rows of manicured grapevines. On entry the contractors noticed a thin line of obsidian embedded in the ground running in both directions as far as the contractors followed it. Additionally, a 12' tall plain featured statue stood just across the obsidian line. Upon crossing each contractor had the distinct feeling that the statue was watching them. They also noted that the air, soil and vegetation were all markedly healthier and more vibrant on the valley side of the line. Dr. Orwen quickly noticed the group was being watched by a small halfling (later identified as Jory Quicktoes) standing in the grapes a couple hundred yards away. Upon being noticed he disappeared into the vines at an amazing pace. The contractors begin moving into the valley which they discovered was filled with agriculture of almost every known type. Within a short time they were met by a weathered, gruff halfling who identified himself as Sheriff Jasper Thornspeak. The Sheriff invited the contractors to leave the valley but when they declined his invitation he reluctantly lead them to a plaza at the center of the valley. There they met with members of the Valley Council including the Mayor (Big Bee), the Sheriff and Sas Buttercup the head of the farmers co-op. The contractors were made welcome and invited to stay at least a day.

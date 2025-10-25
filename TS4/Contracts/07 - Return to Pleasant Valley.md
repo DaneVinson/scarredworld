@@ -20,7 +20,7 @@
   * Sylcros (Dan)
   * Dr. Orwen (Drew)
   * Dran (Collin)
-  * Tograin (Mike)
+  * Togrian (Mike)
 * Issued equipment
   * 2x Potion of Antidote to Wasteland Sickness
   * 2x scroll level 1
@@ -43,7 +43,7 @@
   * Waiting at the plaza was Sas Buttercup and a group of halfling warriors. Mayor Big Bee had been killed in the conflict with the previous Contractor group and Sas was promoted to Mayor. She was openly hostile toward the Contractors.
   * On the verge of telling the Contractors to leave the Valley the halfling wizard Old Bill made an appearance telling her he could use the Contractors help with an issue that was beyond him. She begrudgingly agreed that if the Contractors aided Old Bill as he instructed, continued trade with Maqamir would be considered.
   * Old Bill lead the Contractors to the far eastern edge of the Valley where they discovered a group of [Manes](https://www.dndbeyond.com/avatars/thumbnails/30781/625/1000/1000/638061931777676406.png) at the far edge of the obsidian line furiously scraping away as a small crack in the obsidian. Old Bill said these demons has shown up a couple months ago and were very slowly damaging the barrier protecting the Valley. He initially took to destroying them but more always returned. He traveled down the path on the far side of the obsidian line to investigate but encountered greater demons and was forced to turn back. He had told no one of this and was greatly concerned for the safety of the Valley. He was sure that if the Contractors helped him deal with this threat Sas could be persuaded to look favorably on them again.
-  * Sylcros spent several minutes destroying the Manes with his Psychic Blades and then he, Tograin and Halflong moved stealthily down the trail scouting ahead and leaving the others with Old Bill on the Valley side of the barrier. A few hundred yards down the trail, around the side of a small hill, they spotted several [Vrock](https://www.dndbeyond.com/avatars/thumbnails/30781/648/1000/1000/638061932392542985.png) and decided to retreat out of site so Sylcros could use his __Physic Wisper__ to call for the rest of the Contractors.
+  * Sylcros spent several minutes destroying the Manes with his Psychic Blades and then he, Togrian and Halflong moved stealthily down the trail scouting ahead and leaving the others with Old Bill on the Valley side of the barrier. A few hundred yards down the trail, around the side of a small hill, they spotted several [Vrock](https://www.dndbeyond.com/avatars/thumbnails/30781/648/1000/1000/638061932392542985.png) and decided to retreat out of site so Sylcros could use his __Physic Wisper__ to call for the rest of the Contractors.
   * As Renard, Dr. Orwen and Drann moved towards the scouting group they were attacked by 3 [Babau](https://www.dndbeyond.com/avatars/thumbnails/25746/153/1000/1000/637880557159096680.jpeg) hiding along the trail. As the fight ensued one Babau used __Heat Metal__ on Renard's chain mail, another cast __Darkness__ and the final attacked with its Weakening Gaze. The scouting group, alerted to the ambush, move to aid their companions. The engaged Contractors suffered significant damage before the rest of the group arrived but then the Babau were quickly eliminated.
   * No sooner had the Babau been destroyed than the Vrock joined the fight flying in from the rear attacking with Poison Spores, Stunning Screeches and beaks and talons.
   * During the fight Halflong managed to defeat a Vrock on his own.

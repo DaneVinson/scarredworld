@@ -19,7 +19,7 @@
 ## Preparation (2/4/736)
 TS4 selected active Contractors
 * Worley Finnegani (Todd)
-* Tograin the Survivor (Mike)
+* Togrian the Survivor (Mike)
 * Sylcros Tattersoul (Dan)
 * Tycho Phandrel (Drew)
 * Tall Paul Thunderhill (Collin)
