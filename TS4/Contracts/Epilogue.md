@@ -1,0 +1,5 @@
+# Epilogue
+TS4 members initial Contracts with Maqamir ended on 5/1/737. Some members continued on with Maqamir and others left to pursue their own interests. As the years passed (and with the help of Worley Finnegani's tale telling) some of their exploits became almost legendary giving members some degree of fame throughout Nexus. Following is that which is commonly known of the members after their time in TS4.
+
+## Tycho Phandrel (Drew)
+At the end of the Contract Maqamir offered Tycho an appointment as Master of Arcane Research and Tycho accepted ending his adventuring days forever. He purchased TS4's __Astromancy Archive__ and Maqamir provided him with the remains of the Fallen Star which he continued to study in the hopes of one day using it to create a divination relic called the __Guiding Star__. Eventually his role in locating the Fallen Star became public knowledge and Tycho became revered within the divination circles of Magnus Arcana.
