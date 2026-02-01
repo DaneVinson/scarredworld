@@ -21,6 +21,18 @@
     * 2x [Carpet of Flying](https://www.dndbeyond.com/magic-items/4860-carpet-of-flying-5-ft-x-7-ft) 5' x 7', 600/1200 lbs capacity, fly 40' (32 miles / 8 hours normal travel 41 fast)
     * 2x [Bag of Holding](https://www.dndbeyond.com/magic-items/4581-bag-of-holding)
     * 1x scroll of TS4's choice (any level that can be cast)
+* 3/6 - Start at dawn, attacked by Hezero at the 8 hour rest point, fly 48 miles, long rest without incident
+* 3/7 - Start at dawn, fly 48 miles, long rest without incident
+* 3/8 - Start at dawn, fly 48 miles, sighted a Wyvern, Peryton attack (which Tall Paul crushes with Spirit Guardian), rest without incident
+* 3/9 - Attacked at dawn by Red Hand, flying an hour later, Blue Dragon flying away from the Wastelands, enter Wastelands mid-morning, fly 48 miles, rest brings Jarren the Hail (Wraith)
+* 3/10 - Temple valley - Erinyes x2, Imps, rest in cave found by Sir Jarren the Hail, Teleportation Circle, Dr. Orwen attunes Fallen Star
+* 3/11 - Temple entrance, devils
+* Temple antechamber, Warlock, devils
+* Temple great-room, Niloth, Warlock (Grym's father), 2x Erinyes, Spined, Spiked
+  * Dr. Orwen's run to destroy the Niloth, all grapples from the Niloth fail, takes a Wall of Fire then walks through it the next round to kill the Niloth, Warlock disappears
+* Sonic damage, all flee, all the weaker devils die
+* Pit Fiend in the antechamber, Grym is levitated by Akuul and is dropped but he deals the Pit Fiend grievous wounds
+* Fly back to Nexus
 
 ## Spoils Ledger
 * 3x +1 Longsword
@@ -29,6 +41,6 @@
 * Longbow of Sharpshooting
 
 ## TS4 Compensation
-* 20,00 Crowns per Contractor (less the previously advanced 8000)
+* 20,000 Crowns per Contractor (less the previously advanced 8000)
 * Ring of Spell Storing
 * Longbow of Sharpshooting
