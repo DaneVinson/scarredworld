@@ -1,4 +1,4 @@
-# Contract 10 - Niloth (Success?)
+# Contract 10 - Niloth (Success)
 
 ## Pre-Contract (12/23/736 - 3/5/737)
 * Contract 9 was completed 12/22/736
@@ -39,13 +39,13 @@
   * While breaking camp the Contractors are attacked by a group of the Red Hand made up of a mage, a priest, a half-dragon warrior, three human warriors and an archer who used a __Longbow of Sharpshooting__ to attack from a great distance. After a pitched battle the Red Hand party was killed to a man.
   * At mid-day the Contractors were passed closely by a Blue Dragon flying away from the Wastelands. It seemed to observed them closely but did not attack.
   * Forty-eight miles was covered in twelve hours of travel. The Contractors made camp on the edge of the Southern Wastland.
-  * During the night's rest the Contractors encountered a Wraith.
-    * The Wraith was recognized as Sir Jarren the Hail, one of the Paladins of the Radiant Arms who set out to deal with the Pit Fiend over a year before.
+  * During the night's rest the Contractors encountered Wraith.
+    * The Wraith was not hostile and was recognized as Sir Jarren the Hail, one of the Paladins of the Radiant Arms who set out to deal with the Pit Fiend over a year before.
     * It remembered little of its former life or its "once home" (Nexus) but recognized the Contractors as its citizens and seemed to know they sought to destroy the Niloth. He offered to lead them to its lair.
 * 3/10 - Started at dawn with a slower pace as Sir Jarren would not ride on a __Carpet__. He led the way from the ground with the Contractors following overhead.
   * Entered the Southern Wastelands after an hour of travel.
-  * After the change of pilots at the eight hour mark the Contractors spotted an Imp. Shortly after they were attacked by two Erinyes devils that were destroyed after a draining battle. Of the Imp nothing more was seen.
-  * After traveling into the late afternoon Sir Jarren announced that the Niloths layer was just over a mile away. The Contractors decided to use the __Teleportation Circle__ to bring the __Fallen Star__ and the attack group.
+  * After the change of pilots at the eight hour mark the Contractors spotted an Imp. Shortly after they were attacked by two Erinyes devils that were destroyed after a draining battle. The Imp was not seen again.
+  * After traveling into the late afternoon Sir Jarren announced that the Niloth's layer was just over a mile away. The Contractors decided to use the __Teleportation Circle__ to bring the __Fallen Star__ and the attack group.
   * Contractor attack group
     * Dr. Orwen
     * Grym
@@ -54,13 +54,14 @@
     * Akuul
     * Tall Paul Thunderhill
   * The Contractors rest without incident and Dr. Orwen attunes to the __Fallen Star__.
-* 3/11 - The Contractors break camp at noon and proceed on foot. Sir Jarren leads them to the ruined entrance of a pre-Scarring temple which they find guarded by two Barbed Devils and six Spined Devils. Sir Jarren's Wraith tells them he can go no further or he will be taken over and used as a pawn of the powers within. The Contractors engage and defeat the Devils with the help of a timely __Prismatic Orb__ spell cast by Akuul.
-* Temple antechamber, Warlock, devils
-* Temple great-room, Niloth, Warlock (Grym's father), 2x Erinyes, Spined, Spiked
-  * Dr. Orwen's run to destroy the Niloth, all grapples from the Niloth fail, takes a Wall of Fire then walks through it the next round to kill the Niloth, Warlock disappears
-* Sonic damage, all flee, all the weaker devils die
-* Pit Fiend in the antechamber, Grym is levitated by Akuul and is dropped but he deals the Pit Fiend grievous wounds
-* Fly back to Nexus
+* 3/11 - The Contractors break camp at noon and proceed on foot.
+  * Sir Jarren's Wraith leads them to the ruined entrance of a pre-Scarring temple where he tells them he can go no further or he will be taken over and used as a pawn of the powers within.
+  * As the Contractors move up the ramp to the temple entrance they encounter two Barbed Devils and six Spined Devils which they engage and defeat with the help of a timely __Prismatic Orb__ spell cast by Akuul.
+  * The entrance leads into a short tunnel which open to an antechamber where the Contractors are faced with six more Spined Devils. As they are fighting these a Warlock makes his way into the area from the main temple floor below. The Devils use their spines to some small effect and the Warlock attempts to cast a spell which fails to have effect as the Contractors roll over the group quickly.
+  * At the end of the antechamber a large gate opens to the main temple a great room four-hundred feet long, two-hundred feet wide and a hundred feet tall. The temple holds a mixture of Spined and Barbed Devils, two more Erinyes and a Tiefling Warlock (Grym's father) standing at the far end above a large basin which holds the void black form of the Niloth. With the enhancement of the __Fallen Start__, several magical buffs and his own innate abilities Dr. Orwen sprints the length of the room at an unnatural speed coving the distance in a matter of seconds. The Devils attempt to intercept him but are held in check by the __Fallen Star__'s power. The Niloth attempts to grab Dr. Orwen with several tentacle-like extensions but he easily evades them. As he nears the Niloth the Warlock encircles him with a __Wall of Fire__ but Dr. Orwen runs right through it suffering no damage. He moves to the Niloth and touches it with the __Fallen Star__. The artifact is immediately ripped from his hand and sinks into the foul entity. A unimaginable sounds fills the room causing all to start taking sonic damage. The Warlock vanishes and the Contractors and Devils forget all else and make for the exit to get away from the unbearable sounds of the dying Niloth. Only the Contractors and the two Erinyes make it to the safety of the antechamber alive.
+  * As the Contractors begin to engage the remaining Erinyes a loud roar alerts them to a Pit Fiend entering from behind. A pitched battle ensues with the Pit Fiend Flying above the group tossing __Fire Balls__ at them from one side and the Erinyes firing arrows with deadly precision from the other. The Pit Fiend comes closer and Akuul seizes an opportunity to use __Levitation__ on Grym lifting him into hand-to-hand combat with the Fiend. Grym strikes the creature three mighty blows with his glaive, each backed with __Divine Smite__s and almost kills it. With a final roar the Pit Fiend lays Grym low before the Contractors finish it followed shortly by the Erinyes.
+  * By the end of the battle the Niloth had been completely destroyed and the Contractors returned to examine the chamber. In the basis that held the Niloth they found a small amount of black sand which sparkled with the same green seen in the __Fallen Star__. This they collected. They rested in the antechamber.
+* 3/12 to 3/15 - The Contractors fly back to Nexus. The trip is largely uneventful. They arrive at Maqamir headquarters just before sunset on 3/15 and are debriefed by Master Assessor.   
 
 ## Spoils Ledger
 * 3x __+1 Longsword__
