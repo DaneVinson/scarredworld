@@ -2,7 +2,7 @@
 TS4 members initial Contracts with Maqamir ended on 5/1/737. Some continued on with Maqamir and others left to pursue their own interests. As the years passed (and with the help of Worley Finnegani's tale telling) their exploits gained notoriety giving members some degree of fame throughout Nexus. The following is commonly known of the Contractors after their time in TS4.
 
 ## Akuul (Mike)
-Akuul was not offered a Contract extension with Maqamir but he was named Shield Master of the organization Dead Shield. He moved to Grave Needle in the Tower Garden of Magnus Arcana and stayed there for some years. Little else is known of him.
+Akuul was not offered a Contract extension with Maqamir but he was named Shield Master of the organization Dead Shield. He moved to the tower Grave Needle in the Tower Garden of Magnus Arcana and stayed there for some years. Little else is known of him.
 
 ## Berrywinkle MacGruder (Andy)
 Berrywinkle was not offered a Contract extension. After leaving Maqamir he found employment with the Adjudicators working as a medical examiner. Nothing further is noted of him.
@@ -20,8 +20,10 @@ In accordance with a previous Contract extension Grym's service with Maqamir con
 After stepping into the abyss in Contract 7 Halflong was a changed halfling. He developed an intense fascination with the idea traveling to other planes. He often spoke of these desires with other TS4 members (several of whom tried to dissuade him of this interest). When Halfong was not offered a Contract extension he focused on his fascination with vigor. He was last seen by Worley just months after the Contract ended. Worley reported him as exuberant and excited about the near future. Nothing more is know of him.
 
 ## Renard Finnegani (Todd)
+Renard was not offered a Contract extension. After leaving Maqamir he focused on his career as a prize fighter taking on a manager name Sylus Lankin who had known ties to the Red Hand. Renard was a very successful and popular fighter for many years before age started to catch up with him. He continued fighting even as he grew older and losses mounted taking a huge toll on him both physically and mentally. He died as 63 physically broken, mentally dull (even for Renard) and poor.
 
 ## Sylcros Tattersoul (Dan)
+At the end of the Contract Sylcros was offered an extension but declined it. Master Assessor arranged for him to keep his lodgings in the basement of Maqamir's dormitory building where he appeared to have remained for the rest of his days. Sylcros was always reclusive in nature and very little is know of his exploits after the end of TS4.
 
 ## Tall Paul Thunderhill (Collin)
 At the end of his Contract Tall Paul was not offered an extension. A few months later he led a group of halflings on a quest to reach Pleasant Valley where they intended to make a new home. Many died on the way but Tall Paul was not among them. Over the years reports reached Nexus that he was thriving in his new life and that ultimately he was named Warden Thunderhill, Protector of the Valley.
@@ -33,3 +35,4 @@ In the year before the end of his Contract Togrian had been working to establish
 At the end of the Contract Maqamir offered Tycho an appointment as Master of Arcane Research and Tycho accepted ending his adventuring days forever. He purchased TS4's __Astromancy Archive__ and Maqamir provided him with the remains of the Fallen Star which he continued to study in the hopes of one day using it to create a divination relic called the __Guiding Star__. Eventually his role in locating the Fallen Star became public knowledge and Tycho became revered within the divination circles of Magnus Arcana.
 
 ## Worley Finnegani (Todd)
+At the end of the Contract Maqamir offered Worley a free-lance position with a wide variety of tasks. He spent most of the rest of his life developing social ties with some of Nexus' most prominent citizens while simultaneously growing his own reputation as a bard of the highest caliber. He became renown for his tales of TS4 and was instrumental in the subsequent fame the group achieved. Worley died at 85, well respected and having lived a comfortable life.
