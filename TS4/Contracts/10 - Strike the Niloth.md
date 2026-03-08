@@ -1,4 +1,4 @@
-# Contract 10 - Niloth (Success)
+# Contract 10 - Strike the Niloth (Success)
 
 ## Pre-Contract (12/23/736 - 3/5/737)
 * Contract 9 was completed 12/22/736
